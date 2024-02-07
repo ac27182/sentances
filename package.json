@@ -1,0 +1,22 @@
+{
+  "name": "sentances",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac27182/sentances.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac27182/sentances/issues"
+  },
+  "homepage": "https://github.com/ac27182/sentances#readme",
+  "dependencies": {
+    "googleapis": "^132.0.0"
+  }
+}
