@@ -10,14 +10,15 @@ const client = google.sheets(options)
 const RANGE = "A:C"
 
 /**
- * @param {string} name
- * @param {string} spreadsheetId
+ * @param {Object} task
+ * @param {string} task.name
+ * @param {string} task.sheet_id
 */
-export const csv_dump = (name,spreadsheetId) =>
+export const csv_dump = ({ name,sheet_id }) =>
   client
     .spreadsheets
     .values
-    .get({ spreadsheetId,range: RANGE })
+    .get({ spreadsheetId: sheet_id,range: RANGE })
     .then(response => response.data.values)
     .then(rows => rows.map(row => row.join(",")).join("\n"))
     .then(csv => writeFileSync(`data/csv_raw/${name}.csv`,csv))
