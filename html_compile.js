@@ -1,6 +1,4 @@
-const { writeFileSync,readFileSync } = require("fs")
-
-// https://csvjson.com/csv2json
+import { readFileSync,writeFileSync } from "fs"
 
 /**
  * @param {string} kanji 
@@ -38,15 +36,15 @@ const makePage = (words) => `
 </html>
 `
 
-// compile tasks
-//
-
-const tasks = ["misc","grade_10"]
-
-tasks
-  .forEach(task => {
-    const wordsRaw = readFileSync(`compiled/${task}.json`,"utf-8")
-    const words = JSON.parse(wordsRaw)
-    const page = makePage(words)
-    writeFileSync(`./compiled/${task}.html`,page)
-  })
+/**
+ * @param {string} name
+ */
+export const html_compile = (name) =>
+  writeFileSync(
+    `compiled/${name}.html`,
+    makePage(
+      JSON.parse(
+        readFileSync(`data/json_compiled/${name}.json`,"utf8")
+      )
+    )
+  )
