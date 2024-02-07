@@ -10,6 +10,7 @@ const client = google.sheets(options)
 const RANGE = "A:C"
 
 /**
+ * @param {string} name
  * @param {string} spreadsheetId
 */
 export const csv_dump = (name,spreadsheetId) =>

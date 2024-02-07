@@ -11,3 +11,10 @@ compile:
 	node execute_compile.js
 
 static-site: download compile
+
+commit:
+	git add compiled
+	git commit -m 'compilation_update'
+	git push
+
+push: static-site commit
