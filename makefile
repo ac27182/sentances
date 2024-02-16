@@ -17,4 +17,4 @@ commit:
 
 static-site: download compile
 
-push: static-site commit
+push: clean static-site commit
