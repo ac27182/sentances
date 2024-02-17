@@ -5,15 +5,29 @@ import { readFileSync,writeFileSync } from "fs"
  * @param {string} hiragana 
  * @param {number} index 
  */
-const makeColumn = (kanji,hiragana,index) =>
-  `<div>
-    <a href="#${index}">
-      <span>${kanji}</span>
-    </a>
-    <a href="https://jisho.org/search/${kanji}">
-      <span class="hiragana">・${hiragana}</span>
-    </a>
-  </div>`
+const makeColumn = (kanji,hiragana,index) =>{
+
+  if (hiragana === undefined) {
+    return (
+      `<div>
+        <a href="https://jisho.org/search/${kanji}">
+          <span>${kanji}</span>
+        </a>
+      </div>`
+    )
+  } else {
+    return (
+      `<div>
+        <a href="#${index}">
+          <span>${kanji}</span>
+        </a>
+        <a href="https://jisho.org/search/${kanji}">
+          <span class="hiragana">・${hiragana}</span>
+        </a>
+      </div>`
+  )
+  }
+}
 
 /**
  * @param {[string, string][]} elements 

@@ -7,7 +7,7 @@ clean:
 download:
 	node execute_csv_dump.js
 
-compile:
+compile: 
 	node execute_compile.js
 
 commit:
