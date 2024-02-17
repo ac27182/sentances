@@ -7,18 +7,34 @@ const options = { version: "v4",auth: apiKey }
 
 const client = google.sheets(options)
 
-const RANGE = "A:C"
+/**
+ * @param {"WORDS" | "SENTANCES"} type
+ */
+const makeRange = (type) => {
+  switch (type) {
+    case 'WORDS':     
+      return "words!A:C"
+    case 'SENTANCES': 
+      return "sentances!A:C"
+  }
+}
 
 /**
  * @param {Object} task
  * @param {string} task.name
  * @param {string} task.sheet_id
-*/
-export const csv_dump = ({ name,sheet_id }) =>
+ * @param {"WORDS" | "SENTANCES"} task.type
+ */
+export const csv_dump = ({ name,sheet_id,type }) => {
+
+  const range = makeRange(type)
+
   client
     .spreadsheets
     .values
-    .get({ spreadsheetId: sheet_id,range: RANGE })
+    .get({ spreadsheetId: sheet_id,range })
     .then(response => response.data.values)
     .then(rows => rows.map(row => row.join(",")).join("\n"))
     .then(csv => writeFileSync(`data/csv_raw/${name}.csv`,csv))
+  
+  }
