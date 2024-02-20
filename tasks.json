@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "misc_words",
     "sheet_id": "1gSJI11fhUsm2HYBi4yS9UoybuL4Y9ZiJZOjnqL7njJ8",
     "type": "WORDS"
@@ -16,6 +17,16 @@
   {
     "name": "grade_9_sentances",
     "sheet_id": "1r7RWhvuPqcaTVEiU-QVGx4zrX2o-EGhlsKgQUaHlnyY",
+    "type": "SENTANCES"
+  },
+  {
+    "name": "italki_words",
+    "sheet_id": "1HHLl40dq-UgOufBoLn-piTDO4YxSw5JJQ-9of8d-6yQ",
+    "type": "WORDS"
+  },
+  {
+    "name": "italki_sentances",
+    "sheet_id": "1HHLl40dq-UgOufBoLn-piTDO4YxSw5JJQ-9of8d-6yQ",
     "type": "SENTANCES"
   }
 ]
