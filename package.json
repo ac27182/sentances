@@ -2,10 +2,11 @@
   "name": "sentances",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
+  "type": "commonjs",
   "main": "generator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest -- modules/index.spec.ts",
+    "execute:index": "ts-node --esm modules/index.ts"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/ac27182/sentances#readme",
   "dependencies": {
-    "googleapis": "^132.0.0"
+    "googleapis": "^132.0.0",
+    "ts-node": "^10.9.2",
+    "vitest": "^1.3.1"
   }
 }
