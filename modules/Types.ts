@@ -40,8 +40,8 @@ export enum Grade {
   _07 = "7",
   _06 = "6",
   _05 = "5",
-  _04 = "3",
-  _03 = "2",
+  _04 = "4",
+  _03 = "3",
   _PRE_02 = "2.5",
   _02 = "2",
   _PRE_01 = "1.5",
@@ -55,17 +55,14 @@ export type CorpusRow = {
   tags: Array<Grade>
 }
 
-export type CorpusTask = {
-  grade: Grade,
-  groups: Array<Grade>
-}
+export type CorpusTask = KenteiTask
+
+export type KenteiTask = { grade: Grade }
 
 export type DeckSet = {
-  nouns: Array<AnkiCard>
-}
-
-export const emptyDeckSet = (): DeckSet => {
-  return {
-    nouns: new Array<AnkiCard>()
-  }
+  grade: Grade,
+  nouns: Array<AnkiCard>,
+  adjectives: Array<AnkiCard>,
+  verbs: Array<AnkiCard>,
+  adverbs: Array<AnkiCard>,
 }
