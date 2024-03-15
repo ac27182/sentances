@@ -9,8 +9,13 @@ const HIRAG_UPPER_BOUND = 0x309F
 
 export const charFilter = (char: string, lowerBound: number, upperBound: number): boolean => {
   const hex = char.codePointAt(0)
-  const predicate = hex >= lowerBound && hex <= upperBound
-  return predicate
+
+  if (hex === undefined) {
+    return false
+  } else {
+    return (hex >= lowerBound) && (hex <= upperBound)
+  }
+
 }
 
 export const isKanji = (char: string): boolean =>

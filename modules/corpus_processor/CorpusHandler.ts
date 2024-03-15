@@ -27,7 +27,16 @@ export class CorpusHandler {
 
         const valid = chars.some(char => isKatakana(char) || isKanji(char) || isHiragana(char) || (lookupTable.get(char) !== Grade._PRE_01 || lookupTable.get(char) !== Grade._PRE_02))
 
-        const tags: Array<Grade> = chars.filter(isKanji).map(kanji => lookupTable.get(kanji))
+        const tags: Array<Grade> = chars.filter(isKanji).reduce((acc, kanji) => {
+
+          const result = lookupTable.get(kanji)
+
+          if (result === undefined) {
+            return acc
+          } else {
+            return [...acc, result]
+          }
+        }, new Array<Grade>())
 
         if (checked !== undefined && valid) {
 

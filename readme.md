@@ -11,3 +11,8 @@
 - [kanji kentei wikipedia](https://en.wikipedia.org/wiki/Kanji_Kentei)
 - [kanji kentei advice](https://roshiajin.jp/kankenlevel1/)
 - [basic words for speach](https://en.wiktionary.org/wiki/Appendix:1000_Japanese_basic_words)
+
+# TODO
+
+- unify tskuba corpus work with custom kanji kentei work by having them all in typescript.
+- remove "one" character nouns from the tskuba corpus.
