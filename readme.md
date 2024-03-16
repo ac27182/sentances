@@ -16,3 +16,5 @@
 
 - unify tskuba corpus work with custom kanji kentei work by having them all in typescript.
 - remove "one" character nouns from the tskuba corpus.
+
+https://en.wikipedia.org/wiki/Japanese_writing_system
