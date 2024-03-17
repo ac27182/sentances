@@ -1,9 +1,5 @@
 export const tasks: Array<{ name: string, sheet_id: string }> = [
   {
-    "name": "misc_words",
-    "sheet_id": "1gSJI11fhUsm2HYBi4yS9UoybuL4Y9ZiJZOjnqL7njJ8"
-  },
-  {
     "name": "grade_10_words",
     "sheet_id": "151GdctGN-bvjEFbDTThqzNtuW4uaFnnDAEAuM7XFODs"
   },

@@ -2,13 +2,15 @@
   "name": "sentances",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
+  "type": "commonjs",
   "main": "generator.js",
   "scripts": {
     "test": "vitest -- modules/index.spec.ts",
     "execute:index": "ts-node --esm modules/index.ts",
     "execute:processor:aozora": "ts-node --esm modules/aozora_processor/processor.ts",
-    "execute_csv_dump": "ts-node --esm modules/compiler/execute_csv_dump.js"
+    "execute_csv_dump": "ts-node --esm modules/compiler/execute_csv_dump.ts",
+    "execute_anki_compile": "ts-node --esm modules/compiler/execute_anki_compile.ts",
+    "execute_html_compile": "ts-node --esm modules/compiler/execute_html_compile.ts"
   },
   "repository": {
     "type": "git",

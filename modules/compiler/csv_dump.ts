@@ -1,7 +1,7 @@
 import { writeFileSync, readFileSync } from 'fs'
 import { google, sheets_v4 } from 'googleapis'
 
-const apiKey = readFileSync("external/key.txt", 'utf-8')
+const apiKey = readFileSync("./external/key.txt", 'utf-8')
 
 const options: sheets_v4.Options = { version: "v4", auth: apiKey }
 

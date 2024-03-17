@@ -2,43 +2,35 @@
   margin: 0;
   padding: 0;
 
-  writing-mode: vertical-rl;
+
   text-decoration: none;
   color: black;
 }
 
-.container {
-  height: 100%;
-  font-size: 50px;
+.container {}
+
+.list {
   display: grid;
-  grid-template-rows: repeat(1, auto)
+  grid-template-columns: 1fr 1fr;
 }
 
-div {
-  border: black 0.5px solid;
+.list-item {
+
+  border-color: black;
+
+  border-style: solid;
+
+  border-width: 0.1px;
 }
 
-/* .container>:nth-child(2n +1) {
-  background-color: #c8feee;
-} */
+/* .list>div:hover {} */
 
-/* 
-.container>:nth-child(2n) {
-  background-color: #c8f9fe;
-} 
-*/
+.list>div:hover {
 
-
-.hiragana {
-  opacity: 0;
-}
-
-.container>div:hover .hiragana {
-  display: inline;
-  opacity: 1;
-  transition: 1s;
-}
-
-.container>div:hover {
   background-color: #FEC8D8;
+}
+
+.master-container {
+  padding-left: 40vh;
+  padding-right: 40vh;
 }

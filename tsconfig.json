@@ -16,6 +16,6 @@
     "modules/kanken_lookup/*",
     "modules/aozora_processor",
     "modules/jis_decoder",
-    "modules/compiler",
+    "modules/compiler/*",
   ],
 }
