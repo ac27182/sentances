@@ -2,12 +2,13 @@
   "name": "sentances",
   "version": "1.0.0",
   "description": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "generator.js",
   "scripts": {
     "test": "vitest -- modules/index.spec.ts",
     "execute:index": "ts-node --esm modules/index.ts",
-    "execute:processor:aozora": "ts-node --esm modules/aozora_processor/processor.ts"
+    "execute:processor:aozora": "ts-node --esm modules/aozora_processor/processor.ts",
+    "execute_csv_dump": "ts-node --esm modules/compiler/execute_csv_dump.js"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 import fs from "node:fs"
 import { AnkiCard, Grade } from "./Types"
-import { KanjiGradeLookup } from "./KanjiGradeLookup"
+import { KanjiGradeLookup } from "../kanken_lookup/KanjiGradeLookup"
 import { CorpusHandler } from "./CorpusHandler"
 
 const makeRow = (card: AnkiCard): string => card.front + "," + card.back

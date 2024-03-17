@@ -1,7 +1,8 @@
 import fs from "node:fs"
-import { KanjiGradeLookup } from "./KanjiGradeLookup"
-import { AnkiCard, CorpusRow, CorpusTask, DeckSet, Grade, Type, typeCheck } from "./Types"
+import { KanjiGradeLookup } from "../kanken_lookup/KanjiGradeLookup"
+import { AnkiCard, CorpusRow, CorpusTask, DeckSet, Type, typeCheck } from "./Types"
 import { isHiragana, isKanji, isKatakana } from "./Filters"
+import { Grade } from "kanken_lookup/Grade"
 
 export class CorpusHandler {
 

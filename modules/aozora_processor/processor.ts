@@ -1,4 +1,7 @@
-import axios from 'axios'
+import { decoder, initialState } from 'jis_decoder/decoder'
+import { Grade } from 'kanken_lookup/Grade'
+import { KanjiGradeLookup } from 'kanken_lookup/KanjiGradeLookup'
+import { isKanji } from 'kanken_lookup/filters'
 import { readFileSync, readdirSync, existsSync, writeFileSync, write, appendFileSync } from 'node:fs'
 
 // https://github.com/ryancahildebrandt/aozora_corpus
@@ -14,200 +17,103 @@ import { readFileSync, readdirSync, existsSync, writeFileSync, write, appendFile
 // - card number
 // - file number
 
-import fs from "node:fs"
-
-export type Kanji = {
-  kanji: string,
-  grade: string,
-}
-
-export enum Grade {
-  _10 = "10",
-  _09 = "9",
-  _08 = "8",
-  _07 = "7",
-  _06 = "6",
-  _05 = "5",
-  _04 = "4",
-  _03 = "3",
-  _PRE_02 = "2.5",
-  _02 = "2",
-  _PRE_01 = "1.5",
-  _01 = "1",
-}
-
-export class KanjiGradeLookup {
-
-  private map: Map<number, Grade>
-
-  constructor(datasetPath: string) {
-
-    this.map = new Map<number, Grade>()
-
-    const dataset: Array<Kanji> = (JSON.parse(fs.readFileSync(datasetPath, "utf8")) as Array<Kanji>)
-
-    console.log("kanji loading initialised")
-
-    dataset.forEach((kanji: Kanji) => {
-      const code = kanji.kanji.charCodeAt(0)
-
-      if (code !== undefined) {
-        this.map.set(code, kanji.grade as Grade)
-
-      }
-    })
-
-    console.log("kanji loading complete")
-
-  }
-
-  get(kanji: number): Grade | undefined {
-    return this.map.get(kanji)
-  }
-
-}
-
-const KANJI_LOWER_BOUND = 0x4E00
-const KANJI_UPPER_BOUND = 0x9FFF
-
-const KATAK_LOWER_BOUND = 0x30A0
-const KATAK_UPPER_BOUND = 0x30FF
-
-const HIRAG_LOWER_BOUND = 0x3040
-const HIRAG_UPPER_BOUND = 0x309F
-
-export const charFilter = (hex: number, lowerBound: number, upperBound: number): boolean => {
-  if (hex === undefined) {
-    return false
-  } else {
-    return (hex >= lowerBound) && (hex <= upperBound)
-  }
-
-}
-
-export const isKanji = (char: number): boolean =>
-  charFilter(char, KANJI_LOWER_BOUND, KANJI_UPPER_BOUND)
-
-export const isKatakana = (char: number): boolean =>
-  charFilter(char, KATAK_LOWER_BOUND, KATAK_UPPER_BOUND)
-
-export const isHiragana = (char: number): boolean =>
-  charFilter(char, HIRAG_LOWER_BOUND, HIRAG_UPPER_BOUND)
-
-const lookup = readFileSync("/Users/alex/workspace/personal/sentances/modules/aozora_processor/encoding.txt", "utf-8")
-  .split("\n")
-  .map(row => row.split("\t"))
-  .reduce((map: Map<string, string>, row: Array<string>) => map.set(row[0], row[2]), new Map<string, string>())
-
-console.log(lookup)
-
-const file = readFileSync("/Users/alex/workspace/personal/aozorabunko/cards/002265/files/62103_76815.html")
-
-type State = { initial_char: undefined | number, utf8_chars: Array<number> }
-
-const isInitialChar = (char: number): boolean => ((char >= 0x81) && (char <= 0x9F)) || ((char >= 0xE0) && (char <= 0xEF))
-
-const isEven = (char: number): boolean => (char % 2) === 0
-
-const isCategoryA = (char: number): boolean => char >= 0x40 && char <= 0x9E && char !== 0x7F
-
-const isCategoryB = (char: number): boolean => char >= 0x9F && char <= 0xFC
-
-const makeHexString = (first: number, second: number) => "0x" + (first.toString(16) + second.toString(16)).toUpperCase()
-
-const decoder = (state: State, char: number): State => {
-
-  if (state.initial_char === undefined) {
-
-    if (isInitialChar(char)) {
-
-      return {
-        initial_char: char,
-        utf8_chars: state.utf8_chars
-      }
-
-    } else {
-
-      return {
-        initial_char: undefined,
-        utf8_chars: state.utf8_chars
-      }
-
-    }
-
-
-  } else {
-
-    if (isEven(state.initial_char) && isCategoryA(char)) {
-
-      const hex = makeHexString(state.initial_char, char)
-      const utf = lookup.get(hex)
-      const utf8_chars = (utf === undefined) ? state.utf8_chars : [...state.utf8_chars, parseInt(utf)]
-      return { initial_char: undefined, utf8_chars }
-
-    }
-    else if (!isEven(state.initial_char) && isCategoryB(char)) {
-
-      const hex = makeHexString(state.initial_char, char)
-      const utf = lookup.get(hex)
-      const utf8_chars = (utf === undefined) ? state.utf8_chars : [...state.utf8_chars, parseInt(utf)]
-      return { initial_char: undefined, utf8_chars }
-
-    }
-    else {
-
-      return { initial_char: undefined, utf8_chars: state.utf8_chars }
-
-    }
-
-  }
-}
-
-const initialState: State = { initial_char: undefined, utf8_chars: Array<number>() }
+// modules
+// kanji lookup       (hex number -> grade)
+// kanji lookup       (hex string -> grade)
+// shift-JIS -> utf-8 (shift_js   -> unicode)
+// shift-JIS -> utf-8 (hex        -> hex)
+// File evaluator     (count by kanji kanken grade　-> (unique, total))
+// File evaluator     (count by kanji kanken grade)
+// rank -> percentage of total kanji readable?
+// rank -> percentage of unique kanji readable? (>85% is permissable)
+// Aozorabunka html file retriver
+// next pass do it in typescript, after that write it in C or Rust.
+// grade_10_(total|unique), grade_9_(total|unique), grade_8_(total|unique), grade_7_(total|unique), ... unlcassified_(total|unique)
+// enrich with "rank"
+// *_core, *_enriched
+// make_core
+// make_enriched
+// operations can be performed row-wise independently and be completely parallelised in a sql engine for example.
 
 type AggregatorState = { current: number, not_current: number, unclassified: number, rank: number }
 
-const kanjiLookup = new KanjiGradeLookup("/Users/alex/workspace/personal/sentances/modules/aozora_processor/kanji.json")
+class State {
 
-const aggregator = (state: AggregatorState, kanji: number): AggregatorState => {
+  private internal: Map<Grade | undefined, Map<number, boolean>>
+
+  update(result: Grade | undefined, input: number): State {
+
+    // check if the result is set
+    const gradeToMap = this.internal.get(result)
+
+    // initialize the result
+    if (gradeToMap === undefined) {
+
+      this.internal.set(result, new Map<number, boolean>())
+
+    }
+
+    // result is guarenteed to be set
+    const gradeToMapOkay = this.internal.get(result)
+
+    const exists = gradeToMapOkay.has(input)
+
+    if (!exists) {
+      gradeToMap.set(input, true)
+    }
+
+    return this
+
+  }
+
+  row(): string {
+
+
+
+    this.internal.forEach((value, key, m) => {
+
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+
+      ]
+
+      switch (key) {
+        case Grade._10:
+        case Grade._09:
+        case Grade._08:
+        case Grade._07:
+        case Grade._06:
+        case Grade._05:
+        case Grade._04:
+        case Grade._03:
+        case Grade._PRE_02:
+        case Grade._02:
+        case Grade._PRE_01:
+        case Grade._01:
+      }
+
+    })
+
+
+
+  }
+
+}
+
+const kanjiLookup = new KanjiGradeLookup()
+
+const aggregator = (state: State, kanji: number): State => {
 
   const result = kanjiLookup.get(kanji)
 
-  if (result === undefined) {
-    return {
-      current: state.current,
-      not_current: state.not_current,
-      unclassified: (state.unclassified + 1),
-      rank: (state.current / (state.current + state.not_current + state.unclassified + 1)) * 100
-    }
-  } else {
-    switch (result) {
-      case Grade._10:
-      case Grade._09:
-      case Grade._08:
-        return {
-          current: state.current + 1,
-          not_current: state.not_current,
-          unclassified: state.unclassified,
-          rank: (state.current / (state.current + state.not_current + state.unclassified + 1)) * 100
-        }
-      case Grade._07:
-      case Grade._06:
-      case Grade._05:
-      case Grade._04:
-      case Grade._03:
-      case Grade._PRE_02:
-      case Grade._02:
-      case Grade._PRE_01:
-      case Grade._01:
-        return {
-          current: state.current,
-          not_current: state.not_current + 1,
-          unclassified: state.unclassified,
-          rank: (state.current / (state.current + state.not_current + state.unclassified + 1)) * 100
-        }
-    }
-  }
+  const newState = state.update(result, kanji)
+
+  return newState
+
 }
 
 const classify = (file: Buffer) =>
@@ -215,21 +121,22 @@ const classify = (file: Buffer) =>
     .reduce(decoder, initialState)
     .utf8_chars
     .filter(isKanji)
-    .reduce(aggregator, { current: 0, not_current: 0, unclassified: 0, rank: 0 })
+    .reduce(aggregator, new State())
 
+const inputPath = "/Users/alex/workspace/personal/aozorabunko/cards"
 
-const path = "/Users/alex/workspace/personal/aozorabunko/cards"
+const outputPath = "/Users/alex/workspace/personal/sentances/modules/aozora_processor/aggregated_data.csv"
 
-const cards = readdirSync(path)
+const cards = readdirSync(inputPath)
 
 const fileProcessor = (card: string) => {
 
-  if (existsSync(`${path}/${card}/files`)) {
+  if (existsSync(`${inputPath}/${card}/files`)) {
 
     const buffers: Array<[string, Buffer]> =
-      readdirSync(`${path}/${card}/files`)
+      readdirSync(`${inputPath}/${card}/files`)
         .filter(file => file.endsWith(".html"))
-        .map(file => `${path}/${card}/files/${file}`)
+        .map(file => `${inputPath}/${card}/files/${file}`)
         .map(path => [path, readFileSync(path)])
 
     console.log(`CHECKPOINT_${buffers.length}`)
@@ -241,7 +148,7 @@ const fileProcessor = (card: string) => {
 
         const row = [result.current, result.not_current, result.unclassified, result.rank, path].join(",") + "\n"
 
-        appendFileSync("/Users/alex/workspace/personal/sentances/modules/aozora_processor/aggregated_data.csv", row, "utf8")
+        appendFileSync(inputPath, row, "utf8")
 
       })
 
@@ -250,5 +157,3 @@ const fileProcessor = (card: string) => {
 }
 
 cards.forEach(fileProcessor)
-
-

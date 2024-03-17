@@ -1,0 +1,18 @@
+export const tasks: Array<{ name: string, sheet_id: string }> = [
+  {
+    "name": "misc_words",
+    "sheet_id": "1gSJI11fhUsm2HYBi4yS9UoybuL4Y9ZiJZOjnqL7njJ8"
+  },
+  {
+    "name": "grade_10_words",
+    "sheet_id": "151GdctGN-bvjEFbDTThqzNtuW4uaFnnDAEAuM7XFODs"
+  },
+  {
+    "name": "grade_9_words",
+    "sheet_id": "1r7RWhvuPqcaTVEiU-QVGx4zrX2o-EGhlsKgQUaHlnyY"
+  },
+  {
+    "name": "grade_8_words",
+    "sheet_id": "1V6S3VySBYC5wzf-RaqbCiB6Ons0ZdtLE4Ef118rxufU"
+  }
+]

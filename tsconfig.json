@@ -6,9 +6,16 @@
     "preserveConstEnums": true,
     "sourceMap": true,
     "esModuleInterop": true,
-    "target": "es2022"
+    "target": "es2022",
+    "baseUrl": "./modules",
+    "moduleResolution": "Node"
   },
   "include": [
-    "modules/corpus_processor",
-  ]
+    "src/*",
+    "modules/corpus_processor/*",
+    "modules/kanken_lookup/*",
+    "modules/aozora_processor",
+    "modules/jis_decoder",
+    "modules/compiler",
+  ],
 }
