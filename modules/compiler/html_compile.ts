@@ -23,7 +23,7 @@ const serializeWords = (unserialized: string): Array<Word> =>
 
 const makeWordItems = (word: Word): Array<string> =>
   [
-    `<div class="list-item">${word.value}</div>`,
+    `<a class="list-item" href="https://jisho.org/search/${word.value}">${word.value}</a>`,
     `<div class="list-item">${word.hiragana}</div>`,
   ]
 
@@ -31,7 +31,7 @@ const makeList = (items: Array<string>) =>
   `<div class="container"><div class="list">${items.join(NEW_LINE)}</div></div>`
 
 const makeGradeRow = (grade: string): string => (
-  `<a href="#${grade}"><span>${grade}</span></a>`
+  `<a href="#${grade}" id="${grade}"><span>${grade}</span></a>`
 )
 
 const makeGradeRows = (taskName: string): Array<string> => {

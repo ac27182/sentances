@@ -7,14 +7,20 @@
   color: black;
 }
 
-.container {}
+.master-container {
+
+  justify-content: center;
+}
 
 .list {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  margin-left: auto;
+  margin-right: auto;
+  grid-template-columns: 200px 200px;
 }
 
 .list-item {
+
 
   border-color: black;
 
@@ -25,12 +31,12 @@
 
 /* .list>div:hover {} */
 
-.list>div:hover {
+.list>.list-item:hover {
 
   background-color: #FEC8D8;
 }
 
 .master-container {
-  padding-left: 40vh;
-  padding-right: 40vh;
+  padding-left: 10px;
+  padding-right: 10px
 }

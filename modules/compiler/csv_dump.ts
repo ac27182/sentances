@@ -13,12 +13,11 @@ export const csv_dump = ({ name, sheet_id }: { name: string, sheet_id: string })
 
   const range = makeRange()
 
-  client
+  return client
     .spreadsheets
     .values
     .get({ spreadsheetId: sheet_id, range })
     .then(response => response.data.values)
     .then(rows => rows.map(row => row.join(",")).join("\n"))
     .then(csv => writeFileSync(`data/csv_raw/${name}.csv`, csv))
-
 }

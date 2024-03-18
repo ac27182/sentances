@@ -14,8 +14,8 @@
     "src/*",
     "modules/corpus_processor/*",
     "modules/kanken_lookup/*",
-    "modules/aozora_processor",
-    "modules/jis_decoder",
+    "modules/aozora_processor/*",
+    "modules/jis_decoder/*",
     "modules/compiler/*",
   ],
 }

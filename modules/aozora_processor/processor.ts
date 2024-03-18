@@ -1,8 +1,10 @@
-import { decoder, initialState } from 'jis_decoder/decoder'
-import { Grade } from 'kanken_lookup/Grade'
-import { KanjiGradeLookup } from 'kanken_lookup/KanjiGradeLookup'
-import { isKanji } from 'kanken_lookup/filters'
-import { readFileSync, readdirSync, existsSync, writeFileSync, write, appendFileSync } from 'node:fs'
+import PromisePool from '@supercharge/promise-pool'
+import { decoder, initialState } from '../jis_decoder/decoder'
+import { Grade } from '../kanken_lookup/Grade'
+import { KanjiGradeLookup } from '../kanken_lookup/KanjiGradeLookup'
+import { isKanji } from '../kanken_lookup/filters'
+import { readFileSync, readdirSync, existsSync, writeFileSync, write, appendFileSync, exists, open } from 'node:fs'
+import fs from 'node:fs'
 
 // https://github.com/ryancahildebrandt/aozora_corpus
 // https://github.com/aozorahack/aozora-cli/tree/master/aozoracli
@@ -35,15 +37,17 @@ import { readFileSync, readdirSync, existsSync, writeFileSync, write, appendFile
 // make_enriched
 // operations can be performed row-wise independently and be completely parallelised in a sql engine for example.
 
-type AggregatorState = { current: number, not_current: number, unclassified: number, rank: number }
 
 class State {
 
   private internal: Map<Grade | undefined, Map<number, boolean>>
 
+  constructor() {
+    this.internal = new Map<Grade | undefined, Map<number, boolean>>()
+  }
+
   update(result: Grade | undefined, input: number): State {
 
-    // check if the result is set
     const gradeToMap = this.internal.get(result)
 
     // initialize the result
@@ -59,32 +63,29 @@ class State {
     const exists = gradeToMapOkay.has(input)
 
     if (!exists) {
-      gradeToMap.set(input, true)
+      gradeToMapOkay.set(input, true)
     }
 
     return this
 
   }
 
-  row(): string {
+  row(path: string): string {
+
+    let readable: number = 0
+    let unreadable: number = 0
+    let unclassified: number = 0
+
+    this.internal.forEach((value, key) => {
 
 
-
-    this.internal.forEach((value, key, m) => {
-
-      [
-        0,
-        0,
-        0,
-        0,
-        0,
-
-      ]
 
       switch (key) {
         case Grade._10:
         case Grade._09:
         case Grade._08:
+          readable = (readable + value.size)
+          break
         case Grade._07:
         case Grade._06:
         case Grade._05:
@@ -94,14 +95,18 @@ class State {
         case Grade._02:
         case Grade._PRE_01:
         case Grade._01:
+          unreadable = (unreadable + value.size)
+          break
+        case undefined:
+          unclassified = (unclassified + value.size)
+          break
       }
-
     })
 
+    const rank: number = (readable) * 100 / (readable + unreadable + unclassified)
 
-
+    return [readable, unreadable, unclassified, rank, path].join(",") + "\n"
   }
-
 }
 
 const kanjiLookup = new KanjiGradeLookup()
@@ -129,31 +134,45 @@ const outputPath = "/Users/alex/workspace/personal/sentances/modules/aozora_proc
 
 const cards = readdirSync(inputPath)
 
+
+
 const fileProcessor = (card: string) => {
 
-  if (existsSync(`${inputPath}/${card}/files`)) {
+  return exists(`${inputPath}/${card}/files`, (e) => {
 
-    const buffers: Array<[string, Buffer]> =
-      readdirSync(`${inputPath}/${card}/files`)
-        .filter(file => file.endsWith(".html"))
-        .map(file => `${inputPath}/${card}/files/${file}`)
-        .map(path => [path, readFileSync(path)])
+    if (e) {
 
-    console.log(`CHECKPOINT_${buffers.length}`)
+      const start = performance.now()
 
-    buffers
-      .forEach(([path, buffer]) => {
+      const buffers: Array<[string, Buffer]> =
+        readdirSync(`${inputPath}/${card}/files`)
+          .filter(file => file.endsWith(".html"))
+          .map(file => `${inputPath}/${card}/files/${file}`)
+          .map(path => [path, readFileSync(path)])
 
-        const result = classify(buffer)
+      buffers
+        .forEach(([path, buffer]) => {
 
-        const row = [result.current, result.not_current, result.unclassified, result.rank, path].join(",") + "\n"
+          const result = classify(buffer)
 
-        appendFileSync(inputPath, row, "utf8")
+          const row = result.row(path)
 
-      })
+          appendFileSync(outputPath, row, "utf8")
 
-  }
+        })
+
+      const end = performance.now()
+      console.log(`CHECKPOINT:FILES_PROCESSED:${buffers.length.toString().padStart(4, "_")}:${(end - start)}`)
+    }
+  })
 
 }
 
-cards.forEach(fileProcessor)
+const start = performance.now()
+
+new PromisePool()
+  .withConcurrency(20)
+  .for(cards)
+  .process(fileProcessor)
+  .finally(() => console.log((performance.now() - start)))
+
