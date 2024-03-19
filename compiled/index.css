@@ -40,3 +40,25 @@
   padding-left: 10px;
   padding-right: 10px
 }
+
+/* jukugyo */
+
+.jukugo {
+  margin-left: 240px;
+  font-size: 80px;
+}
+
+.kanji {
+  margin-left: 80px;
+  font-size: 160px;
+
+}
+
+.grade {
+  margin-left: 20px;
+  font-size: 200px;
+}
+
+a:hover {
+  background-color: #FEC8D8;
+}
