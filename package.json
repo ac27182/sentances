@@ -10,7 +10,9 @@
     "execute:processor:aozora": "ts-node --esm modules/aozora_processor/processor.ts",
     "execute:csv_dump": "ts-node --esm modules/compiler/execute_csv_dump.ts",
     "execute:anki_compile": "ts-node --esm modules/compiler/execute_anki_compile.ts",
-    "execute:html_compile": "ts-node --esm modules/compiler/execute_html_compile.ts"
+    "execute:html_compile": "ts-node --esm modules/compiler/execute_html_compile.ts",
+    "execute:joyo_reading_enricher": "ts-node --esm modules/kanji_database_processor/enricher.ts",
+    "execute:corpus_handler": "ts-node --esm modules/corpus_processor/index.ts"
   },
   "repository": {
     "type": "git",

@@ -2,11 +2,13 @@ import fs from "node:fs"
 import { KanjiGradeLookup } from "../kanken_lookup/KanjiGradeLookup"
 import { AnkiCard, CorpusRow, CorpusTask, DeckSet, Type, typeCheck } from "./Types"
 import { isHiragana, isKanji, isKatakana } from "./Filters"
-import { Grade } from "kanken_lookup/Grade"
+import { Grade } from "../kanken_lookup/Grade"
 
 export class CorpusHandler {
 
   private readonly rawCorpus: Array<CorpusRow>
+
+  private readonly map: Map<string, CorpusRow>
 
   private static readonly ROW_LIMIT: number = 12000
 
@@ -26,11 +28,11 @@ export class CorpusHandler {
 
         const chars: Array<string> = word.split("")
 
-        const valid = chars.some(char => isKatakana(char) || isKanji(char) || isHiragana(char) || (lookupTable.get(char) !== Grade._PRE_01 || lookupTable.get(char) !== Grade._PRE_02))
+        const valid = chars.some(char => isKatakana(char) || isKanji(char) || isHiragana(char) || (lookupTable.get(char.charCodeAt(0)) !== Grade._PRE_01 || lookupTable.get(char.charCodeAt(0)) !== Grade._PRE_02))
 
         const tags: Array<Grade> = chars.filter(isKanji).reduce((acc, kanji) => {
 
-          const result = lookupTable.get(kanji)
+          const result = lookupTable.get(kanji.charCodeAt(0))
 
           if (result === undefined) {
             return acc
@@ -48,6 +50,11 @@ export class CorpusHandler {
         }
 
       })
+
+
+    this.map = new Map<string, CorpusRow>()
+
+    this.rawCorpus.forEach(row => this.map.set(row.word, row))
 
     this.rawCorpus = this.rawCorpus.slice(0, CorpusHandler.ROW_LIMIT)
 
@@ -144,6 +151,10 @@ export class CorpusHandler {
       .filter(row => row.word.split("").every(isHiragana))
       .map<AnkiCard>(row => { return { front: row.word, back: this.makeTemplate(row.word, row.katakana) } })
 
+  }
+
+  get(word: string): CorpusRow | undefined {
+    return this.map.get(word)
   }
 
 }

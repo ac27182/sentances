@@ -1,7 +1,8 @@
 import fs from "node:fs"
-import { AnkiCard, Grade } from "./Types"
+import { AnkiCard } from "./Types"
 import { KanjiGradeLookup } from "../kanken_lookup/KanjiGradeLookup"
 import { CorpusHandler } from "./CorpusHandler"
+import { Grade } from "../kanken_lookup/Grade"
 
 const makeRow = (card: AnkiCard): string => card.front + "," + card.back
 
@@ -16,7 +17,7 @@ const tasks = [
   { grade: Grade._03 },
 ]
 
-const lookup = new KanjiGradeLookup("data/json_compiled/kanji.json")
+const lookup = new KanjiGradeLookup()
 
 const loader = new CorpusHandler(lookup, "data/csv_raw/corpus.csv")
 

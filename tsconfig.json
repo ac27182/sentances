@@ -17,5 +17,6 @@
     "modules/aozora_processor/*",
     "modules/jis_decoder/*",
     "modules/compiler/*",
+    "modules/kanji_database_processor/*",
   ],
 }

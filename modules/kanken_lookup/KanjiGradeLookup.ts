@@ -12,6 +12,7 @@ export class KanjiGradeLookup {
     const dataset: Array<Kanji> = (JSON.parse(fs.readFileSync(datasetPath, "utf8")) as Array<Kanji>)
 
     console.log("KANJI_LOOKUP_INITIALIZER:STARTING")
+    this.map.set(19968, Grade._10)
 
     dataset.forEach((kanji: Kanji) => this.map.set(kanji.kanji.charCodeAt(0), kanji.grade as Grade))
 
