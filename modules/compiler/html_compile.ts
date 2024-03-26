@@ -21,17 +21,20 @@ const serializeWords = (unserialized: string): Array<Word> =>
     .map(row => row.split(___COMMA))
     .map(([value, hiragana, translation]) => { return { value, hiragana, translation } })
 
-const makeWordItems = (word: Word): Array<string> =>
-  [
-    `<a class="list-item" href="https://jisho.org/search/${word.value}">${word.value}</a>`,
-    `<div class="list-item">${word.hiragana}</div>`,
-  ]
+const makeWordItems = (word: Word, index: number): string => {
+
+  const _index = `<div class="index">${index % 100}</div>`
+  const main = `<a class="text" href="https://jisho.org/search/${word.value}">${word.value}</a>`
+  const reading = `<a class="reading" href="https://jisho.org/search/${word.value}">${word.hiragana}・</a>`
+
+  return `<div class="cell">${_index}${main}${reading}</div>`
+}
 
 const makeList = (items: Array<string>) =>
-  `<div class="container"><div class="list">${items.join(NEW_LINE)}</div></div>`
+  `<div class="container">${items.join(NEW_LINE)}</div>`
 
 const makeGradeRow = (grade: string): string => (
-  `<a href="#${grade}" id="${grade}"><span>${grade}</span></a>`
+  `<a class="grade" href="#${grade}" id="${grade}"><span >${grade}</span></a>`
 )
 
 const makeGradeRows = (taskName: string): Array<string> => {
@@ -42,7 +45,7 @@ const makeGradeRows = (taskName: string): Array<string> => {
 
   const gradeRow = makeGradeRow(taskName)
 
-  const wordRows = serialized.map(makeWordItems).flat(1)
+  const wordRows = serialized.map(makeWordItems)
 
   const list = makeList(wordRows)
 
