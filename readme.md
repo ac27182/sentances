@@ -56,3 +56,5 @@ where
 order by 
   `Kanji`
 ```
+
+- https://www.edrdg.org/wiki/index.php/Tanaka_Corpus#Downloads

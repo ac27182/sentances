@@ -18,5 +18,6 @@
     "modules/jis_decoder/*",
     "modules/compiler/*",
     "modules/kanji_database_processor/*",
+    "modules/tanaka_corpus_processor/*",
   ],
 }
