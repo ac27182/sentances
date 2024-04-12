@@ -1,0 +1,16 @@
+li:nth-child(odd) {
+  background-color: antiquewhite;
+}
+li {
+  height: 24px;
+} 
+
+li:nth-child(odd):hover {
+  background-color: pink;
+} 
+
+
+a:link {
+  text-decoration: none;
+  color: black;
+}

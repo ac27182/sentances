@@ -8,7 +8,9 @@ const makeCardTemplate = (input: { kanji: string, hiragana: string, translation:
 
   const picture = `<a href="https://www.google.com/search?tbm=isch&q=${input.kanji}">写真</a>`
 
-  const template = `<span>${input.hiragana}・${input.translation}</span><br>${kanji}・${_word}・${picture}`
+  const sentance = `<a href="https://ac27182.github.io/sentances/compiled/sentances?query=${input.kanji}">文</a>`
+
+  const template = `<span>${input.hiragana}・${input.translation}</span><br>${kanji}・${_word}・${picture}・${sentance}`
 
   return [input.kanji, template]
 }

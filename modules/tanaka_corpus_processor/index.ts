@@ -1,3 +1,6 @@
+import { Grade } from "../kanken_lookup/Grade"
+import { KanjiGradeLookup } from "../kanken_lookup/KanjiGradeLookup"
+import { isKanji } from "../kanken_lookup/filters"
 import fs from "node:fs"
 import readline from "node:readline"
 
@@ -8,18 +11,27 @@ const tanaka_corpus = fs.readFileSync(path, "utf-8").split("\n")
 type Block = {
   ja: string,
   en: string,
+  rank: number
 }
+
+const lookup = new KanjiGradeLookup()
 
 const blocks =
   tanaka_corpus
-    .reduce((acc: Array<Block>, line: string, index, array) => {
+    .reduce((acc: Array<Block>, line: string, index) => {
       if (index % 1000 == 0) console.log(index)
 
       const isA = (index % 2) === 0
 
       if (isA) {
         const aline = line.substring(0, line.indexOf("#ID=")).replace("A: ", "").split("\t")
-        acc.push({ ja: aline[0], en: aline[1] })
+        const rank =  aline[0].split("").map(char => char.charCodeAt(0)).filter(isKanji).filter(char => {
+          const grade = lookup.get(char)
+          return ![Grade._10,Grade._09, Grade._08, Grade._07].includes(grade)
+        }).length
+        
+        
+        acc.push({ ja: aline[0], en: aline[1], rank: rank })
         return acc
       } else {
         // const bline = line.replace("B: ", "")
@@ -47,13 +59,16 @@ const page = `
       const list = document.getElementById("list")
 
       sentances
+        .filter(item => item.ja.includes(query))
+        .sort((a, b) => a.rank - b.rank)
         .forEach(item => {
-          if (item.ja.includes(query)) {
+          //if (item.ja.includes(query)) {
             var anchor = document.createElement('a');
             anchor.href = "https://jisho.org/search/" + item.ja;
 
             var ja_li = document.createElement('li')
             var ja_text = document.createTextNode(item.ja)
+            ja_li.classList.add("rank_" + item.rank)
             anchor.appendChild(ja_text)
             ja_li.appendChild(anchor)
 
@@ -63,7 +78,7 @@ const page = `
 
             list.appendChild(ja_li)
             list.appendChild(en_li)
-          }
+          //}
         })
     })
   </script>
