@@ -13,7 +13,9 @@
     "execute:html_compile": "ts-node --esm modules/compiler/execute_html_compile.ts",
     "execute:joyo_reading_enricher": "ts-node --esm modules/kanji_database_processor/enricher.ts",
     "execute:corpus_handler": "ts-node --esm modules/corpus_processor/index.ts",
-    "execute:tanaka": "ts-node --esm modules/tanaka_corpus_processor/index.ts"
+    "execute:tanaka": "ts-node --esm modules/tanaka_corpus_processor/index.ts",
+    "execute:single_reading_processor": "ts-node --esm modules/single_reading_processor/index.ts",
+    "execute:tskuba_lookup_processor": "ts-node --esm modules/tskuba_lookup_processor/index.ts"
   },
   "repository": {
     "type": "git",

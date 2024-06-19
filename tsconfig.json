@@ -19,5 +19,6 @@
     "modules/compiler/*",
     "modules/kanji_database_processor/*",
     "modules/tanaka_corpus_processor/*",
+    "modules/single_reading_processor/*",
   ],
 }

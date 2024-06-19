@@ -1,0 +1,10 @@
+jukugo_enriched
+- jukugo
+- meaning
+- grade
+- reading_katakana
+
+tskuba_verbs_enriched
+- verb
+- grade
+- reading_katakana
