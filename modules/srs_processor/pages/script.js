@@ -1,9 +1,7 @@
-
 const show = () => {
   document
     .querySelectorAll(".translation")
     .forEach(item => {
-
 
       if (item.style.color === null) {
         item.style.color = 'black'
@@ -65,8 +63,6 @@ const parseName = (mode) => {
       window.location = path.join('/')
       break
   }
-
-
 
 }
 
