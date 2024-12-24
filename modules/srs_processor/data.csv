@@ -1,0 +1,6239 @@
+一;10;一部;46289;イチブ;"one part"
+一;10;一般;39274;イッパン;general
+七;10;七夕;534;タナバタ;"Festival of the Weaver"
+七;10;七生;207;;"seven lives"
+三;10;三振;14420;サンシン;"strike out"
+三;10;三塁;8869;サンルイ;"third base"
+上;10;以上;121572;イジョウ;"not less than"
+上;10;上昇;24763;ジョウショウ;rising
+下;10;以下;29607;イカ;"not exceeding"
+下;10;低下;17087;テイカ;fall
+中;10;中心;60275;チュウシン;center
+中;10;中央;45226;チュウオウ;centre
+九;10;九重;417;ココノエ;ninefold
+九;10;九月;198;クガツ;September
+二;10;二塁;9702;ニルイ;"second base"
+二;10;二男;3343;;"second son"
+五;10;五輪;81749;ゴリン;"the Olympics"
+五;10;五感;556;ゴカン;"the five senses"
+人;10;個人;53575;コジン;individual
+人;10;人間;45183;ニンゲン;"human being"
+休;10;休日;3760;キュウジツ;holiday
+休;10;休養;3247;キュウヨウ;rest
+先;10;先発;28314;センパツ;forerunner
+先;10;先生;19519;センセイ;teacher
+入;10;導入;38113;ドウニュウ;introduction
+入;10;輸入;23175;ユニュウ;importation
+八;10;八幡;504;ハチマン;Hachiman
+八;10;八角;484;ハッカク;octagon
+六;10;六月;196;;June
+六;10;双六;50;;sugoroku
+円;10;円滑;2297;エンカツ;smooth
+円;10;円形;746;;"round shape"
+出;10;出場;72100;シュツジョウ;appearance
+出;10;提出;40775;テイシュツ;"to present"
+力;10;協力;59809;キョウリョク;cooperation
+力;10;勢力;24763;セイリョク;influence
+十;10;十分;24845;ジュウブン;plenty
+十;10;十両;2239;ジュウリョウ;"second highest division"
+千;10;千代;1070;チヨ;"thousand years"
+千;10;千里;590;;"1000 ri"
+口;10;人口;17515;ジンコウ;population
+口;10;口座;8633;コウザ;account
+右;10;左右;8360;サユウ;"left and right"
+右;10;右翼;6709;ウヨク;right-wing
+名;10;名誉;20839;メイヨ;honor
+名;10;名人;19109;メイジン;master
+四;10;四球;8848;シキュウ;"four balls"
+四;10;四季;2313;シキ;"four seasons"
+土;10;国土;14932;コクド;country
+土;10;土地;13067;トチ;"plot of land"
+夕;10;夕刊;4426;ユウカン;"evening paper"
+夕;10;夕食;3903;ユウショク;"evening meal"
+大;10;大会;129583;タイカイ;convention
+大;10;大学;63448;ダイガク;"post-secondary education institution, incl. university, college, etc."
+天;10;楽天;13010;ラクテン;optimism
+天;10;天皇;11678;テンノウ;"Emperor of Japan"
+女;10;女性;114178;ジョセイ;woman
+女;10;女子;76079;ジョシ;woman
+子;10;女子;76079;ジョシ;woman
+子;10;子供;65559;コドモ;child
+字;10;数字;28647;スウジ;numeral
+字;10;赤字;20959;アカジ;deficit
+学;10;大学;63448;ダイガク;"post-secondary education institution, incl. university, college, etc."
+学;10;学校;59054;ガッコウ;school
+小;10;小説;21163;ショウセツ;novel
+小;10;中小;12365;チュウショウ;"small to medium"
+山;10;登山;5117;トザン;"mountain climbing"
+山;10;火山;3689;カザン;volcano
+川;10;川柳;8608;カワヤナギ;senryu
+川;10;河川;2499;カセン;rivers
+左;10;左右;8360;サユウ;"left and right"
+左;10;左翼;6340;サヨク;left-wing
+年;10;昨年;138391;サクネン;"last year"
+年;10;今年;99761;コトシ;"this year"
+手;10;選手;122240;センシュ;player
+手;10;相手;46710;アイテ;companion
+文;10;本文;123894;ホンブン;text
+文;10;文化;44533;ブンカ;culture
+日;10;同日;36378;ドウジツ;"the same day"
+日;10;毎日;25492;マイニチ;"every day"
+早;10;早期;19681;ソウキ;"early stage"
+早;10;早急;4875;ソウキュウ;urgent
+月;10;今月;37371;コンゲツ;"this month"
+月;10;先月;17838;センゲツ;"last month"
+木;10;木造;3332;モクゾウ;wooden
+木;10;土木;2419;ドボク;"engineering works"
+本;10;本文;123894;ホンブン;text
+本;10;本部;46330;ホンブ;headquarters
+村;10;町村;8361;チョウソン;"towns and villages"
+村;10;農村;3859;ノウソン;"agricultural community"
+林;10;森林;5342;シンリン;forest
+林;10;農林;3672;ノウリン;"agriculture and forestry"
+校;10;高校;61031;コウコウ;"senior high school"
+校;10;学校;59054;ガッコウ;school
+森;10;森林;5342;シンリン;forest
+森;10;森閑;11;シンカン;silence
+正;10;改正;45484;カイセイ;revision
+正;10;修正;23910;シュウセイ;amendment
+気;10;人気;42064;ニンキ;popularity
+気;10;景気;35952;ケイキ;condition
+水;10;水準;15214;スイジュン;level
+水;10;水泳;4260;スイエイ;swimming
+火;10;火災;9580;カサイ;conflagration
+火;10;放火;5471;ホウカ;arson
+犬;10;愛犬;1068;アイケン;"pet dog"
+犬;10;子犬;535;コイヌ;puppy
+玉;10;目玉;3152;メダマ;eyeball
+玉;10;悪玉;390;アクダマ;"bad character"
+王;10;王者;8909;オウジャ;king
+王;10;王将;6115;オウショウ;king
+生;10;生活;73275;セイカツ;living
+生;10;生産;37922;セイサン;production
+田;10;田舎;2312;イナカ;"rural area"
+田;10;油田;2189;ユデン;"oil field"
+男;10;男性;68928;ダンセイ;man
+男;10;男子;60526;ダンシ;youth
+町;10;町村;8361;チョウソン;"towns and villages"
+町;10;町長;3729;チョウチョウ;"town headman"
+白;10;白星;4409;シロボシ;"white circle"
+白;10;白書;4340;ハクショ;"white paper"
+百;10;百科;1193;ヒャッカ;"many objects"
+百;10;百姓;264;ヒャクショウ;farmer
+目;10;目標;40169;モクヒョウ;mark
+目;10;注目;30784;チュウモク;notice
+石;10;石油;16599;セキユ;oil
+石;10;石綿;3656;イシワタ;asbestos
+空;10;航空;18609;コウクウ;aviation
+空;10;空港;17751;クウコウ;airport
+立;10;成立;25909;セイリツ;"coming into existence"
+立;10;立場;24297;タチバ;standpoint
+竹;10;竹林;317;チクリン;"bamboo thicket"
+竹;10;爆竹;178;バクチク;firecracker
+糸;10;糸口;1117;チョ;"thread end"
+糸;10;毛糸;240;ケイト;"knitting wool"
+耳;10;寝耳;243;;"something heard while sleeping"
+耳;10;耳順;222;ジジュン;"age 60"
+花;10;花火;2884;ハナビ;fireworks
+花;10;花粉;2717;カフン;pollen
+草;10;草案;2858;ソウアン;draft
+草;10;起草;1004;キソウ;drafting
+虫;10;昆虫;1513;コンチュウ;insect
+虫;10;殺虫;1104;サッチュウ;"killing insects or pests"
+見;10;会見;75183;カイケン;interview
+見;10;意見;52177;イケン;opinion
+貝;10;貝塚;418;カイヅカ;"shell heap"
+貝;10;貝殻;239;カイガラ;shell
+赤;10;赤字;20959;アカジ;deficit
+赤;10;赤軍;989;セキグン;"Red Army"
+足;10;発足;20205;ホッソク;starting
+足;10;不足;19646;フソク;insufficiency
+車;10;電車;10474;デンシャ;train
+車;10;車両;9332;シャリョウ;"rolling stock"
+金;10;金融;83945;キンユウ;financing
+金;10;資金;50209;シキン;funds
+雨;10;豪雨;2401;ゴウウ;"torrential rain"
+雨;10;梅雨;1856;バイウ;"rainy season"
+青;10;青年;7715;セイネン;youth
+青;10;青春;3655;セイシュン;youth
+音;10;音楽;33201;オンガク;music
+音;10;本音;4943;ホンネ;"real intention"
+万;9;万能;6836;バンノウ;all-purpose
+万;9;万博;4234;バンパク;"world fair"
+丸;9;一丸;1247;イチガン;lump
+丸;9;本丸;568;ホンマル;"inner citadel"
+交;9;交渉;170891;コウショウ;negotiations
+交;9;外交;40503;ガイコウ;diplomacy
+京;9;上京;1928;ジョウキョウ;"proceeding to the capital"
+京;9;帰京;830;;"returning to Tokyo"
+今;9;今年;99761;コトシ;"this year"
+今;9;今回;83462;コンカイ;now
+会;9;社会;133618;シャカイ;society
+会;9;大会;129583;タイカイ;convention
+体;9;団体;60511;ダンタイ;organization
+体;9;全体;40474;;whole
+何;9;何者;1394;ナニモノ;who
+何;9;何事;1313;ナニゴト;what
+作;9;著作;127950;チョサク;writing
+作;9;作品;56451;サクヒン;work
+元;9;地元;35750;ジモト;"home area"
+元;9;元気;14863;ゲンキ;health
+兄;9;兄弟;6055;キョウダイ;siblings
+兄;9;兄妹;638;;"older brother and younger sister"
+光;9;観光;20746;カンコウ;sightseeing
+光;9;光景;4191;コウケイ;scene
+公;9;公開;39589;コウカイ;"opening to the public"
+公;9;公表;30313;コウヒョウ;"official announcement"
+内;9;国内;63535;コクナイ;internal
+内;9;内容;50285;ナイヨウ;subject
+冬;9;冬季;6029;トウキ;winter
+冬;9;冬場;818;フユバ;"the winter season"
+刀;9;執刀;484;シットウ;"performing a surgical operation"
+刀;9;宝刀;254;ホウトウ;"treasured sword"
+分;9;自分;110715;ジブン;myself
+分;9;処分;37895;ショブン;disposal
+切;9;大切;23719;タイセツ;important
+切;9;適切;8022;テキセツ;pertinent
+前;9;午前;77769;ゴゼン;morning
+前;9;前年;28022;ゼンネン;"the preceding year"
+北;9;北部;13118;ホクブ;"northern part"
+北;9;南北;11063;ナンボク;"south and north"
+午;9;午後;90108;ゴゴ;afternoon
+午;9;午前;77769;ゴゼン;morning
+半;9;時半;36896;ジハン;"about an hour"
+半;9;後半;29042;コウハン;"second half"
+南;9;南部;16249;ナンブ;"southern part"
+南;9;南北;11063;ナンボク;"south and north"
+原;9;原因;31121;ゲンイン;cause
+原;9;原則;18397;ゲンソク;principle
+友;9;友人;14240;ユウジン;friend
+友;9;友達;6234;トモダチ;friend
+古;9;古代;4071;コダイ;"ancient times"
+古;9;古典;3806;コテン;"old book"
+台;9;舞台;28553;ブタイ;stage
+台;9;台数;6216;ダイスウ;"number of large objects such as cars, computers, etc."
+合;9;試合;107924;シアイ;match
+合;9;場合;77619;バアイ;case
+同;9;共同;83899;キョウドウ;"doing together"
+同;9;同社;41121;ドウシャ;"the same firm"
+回;9;今回;83462;コンカイ;now
+回;9;回戦;38495;カイセン;match
+図;9;意図;6876;イト;intention
+図;9;構図;5693;コウズ;composition
+国;9;国際;120870;コクサイ;international
+国;9;全国;110372;ゼンコク;countrywide
+園;9;学園;14615;ガクエン;academy
+園;9;公園;14288;コウエン;park
+地;9;地域;76310;チイキ;area
+地;9;地方;60075;チホウ;district
+場;9;場合;77619;バアイ;case
+場;9;出場;72100;シュツジョウ;appearance
+声;9;声明;19294;セイメイ;declaration
+声;9;歓声;3236;カンセイ;cheer
+売;9;販売;69232;ハンバイ;sales
+売;9;発売;28468;ハツバイ;sale
+夏;9;今夏;4853;コンカ;"this summer"
+夏;9;夏季;3156;カキ;"summer season"
+外;9;外交;40503;ガイコウ;diplomacy
+外;9;外相;40085;ガイショウ;"Foreign Minister"
+多;9;多数;20656;タスウ;"great number"
+多;9;最多;17466;サイタ;most
+夜;9;深夜;7059;シンヤ;"late at night"
+夜;9;夜間;3673;ヤカン;"at night"
+太;9;太陽;6284;タイヨウ;sun
+太;9;骨太;1873;ホネブト;big-boned
+妹;9;姉妹;4024;シマイ;sisters
+妹;9;兄妹;638;;"older brother and younger sister"
+姉;9;姉妹;4024;シマイ;sisters
+姉;9;姉御;228;アネゴ;"elder sister"
+室;9;教室;10896;キョウシツ;classroom
+室;9;室長;6095;シツチョウ;"section chief"
+家;9;家族;57371;カゾク;family
+家;9;国家;41269;コッカ;state
+寺;9;寺院;1561;ジイン;temple
+寺;9;寺社;201;ジシャ;"temples and shrines"
+少;9;少年;33443;ショウネン;boy
+少;9;減少;20773;ゲンショウ;decrease
+岩;9;岩石;711;ガンセキ;rock
+岩;9;溶岩;525;ヨウガン;lava
+工;9;工場;24107;コウバ;factory
+工;9;工事;19703;コウジ;"construction work"
+市;9;市場;69986;イチバ;market
+市;9;市民;40896;シミン;citizen
+帰;9;帰国;20436;キコク;"return to one's country"
+帰;9;復帰;18414;フッキ;return
+広;9;広場;28193;ヒロバ;plaza
+広;9;広告;13264;コウコク;advertisement
+店;9;店舗;11352;テンポ;shop
+店;9;支店;7883;シテン;"branch office"
+弓;9;弓道;372;キュウドウ;archery
+弓;9;真弓;197;マユミ;"Japanese spindle tree"
+引;9;取引;42377;;transactions
+引;9;引退;13823;インタイ;retire
+弟;9;兄弟;6055;キョウダイ;siblings
+弟;9;弟子;3188;デシ;pupil
+弱;9;弱者;2085;ジャクシャ;"weak person"
+弱;9;弱点;1644;ジャクテン;"weak point"
+強;9;強化;44839;キョウカ;strengthen
+強;9;強調;42255;キョウチョウ;emphasis
+当;9;担当;63654;タントウ;"being in charge"
+当;9;当時;61147;トウジ;"at that time"
+形;9;形成;5653;ケイセイ;formation
+形;9;形式;4641;ケイシキ;form
+後;9;午後;90108;ゴゴ;afternoon
+後;9;今後;62023;コンゴ;"from now on"
+心;9;中心;60275;チュウシン;center
+心;9;関心;18789;カンシン;concern
+思;9;意思;14554;イシ;intention
+思;9;思想;6590;シソウ;thought
+戸;9;戸籍;2435;コセキ;census
+戸;9;戸数;1437;コスウ;"number of households"
+才;9;才能;3175;サイノウ;talent
+才;9;天才;2786;テンサイ;genius
+教;9;教授;69910;キョウジュ;professor
+教;9;教育;63417;キョウイク;training
+数;9;数字;28647;スウジ;numeral
+数;9;多数;20656;タスウ;"great number"
+新;9;新聞;34790;シンブン;newspaper
+新;9;新人;18285;シンジン;"new face"
+方;9;方針;76485;ホウシン;objective
+方;9;地方;60075;チホウ;district
+明;9;説明;174920;セツメイ;explanation
+明;9;表明;47474;ヒョウメイ;declaration
+星;9;衛星;10063;エイセイ;satellite
+星;9;白星;4409;シロボシ;"white circle"
+春;9;今春;6454;コンシュン;"this spring"
+春;9;来春;4449;ライシュン;"next spring"
+昼;9;昼食;4051;チュウショク;lunch
+昼;9;昼間;1819;ヒルマ;daytime
+時;9;時間;133613;ジカン;time
+時;9;時代;87667;ジダイ;period
+晴;9;晴天;355;セイテン;"fine weather"
+晴;9;快晴;265;カイセイ;"clear weather"
+曜;9;日曜;12443;ニチヨウ;Sunday
+曜;9;土曜;4358;ドヨウ;Saturday
+書;9;文書;18762;モンショ;document
+書;9;秘書;15414;ヒショ;secretary
+朝;9;朝刊;6345;チョウカン;"morning newspaper"
+朝;9;早朝;4261;ソウチョウ;"early morning"
+来;9;以来;49906;イライ;since
+来;9;来年;42087;ライネン;"next year"
+東;9;東西;5529;トウザイ;"east and west"
+東;9;東部;5096;トウブ;"eastern part"
+楽;9;音楽;33201;オンガク;music
+楽;9;楽天;13010;ラクテン;optimism
+歌;9;歌手;8382;カシュ;singer
+歌;9;短歌;4317;タンカ;tanka
+止;9;禁止;28207;キンシ;prohibition
+止;9;防止;27931;ボウシ;prevention
+歩;9;散歩;3997;サンポ;walk
+歩;9;譲歩;3642;ジョウホ;concession
+母;9;母親;19107;ハハオヤ;mother
+母;9;祖母;4103;ソボ;grandmother
+毎;9;毎日;25492;マイニチ;"every day"
+毎;9;毎年;12473;マイトシ;"every year"
+毛;9;毛布;1145;モウフ;blanket
+毛;9;毛髪;460;モウハツ;hair
+池;9;電池;4675;デンチ;battery
+池;9;溜池;71;;reservoir
+汽;9;汽車;718;キシャ;train
+汽;9;汽笛;152;;"steam whistle"
+活;9;活動;78090;カツドウ;action
+活;9;生活;73275;セイカツ;living
+海;9;海外;39080;カイガイ;foreign
+海;9;海上;11362;カイジョウ;sea
+点;9;得点;32534;トクテン;score
+点;9;失点;21457;シッテン;"losing points"
+父;9;父親;13783;チチオヤ;father
+父;9;祖父;3931;ソフ;grandfather
+牛;9;牛肉;8109;ギュウニク;beef
+牛;9;牛乳;3076;ギュウニュウ;milk
+理;9;理事;57001;リジ;director
+理;9;理由;47954;リユウ;reason
+用;9;利用;55147;リヨウ;use
+用;9;使用;38494;シヨウ;use
+画;9;計画;67487;ケイカク;plan
+画;9;映画;51917;エイガ;movie
+番;9;番組;29930;バングミ;program
+番;9;一番;24155;イチバン;best
+直;9;直後;22145;チョクゴ;"immediately following"
+直;9;直接;21821;チョクセツ;direct
+矢;9;矢倉;646;;turret
+矢;9;矢先;495;ヤサキ;arrowhead
+知;9;知事;35772;チジ;"prefectural governor"
+知;9;知識;8908;チシキ;knowledge
+社;9;社会;133618;シャカイ;society
+社;9;会社;124229;ガイシャ;company
+秋;9;昨秋;5887;サクシュウ;"autumn of last year"
+秋;9;秋季;4420;シュウキ;"fall season"
+科;9;科学;45302;カガク;science
+科;9;文科;7199;ブンカ;"literary course"
+答;9;回答;23747;カイトウ;reply
+答;9;答弁;6993;トウベン;response
+算;9;予算;46515;ヨサン;estimate
+算;9;通算;22400;ツウサン;total
+米;9;米兵;6212;ベイヘイ;"American military"
+米;9;訪米;3786;ホウベイ;"visit to America"
+紙;9;手紙;10396;テガミ;letter
+紙;9;紙面;4609;シメン;space
+細;9;細胞;15944;サイボウ;cell
+細;9;詳細;8622;ショウサイ;detail
+組;9;組織;57210;ソシキ;organization
+組;9;番組;29930;バングミ;program
+絵;9;絵本;6059;エホン;"picture book"
+絵;9;絵画;4960;カイガ;picture
+線;9;路線;18219;ロセン;route
+線;9;打線;14456;ダセン;"baseball lineup"
+羽;9;羽根;1613;ハ;feather
+羽;9;羽毛;322;ウモウ;feathers
+考;9;選考;12881;センコウ;selection
+考;9;参考;11884;サンコウ;reference
+聞;9;新聞;34790;シンブン;newspaper
+聞;9;聴聞;546;チョウモン;listening
+肉;9;牛肉;8109;ギュウニク;beef
+肉;9;筋肉;3408;キンニク;muscle
+自;9;自分;110715;ジブン;myself
+自;9;自由;43325;ジユウ;freedom
+船;9;漁船;5182;ギョセン;"fishing boat"
+船;9;船舶;2943;センパク;ship
+色;9;色彩;2552;シキサイ;colour
+色;9;難色;2535;ナンショク;disapproval
+茶;9;紅茶;802;コウチャ;"black tea"
+茶;9;喫茶;767;キッサ;"tea drinking"
+行;9;銀行;48449;ギンコウ;bank
+行;9;行政;34746;ギョウセイ;administration
+西;9;西部;5882;セイブ;"western part"
+西;9;東西;5529;トウザイ;"east and west"
+親;9;母親;19107;ハハオヤ;mother
+親;9;父親;13783;チチオヤ;father
+角;9;一角;3188;イッカク;corner
+角;9;内角;2507;ナイカク;"interior angle"
+言;9;言葉;55907;コトバ;language
+言;9;発言;37885;ハツゲン;utterance
+計;9;計画;67487;ケイカク;plan
+計;9;会計;11393;カイケイ;account
+記;9;記者;78627;キシャ;reporter
+記;9;記録;59875;キロク;record
+話;9;電話;91709;デンワ;"telephone call"
+話;9;対話;15996;タイワ;dialogue
+語;9;物語;15067;モノガタリ;tale
+語;9;英語;13501;エイゴ;English
+読;9;読者;11642;ドクシャ;reader
+読;9;読書;8473;ドクショ;reading
+谷;9;渓谷;628;ケイコク;valley
+谷;9;谷川;625;タニガワ;"mountain stream"
+買;9;買収;16156;バイシュウ;acquisition
+買;9;売買;8079;バイバイ;trade
+走;9;走者;6074;ソウシャ;runner
+走;9;走行;5048;ソウコウ;"running a wheeled vehicle"
+近;9;最近;32920;サイキン;"most recent"
+近;9;付近;13414;フキン;neighbourhood
+通;9;通信;25666;ツウシン;correspondence
+通;9;通算;22400;ツウサン;total
+週;9;週間;20598;シュウカン;week
+週;9;今週;14753;コンシュウ;"this week"
+道;9;報道;48505;ホウドウ;information
+道;9;道路;29867;ドウロ;road
+遠;9;遠征;3879;エンセイ;expedition
+遠;9;永遠;2289;エイエン;eternity
+里;9;古里;1261;フルサト;"home town"
+里;9;里親;803;サトオヤ;"foster parent"
+野;9;野球;121270;ヤキュウ;baseball
+野;9;野党;30533;ヤトウ;"opposition party"
+長;9;会長;96737;カイチョウ;president
+長;9;社長;92765;シャチョウ;"company president"
+門;9;専門;41832;センモン;speciality
+門;9;部門;25528;ブモン;division
+間;9;時間;133613;ジカン;time
+間;9;年間;54381;ネンカン;year
+雪;9;雪辱;2688;セツジョク;"vindication of honour"
+雪;9;大雪;1333;オオユキ;"heavy snow"
+雲;9;暗雲;702;アンウン;"dark clouds"
+雲;9;星雲;319;セイウン;nebula
+電;9;電話;91709;デンワ;"telephone call"
+電;9;電子;17287;デンシ;electron
+頭;9;先頭;7546;セントウ;head
+頭;9;冒頭;6663;ボウトウ;beginning
+顔;9;笑顔;17931;エガオ;"smiling face"
+顔;9;素顔;1452;スガオ;"face with no make-up"
+風;9;風景;7977;フウケイ;scenery
+風;9;台風;6200;タイフウ;typhoon
+食;9;食品;20795;ショクヒン;commodity
+食;9;食事;12274;ショクジ;meal
+首;9;首相;224822;シュショウ;"Prime Minister"
+首;9;首脳;41672;シュノウ;head
+馬;9;競馬;19054;ケイバ;"horse racing"
+馬;9;出馬;11134;シュツバ;running
+高;9;高校;61031;コウコウ;"senior high school"
+高;9;最高;44925;サイコウ;highest
+魚;9;金魚;520;キンギョ;goldfish
+魚;9;魚雷;443;ギョライ;torpedo
+鳥;9;野鳥;1746;ヤチョウ;"wild bird"
+鳥;9;鳥類;835;チョウルイ;birds
+鳴;9;悲鳴;1768;ヒメイ;shriek
+鳴;9;共鳴;1160;キョウメイ;resonance
+麦;9;小麦;1347;コムギ;wheat
+麦;9;麦芽;395;バクガ;malt
+黄;9;黄金;2446;オウゴン;gold
+黄;9;黄色;1141;キイロ;yellow
+黒;9;黒字;8343;クロジ;"in the black"
+黒;9;黒人;4710;コクジン;"black person"
+丁;8;丁寧;4182;テイネイ;polite
+丁;8;包丁;2868;ホウチョウ;"kitchen knife"
+世;8;世界;183195;セカイ;"the world"
+世;8;世紀;32655;セイキ;century
+両;8;両国;18635;リョウコク;"both countries"
+両;8;両親;12006;リョウシン;parents
+主;8;民主;45932;ミンシュ;democracy
+主;8;主張;43845;シュチョウ;claim
+乗;8;乗客;7701;ジョウキャク;passenger
+乗;8;搭乗;2669;トウジョウ;embarkation
+予;8;予定;68923;ヨテイ;plans
+予;8;予算;46515;ヨサン;estimate
+事;8;事件;142862;ジケン;event
+事;8;事業;89625;ジギョウ;project
+仕;8;仕事;46239;シゴト;work
+仕;8;仕方;8026;;way
+他;8;他人;6462;タニン;"another person"
+他;8;他国;3777;タコク;"foreign country"
+代;8;代表;162696;ダイヒョウ;representative
+代;8;時代;87667;ジダイ;period
+住;8;住民;44565;ジュウミン;citizens
+住;8;住宅;38045;ジュウタク;residence
+使;8;使用;38494;シヨウ;use
+使;8;大使;18848;タイシ;ambassador
+係;8;関係;146333;カンケイ;relation
+係;8;係長;1790;カカリチョウ;"chief clerk"
+倍;8;倍増;3068;バイゾウ;double
+倍;8;倍率;2176;バイリツ;magnification
+全;8;全国;110372;ゼンコク;countrywide
+全;8;安全;60307;アンゼン;safety
+具;8;具体;30609;グタイ;concrete
+具;8;道具;3261;ドウグ;tool
+写;8;写真;211918;シャシン;photograph
+写;8;描写;2433;ビョウシャ;depiction
+列;8;列車;6825;レッシャ;train
+列;8;系列;2791;ケイレツ;series
+助;8;補助;17419;ホジョ;assistance
+助;8;援助;13240;エンジョ;assistance
+勉;8;勉強;14348;ベンキョウ;study
+勉;8;勤勉;349;キンベン;diligent
+動;8;活動;78090;カツドウ;action
+動;8;運動;32216;ウンドウ;exercise
+勝;8;優勝;86887;ユウショウ;"overall victory"
+勝;8;決勝;62746;ケッショウ;"decision of a contest"
+化;8;強化;44839;キョウカ;strengthen
+化;8;文化;44533;ブンカ;culture
+区;8;地区;31676;チク;district
+区;8;区間;5094;クカン;section
+医;8;医療;51179;イリョウ;"medical care"
+医;8;医師;32234;イシ;doctor
+去;8;過去;46813;カコ;"the past"
+去;8;死去;33188;シキョ;death
+反;8;反対;49073;ハンタイ;opposition
+反;8;違反;40197;イハン;violation
+取;8;取引;42377;;transactions
+取;8;取材;34235;シュザイ;"news coverage"
+受;8;受賞;29111;ジュショウ;winning
+受;8;受注;7705;ジュチュウ;"accepting an order"
+号;8;番号;20132;バンゴウ;number
+号;8;信号;3358;シンゴウ;"traffic lights"
+向;8;方向;23028;ホウコウ;direction
+向;8;意向;21234;イコウ;intention
+君;8;君臨;854;クンリン;reigning
+君;8;諸君;559;ショクン;Gentlemen!
+味;8;意味;35624;イミ;meaning
+味;8;興味;6981;キョウミ;interest
+命;8;生命;14960;;life
+命;8;命令;13454;メイレイ;order
+和;8;平和;34994;ヘイワ;peace
+和;8;緩和;17377;カンワ;relief
+品;8;作品;56451;サクヒン;work
+品;8;商品;33656;ショウヒン;commodity
+員;8;委員;150054;イイン;"committee member"
+員;8;議員;91841;ギイン;"member of the Diet, congress or parliament"
+商;8;商品;33656;ショウヒン;commodity
+商;8;商店;5808;ショウテン;shop
+問;8;問題;238663;モンダイ;question
+問;8;訪問;30844;ホウモン;call
+坂;8;坂道;495;サカミチ;"hill road"
+坂;8;女坂;7;オンナザカ;"the easier of two slopes"
+央;8;中央;45226;チュウオウ;centre
+央;8;年央;38;ネンオウ;mid-year
+始;8;開始;34680;カイシ;start
+始;8;始動;2046;シドウ;starting
+委;8;委員;150054;イイン;"committee member"
+委;8;教委;8435;キョウイ;"Board of Education"
+守;8;保守;12806;ホシュ;maintenance
+守;8;守備;12085;シュビ;defense
+安;8;安全;60307;アンゼン;safety
+安;8;安打;41445;アンダ;"safe hit"
+定;8;決定;71642;ケッテイ;decision
+定;8;予定;68923;ヨテイ;plans
+実;8;実施;62343;ジッシ;enforcement
+実;8;事実;40130;ジジツ;fact
+客;8;顧客;11347;コキャク;customer
+客;8;観客;9662;カンキャク;audience
+宮;8;神宮;3648;;"high-status Shinto shrine with connection to imperial family"
+宮;8;大宮;2688;オオミヤ;"imperial palace"
+宿;8;宿泊;7700;シュクハク;lodging
+宿;8;合宿;6785;ガッシュク;"lodging together"
+寒;8;寒気;654;カンキ;chill
+寒;8;寒波;346;カンパ;"cold wave"
+対;8;対策;74068;タイサク;measure
+対;8;対象;65512;タイショウ;target
+局;8;局長;34270;キョクチョウ;"bureau director"
+局;8;当局;29638;トウキョク;authorities
+屋;8;部屋;19821;ヘヤ;room
+屋;8;屋根;4248;ヤネ;roof
+岸;8;湾岸;4333;ワンガン;"gulf coast"
+岸;8;海岸;4274;カイガン;coast
+島;8;列島;2767;レットウ;archipelago
+島;8;諸島;1794;ショトウ;archipelago
+州;8;州都;837;シュウト;"of a state"
+州;8;州法;340;シュウホウ;"state law"
+帳;8;手帳;2519;テチョウ;notebook
+帳;8;台帳;2013;ダイチョウ;"account book"
+平;8;平和;34994;ヘイワ;peace
+平;8;平均;34690;ヘイキン;average
+幸;8;幸福;3107;コウフク;happiness
+幸;8;不幸;2279;フコウ;unhappiness
+度;8;制度;77296;セイド;system
+度;8;年度;68773;ネンド;"fiscal year"
+庫;8;文庫;6446;ブンコ;library
+庫;8;国庫;3581;コッコ;"national treasury"
+庭;8;家庭;23975;カテイ;home
+庭;8;庭園;1584;テイエン;garden
+式;8;株式;31200;カブシキ;stock
+式;8;正式;18400;セイシキ;"due form"
+役;8;役員;24176;ヤクイン;officer
+役;8;役割;20304;ヤクワリ;part
+待;8;期待;57795;キタイ;expectation
+待;8;虐待;9650;ギャクタイ;abuse
+急;8;緊急;22126;キンキュウ;urgent
+急;8;急増;8116;キュウゾウ;"rapid increase"
+息;8;息子;17434;ムスコ;son
+息;8;生息;3433;セイソク;inhabiting
+悪;8;悪化;21521;アッカ;deterioration
+悪;8;最悪;5639;サイアク;"the worst"
+悲;8;悲劇;4216;ヒゲキ;tragedy
+悲;8;悲惨;2355;ヒサン;disastrous
+想;8;予想;31108;ヨソウ;expectation
+想;8;想定;14514;ソウテイ;hypothesis
+意;8;意見;52177;イケン;opinion
+意;8;合意;47582;ゴウイ;agreement
+感;8;感染;27991;カンセン;infection
+感;8;感謝;11616;カンシャ;thanks
+所;8;場所;37589;バショ;place
+所;8;所得;20632;ショトク;income
+打;8;安打;41445;アンダ;"safe hit"
+打;8;打線;14456;ダセン;"baseball lineup"
+投;8;投票;47841;トウヒョウ;voting
+投;8;投資;43670;トウシ;investment
+拾;8;収拾;1993;シュウシュウ;controlling
+拾;8;拾得;312;シュウトク;"picking up"
+持;8;支持;63236;シジ;support
+持;8;維持;31363;イジ;maintenance
+指;8;指摘;73359;シテキ;"pointing out"
+指;8;指導;48264;シドウ;leadership
+放;8;放送;43992;ホウソウ;broadcast
+放;8;解放;10929;カイホウ;release
+整;8;調整;33987;チョウセイ;regulation
+整;8;整備;27465;セイビ;maintenance
+旅;8;旅行;14856;リョコウ;travel
+旅;8;旅館;2801;リョカン;"Japanese hotel"
+族;8;家族;57371;カゾク;family
+族;8;遺族;16145;イゾク;"bereaved family"
+昔;8;昔話;709;ムカシバナシ;folklore
+昔;8;一昔;305;ヒトムカシ;ages
+昭;8;昭代;7;ショウダイ;"glorious reign"
+暑;8;猛暑;2196;モウショ;"heat wave"
+暑;8;残暑;366;ザンショ;"late summer heat"
+暗;8;暗殺;3893;アンサツ;assassination
+暗;8;明暗;1531;メイアン;"light and darkness"
+曲;8;作曲;6134;サッキョク;composition
+曲;8;戯曲;1451;ギキョク;play
+有;8;有効;17919;ユウコウ;validity
+有;8;保有;16714;ホユウ;possession
+服;8;克服;5456;コクフク;conquest
+服;8;不服;2431;フフク;dissatisfaction
+期;8;期待;57795;キタイ;expectation
+期;8;期間;27469;キカン;period
+板;8;登板;32869;トウバン;"taking the plate"
+板;8;看板;5492;カンバン;signboard
+柱;8;支柱;826;シチュウ;prop
+柱;8;電柱;638;デンチュウ;"telephone pole"
+根;8;根拠;7954;コンキョ;basis
+根;8;屋根;4248;ヤネ;roof
+植;8;移植;11711;イショク;transplanting
+植;8;植物;5932;ショクブツ;plant
+業;8;企業;114671;キギョウ;enterprise
+業;8;事業;89625;ジギョウ;project
+様;8;同様;21958;ドウヨウ;identical
+様;8;様子;16767;ヨウス;state
+横;8;横綱;10965;ヨコヅナ;yokozuna
+横;8;横領;3564;オウリョウ;embezzlement
+橋;8;新橋;1379;シンバシ;Shinbashi
+橋;8;橋梁;1006;キョウリョウ;bridge
+次;8;次期;13316;ジキ;"next term"
+次;8;次官;9684;ジカン;vice-minister
+歯;8;歯科;3123;シカ;dentistry
+歯;8;歯車;726;ハグルマ;gear
+死;8;死亡;56936;シボウ;death
+死;8;死去;33188;シキョ;death
+氷;8;氷河;685;ヒョウガ;glacier
+氷;8;氷山;460;ヒョウザン;iceberg
+決;8;決定;71642;ケッテイ;decision
+決;8;決勝;62746;ケッショウ;"decision of a contest"
+油;8;石油;16599;セキユ;oil
+油;8;原油;14476;ゲンユ;"crude oil"
+波;8;津波;6594;ツナミ;tsunami
+波;8;電波;2941;デンパ;"electro-magnetic wave"
+注;8;注目;30784;チュウモク;notice
+注;8;注意;15786;チュウイ;caution
+泳;8;競泳;4624;キョウエイ;"swimming race"
+泳;8;水泳;4260;スイエイ;swimming
+洋;8;海洋;4309;カイヨウ;ocean
+洋;8;東洋;3450;トウヨウ;Orient
+流;8;交流;23834;コウリュウ;exchange
+流;8;流出;7951;リュウシュツ;discharge
+消;8;消費;53733;ショウヒ;consumption
+消;8;解消;12070;カイショウ;cancellation
+深;8;深刻;14542;シンコク;serious
+深;8;深夜;7059;シンヤ;"late at night"
+温;8;温暖;13293;オンダン;warmth
+温;8;温泉;7656;オンセン;spa
+港;8;空港;17751;クウコウ;airport
+港;8;入港;1732;ニュウコウ;"entry into port"
+湖;8;湖畔;666;コハン;"lake shore"
+湖;8;湖沼;390;コショウ;"lakes and marshes"
+湯;8;銭湯;784;セントウ;bath-house
+湯;8;給湯;578;キュウトウ;"hot-water supply"
+漢;8;漢字;6095;カンジ;"Chinese characters"
+漢;8;痴漢;1494;チカン;masher
+炭;8;炭素;2641;タンソ;carbon
+炭;8;石炭;2161;セキタン;coal
+物;8;人物;33229;ジンブツ;character
+物;8;物語;15067;モノガタリ;tale
+球;8;野球;121270;ヤキュウ;baseball
+球;8;地球;24820;チキュウ;"the earth"
+由;8;理由;47954;リユウ;reason
+由;8;自由;43325;ジユウ;freedom
+申;8;申請;19524;シンセイ;application
+申;8;申告;7785;シンコク;report
+界;8;世界;183195;セカイ;"the world"
+界;8;業界;24924;ギョウカイ;"business world"
+畑;8;田畑;1011;デンパタ;fields
+畑;8;花畑;136;ハナバタケ;"flower garden"
+病;8;病院;57224;ビョウイン;hospital
+病;8;病気;15055;ビョウキ;illness
+発;8;発表;140557;ハッピョウ;announcement
+発;8;開発;69835;カイハツ;development
+登;8;登板;32869;トウバン;"taking the plate"
+登;8;登場;22376;トウジョウ;entry
+皮;8;皮膚;3803;ヒフ;skin
+皮;8;皮肉;1824;ヒニク;cynicism
+皿;8;灰皿;294;ハイザラ;ashtray
+皿;8;大皿;157;オオザラ;"large plate"
+相;8;首相;224822;シュショウ;"Prime Minister"
+相;8;相手;46710;アイテ;companion
+県;8;県警;38215;ケンケイ;"prefectural police"
+県;8;県内;12143;ケンナイ;"within the prefecture"
+真;8;写真;211918;シャシン;photograph
+真;8;真剣;5894;シンケン;seriousness
+着;8;到着;10358;トウチャク;arrival
+着;8;決着;9832;ケッチャク;conclusion
+短;8;短期;6072;タンキ;"short term"
+短;8;短歌;4317;タンカ;tanka
+研;8;研究;92835;ケンキュウ;study
+研;8;研修;8775;ケンシュウ;training
+礼;8;謝礼;1610;シャレイ;reward
+礼;8;礼拝;1548;レイハイ;worship
+神;8;精神;27838;セイシン;mind
+神;8;神経;6724;シンケイ;nerve
+祭;8;祭典;1882;サイテン;festival
+祭;8;大祭;539;タイサイ;"grand festival"
+福;8;福祉;18061;フクシ;welfare
+福;8;幸福;3107;コウフク;happiness
+秒;8;秒速;315;ビョウソク;"per second"
+秒;8;毎秒;48;マイビョウ;"every second"
+究;8;研究;92835;ケンキュウ;study
+究;8;究明;3334;キュウメイ;investigation
+章;8;文章;5918;ブンショウ;sentence
+章;8;憲章;2299;ケンショウ;charter
+童;8;児童;22658;ジドウ;children
+童;8;童話;1863;ドウワ;fairy-tale
+笛;8;口笛;240;クチブエ;whistle
+笛;8;汽笛;152;;"steam whistle"
+第;8;次第;7874;シダイ;"dependent upon"
+第;8;及第;215;キュウダイ;"passing an examination"
+筆;8;執筆;5505;シッピツ;writing
+筆;8;筆頭;5005;ヒットウ;"brush tip"
+等;8;高等;4422;コウトウ;"high class"
+等;8;平等;3002;ビョウドウ;equality
+箱;8;重箱;154;ジュウバコ;"multi-tiered food box"
+箱;8;巣箱;114;スバコ;"nest box"
+級;8;高級;8325;コウキュウ;"high class"
+級;8;学級;2789;ガッキュウ;class
+終;8;最終;70731;サイシュウ;last
+終;8;終了;22315;シュウリョウ;end
+緑;8;緑色;1123;ミドリイロ;green
+緑;8;緑化;1040;リョクカ;greening
+練;8;練習;32092;レンシュウ;practice
+練;8;訓練;13198;クンレン;practice
+羊;8;羊毛;101;ヨウモウ;wool
+羊;8;羊水;72;ヨウスイ;"amniotic fluid"
+美;8;美術;10360;ビジュツ;art
+美;8;美容;2271;ビヨウ;"beauty of figure or form"
+習;8;練習;32092;レンシュウ;practice
+習;8;学習;12166;ガクシュウ;study
+者;8;記者;78627;キシャ;reporter
+者;8;患者;39528;カンジャ;patient
+育;8;教育;63417;キョウイク;training
+育;8;育成;9576;イクセイ;rearing
+苦;8;苦労;6642;クロウ;troubles
+苦;8;苦戦;3987;クセン;"hard fight"
+荷;8;出荷;8005;シュッカ;shipping
+荷;8;荷物;2766;ニモツ;luggage
+落;8;下落;14772;ゲラク;depreciation
+落;8;落語;7568;ラクゴ;rakugo
+葉;8;言葉;55907;コトバ;language
+葉;8;紅葉;1492;コウヨウ;"autumn colours"
+薬;8;薬物;6159;ヤクブツ;medicines
+薬;8;農薬;4113;ノウヤク;"agricultural chemical"
+血;8;血液;6266;ケツエキ;blood
+血;8;血管;2422;ケッカン;"blood vessel"
+表;8;代表;162696;ダイヒョウ;representative
+表;8;発表;140557;ハッピョウ;announcement
+詩;8;詩人;4575;シジン;poet
+詩;8;詩集;1895;シシュウ;"poetry anthology"
+調;8;調査;123787;チョウサ;investigation
+調;8;強調;42255;キョウチョウ;emphasis
+談;8;会談;62217;カイダン;conversation
+談;8;相談;27338;ソウダン;consultation
+豆;8;大豆;2521;ダイズ;"soya bean"
+豆;8;豆腐;1924;トウフ;tofu
+負;8;負担;40646;フタン;burden
+負;8;勝負;26462;ショウブ;"victory or defeat"
+起;8;起訴;25691;キソ;prosecution
+起;8;起用;9834;キヨウ;appointment
+路;8;道路;29867;ドウロ;road
+路;8;路線;18219;ロセン;route
+身;8;出身;39020;シュッシン;"person's origin"
+身;8;自身;27028;ジシン;"by oneself"
+転;8;運転;32585;ウンテン;operation
+転;8;逆転;24438;ギャクテン;change
+軽;8;軽減;6453;ケイゲン;abatement
+軽;8;軽傷;2832;ケイショウ;"minor injury"
+農;8;農業;19423;ノウギョウ;agriculture
+農;8;農家;8926;ノウカ;farmer
+返;8;返還;12009;ヘンカン;return
+返;8;返済;8463;ヘンサイ;repayment
+追;8;追加;18651;ツイカ;addition
+追;8;追及;10927;ツイキュウ;investigation
+送;8;放送;43992;ホウソウ;broadcast
+送;8;輸送;8450;ユソウ;transport
+速;8;高速;15489;コウソク;"high speed"
+速;8;加速;9783;カソク;acceleration
+進;8;推進;26738;スイシン;propulsion
+進;8;進出;21316;シンシュツ;advance
+遊;8;遊説;1862;ユウゼイ;"election tour"
+遊;8;外遊;1202;;"foreign travel"
+運;8;運転;32585;ウンテン;operation
+運;8;運動;32216;ウンドウ;exercise
+部;8;幹部;53544;カンブ;management
+部;8;本部;46330;ホンブ;headquarters
+都;8;都市;36448;トシ;town
+都;8;都内;28998;トナイ;"metropolitan area"
+配;8;心配;16734;シンパイ;worry
+配;8;配慮;16715;ハイリョ;consideration
+酒;8;飲酒;3972;インシュ;"drinking alcohol"
+酒;8;酒気;1067;シュキ;"liquor smell"
+重;8;重要;41813;ジュウヨウ;important
+重;8;重視;19314;ジュウシ;importance
+鉄;8;鉄道;11015;テツドウ;railroad
+鉄;8;鉄鋼;4762;テッコウ;"iron and steel"
+銀;8;銀行;48449;ギンコウ;bank
+銀;8;地銀;1675;チギン;"regional bank"
+開;8;開発;69835;カイハツ;development
+開;8;開催;49630;カイサイ;"holding a meeting"
+院;8;病院;57224;ビョウイン;hospital
+院;8;入院;15448;ニュウイン;hospitalization
+陽;8;太陽;6284;タイヨウ;sun
+陽;8;陽性;1916;ヨウセイ;positivity
+階;8;段階;25141;ダンカイ;grade
+階;8;階段;3685;カイダン;stairs
+集;8;編集;26885;ヘンシュウ;editing
+集;8;集中;21728;シュウチュウ;concentration
+面;8;全面;16721;ゼンメン;"whole surface"
+面;8;場面;14824;バメン;scene
+題;8;問題;238663;モンダイ;question
+題;8;課題;35432;カダイ;subject
+飲;8;飲食;6180;インショク;"food and drink"
+飲;8;飲料;3986;インリョウ;beverage
+館;8;会館;10829;カイカン;"meeting hall"
+館;8;旅館;2801;リョカン;"Japanese hotel"
+駅;8;駅伝;5549;エキデン;"long-distance relay race"
+駅;8;駅前;3663;エキマエ;"in front of station"
+鼻;8;鼻水;251;ハナミズ;"nasal mucus"
+鼻;8;鼻息;164;ハナイキ;"nasal breathing"
+不;7;不安;32309;フアン;anxiety
+不;7;不明;22860;フメイ;unknown
+争;7;戦争;53788;センソウ;war
+争;7;競争;21828;キョウソウ;competition
+井;7;天井;3092;テンジョウ;ceiling
+井;7;井戸;1427;イド;"water well"
+付;7;付近;13414;フキン;neighbourhood
+付;7;交付;10491;コウフ;delivering
+令;7;命令;13454;メイレイ;order
+令;7;司令;8251;シレイ;command
+以;7;以上;121572;イジョウ;"not less than"
+以;7;以来;49906;イライ;since
+仲;7;仲間;13028;ナカマ;company
+仲;7;仲介;6140;チュウカイ;agency
+伝;7;伝統;14835;デントウ;tradition
+伝;7;駅伝;5549;エキデン;"long-distance relay race"
+位;7;首位;21213;シュイ;"first place"
+位;7;順位;19416;ジュンイ;order
+低;7;低下;17087;テイカ;fall
+低;7;低迷;11008;テイメイ;"hanging low"
+佐;7;補佐;7630;ホサ;aid
+佐;7;大佐;1182;タイサ;colonel
+例;7;比例;14813;ヒレイ;proportion
+例;7;異例;9225;イレイ;exception
+便;7;郵便;18593;ユウビン;"mail service"
+便;7;便利;4743;ベンリ;convenient
+信;7;通信;25666;ツウシン;correspondence
+信;7;信頼;20654;シンライ;reliance
+倉;7;倉庫;2770;ソウコ;storehouse
+倉;7;矢倉;646;;turret
+候;7;候補;53816;コウホ;candidate
+候;7;気候;5177;キコウ;climate
+借;7;借金;8016;シャッキン;debt
+借;7;借款;1013;シャッカン;loan
+健;7;健康;29380;ケンコウ;health
+健;7;保健;8212;ホケン;"health preservation"
+側;7;側面;4845;ソクメン;side
+側;7;側近;4473;ソッキン;"close associate"
+働;7;労働;35874;ロウドウ;"manual labor"
+働;7;稼働;5900;カドウ;operation
+億;7;億劫;16;オックウ;troublesome
+億;7;億万;5;オクマン;"millions and millions"
+兆;7;兆候;1558;チョウコウ;sign
+兆;7;前兆;373;ゼンチョウ;omen
+児;7;児童;22658;ジドウ;children
+児;7;女児;7989;ジョジ;"baby girl"
+共;7;共同;83899;キョウドウ;"doing together"
+共;7;公共;18449;コウキョウ;public
+兵;7;兵器;13843;ヘイキ;arms
+兵;7;兵士;8919;ヘイシ;soldier
+典;7;式典;5928;シキテン;ceremony
+典;7;古典;3806;コテン;"old book"
+冷;7;冷静;7525;レイセイ;calm
+冷;7;冷戦;4760;レイセン;"cold war"
+初;7;最初;24147;サイショ;beginning
+初;7;当初;23520;トウショ;"at first"
+別;7;特別;52481;トクベツ;special
+別;7;差別;9968;サベツ;discrimination
+利;7;利用;55147;リヨウ;use
+利;7;勝利;31108;ショウリ;victory
+刷;7;印刷;4598;インサツ;printing
+刷;7;刷新;3233;サッシン;reform
+副;7;正副;1173;セイフク;"original and copy"
+副;7;副賞;1030;フクショウ;"extra prize"
+功;7;成功;22232;セイコウ;success
+功;7;功績;2026;コウセキ;achievements
+加;7;参加;85638;サンカ;participation
+加;7;増加;21454;ゾウカ;increase
+努;7;努力;24297;ドリョク;"great effort"
+労;7;労働;35874;ロウドウ;"manual labor"
+労;7;労組;6976;ロウソ;"labor union"
+勇;7;勇気;4658;ユウキ;courage
+勇;7;勇退;538;ユウタイ;"bowing out"
+包;7;包括;4059;ホウカツ;inclusion
+包;7;包丁;2868;ホウチョウ;"kitchen knife"
+卒;7;卒業;16360;ソツギョウ;graduation
+卒;7;大卒;1227;ダイソツ;"university graduate"
+協;7;協議;74885;キョウギ;conference
+協;7;協力;59809;キョウリョク;cooperation
+単;7;簡単;12576;カンタン;simple
+単;7;単独;11204;タンドク;sole
+博;7;博士;7972;ハクシ;doctorate
+博;7;万博;4234;バンパク;"world fair"
+印;7;印象;16001;インショウ;impression
+印;7;消印;6541;ケシイン;postmark
+参;7;参加;85638;サンカ;participation
+参;7;参拝;12649;サンパイ;"visit to a shrine or temple"
+司;7;司法;12976;シホウ;"administration of justice"
+司;7;司令;8251;シレイ;command
+各;7;各国;22263;カクコク;"each nation"
+各;7;各地;19087;カクチ;"every place"
+周;7;周辺;25411;シュウヘン;circumference
+周;7;周年;13102;シュウネン;"whole year"
+唱;7;提唱;4911;テイショウ;advocacy
+唱;7;合唱;2571;ガッショウ;chorus
+器;7;兵器;13843;ヘイキ;arms
+器;7;武器;11784;ブキ;weapon
+固;7;固定;7465;コテイ;fixation
+固;7;禁固;1850;キンコ;imprisonment
+城;7;開城;686;カイジョウ;capitulation
+城;7;金城;518;;"impregnable castle"
+塩;7;塩分;815;エンブン;salt
+塩;7;塩基;755;エンキ;base
+変;7;変化;24126;ヘンカ;change
+変;7;変更;20267;ヘンコウ;change
+夫;7;夫婦;13508;フウフ;"married couple"
+夫;7;工夫;8616;クフウ;scheme
+失;7;失点;21457;シッテン;"losing points"
+失;7;失敗;15177;シッパイ;failure
+奈;7;奈落;112;ナラク;hell
+好;7;好調;11463;コウチョウ;favourable
+好;7;友好;5304;ユウコウ;friendship
+媛;7;才媛;17;サイエン;"literary woman"
+季;7;今季;36648;コンキ;"this season"
+季;7;冬季;6029;トウキ;winter
+孫;7;子孫;1280;シソン;descendants
+孫;7;孫娘;797;マゴムスメ;granddaughter
+完;7;完全;19836;カンゼン;perfection
+完;7;完成;12942;カンセイ;complete
+官;7;長官;67774;チョウカン;secretary
+官;7;官房;30862;カンボウ;"government secretariat"
+害;7;被害;67131;ヒガイ;damage
+害;7;障害;42189;ショウガイ;obstacle
+富;7;豊富;6255;ホウフ;abundance
+富;7;富裕;1357;フユウ;wealth
+察;7;警察;29534;ケイサツ;police
+察;7;検察;14587;ケンサツ;examination
+岐;7;多岐;887;タキ;digression
+岐;7;岐路;750;キロ;"forked road"
+巣;7;古巣;891;フルス;"old haunts"
+巣;7;卵巣;558;ランソウ;ovary
+差;7;格差;12554;カクサ;"qualitative difference"
+差;7;差別;9968;サベツ;discrimination
+希;7;希望;28142;キボウ;hope
+希;7;希薄;1243;キハク;thin
+席;7;出席;26588;シュッセキ;attendance
+席;7;打席;14278;ダセキ;"batter's box"
+帯;7;携帯;29469;ケイタイ;"something carried"
+帯;7;世帯;11987;;household
+底;7;徹底;12634;テッテイ;thoroughness
+底;7;海底;2420;カイテイ;"bottom of the ocean"
+府;7;政府;181556;セイフ;government
+府;7;府警;4775;フケイ;"prefectural police"
+康;7;健康;29380;ケンコウ;health
+康;7;小康;205;ショウコウ;lull
+建;7;建設;41659;ケンセツ;construction
+建;7;再建;20676;サイケン;rebuilding
+径;7;直径;3851;チョッケイ;diameter
+径;7;半径;1086;ハンケイ;radius
+徒;7;生徒;25147;セイト;pupil
+徒;7;教徒;4832;キョウト;believer
+徳;7;報徳;1411;ホウトク;"moral requital"
+徳;7;道徳;1258;ドウトク;morals
+必;7;必要;126985;ヒツヨウ;necessary
+必;7;必至;5305;;inevitable
+念;7;記念;36468;キネン;commemoration
+念;7;懸念;32221;ケネン;worry
+愛;7;恋愛;3622;レンアイ;love
+愛;7;愛情;2779;アイジョウ;love
+成;7;成長;40130;セイチョウ;growth
+成;7;成立;25909;セイリツ;"coming into existence"
+戦;7;戦争;53788;センソウ;war
+戦;7;回戦;38495;カイセン;match
+折;7;骨折;4538;コッセツ;"bone fracture"
+折;7;折衝;1844;セッショウ;negotiation
+挙;7;選挙;111854;センキョ;election
+挙;7;検挙;2273;ケンキョ;arrest
+改;7;改革;86437;カイカク;reform
+改;7;改正;45484;カイセイ;revision
+敗;7;失敗;15177;シッパイ;failure
+敗;7;連敗;13312;レンパイ;"consecutive defeats"
+散;7;解散;16818;カイサン;breakup
+散;7;拡散;5855;カクサン;scattering
+料;7;料理;22895;リョウリ;cooking
+料;7;無料;22035;ムリョウ;free
+旗;7;国旗;2174;コッキ;"national flag"
+旗;7;旗手;1017;キシュ;standard-bearer
+昨;7;昨年;138391;サクネン;"last year"
+昨;7;昨秋;5887;サクシュウ;"autumn of last year"
+景;7;景気;35952;ケイキ;condition
+景;7;背景;27058;ハイケイ;background
+最;7;最終;70731;サイシュウ;last
+最;7;最大;45440;サイダイ;biggest
+望;7;希望;28142;キボウ;hope
+望;7;要望;11189;ヨウボウ;"demand for"
+未;7;未来;11355;ミライ;"the future"
+未;7;未満;9585;ミマン;"less than"
+末;7;週末;6435;シュウマツ;weekend
+末;7;年末;5217;ネンマツ;end-of-year
+札;7;入札;9480;ニュウサツ;bid
+札;7;落札;3736;ラクサツ;"having one's bid accepted"
+材;7;取材;34235;シュザイ;"news coverage"
+材;7;材料;11440;ザイリョウ;ingredients
+束;7;拘束;13980;コウソク;restriction
+束;7;約束;11613;ヤクソク;arrangement
+松;7;小松;752;コマツ;"small pine"
+松;7;若松;670;;"young pine"
+果;7;結果;82621;ケッカ;result
+果;7;効果;40590;コウカ;effect
+栄;7;栄養;5095;エイヨウ;nutrition
+栄;7;繁栄;2415;ハンエイ;prospering
+案;7;法案;41674;ホウアン;bill
+案;7;提案;28693;テイアン;proposal
+梅;7;梅雨;1856;バイウ;"rainy season"
+梅;7;青梅;469;;"unripe plum"
+梨;7;梨園;49;リエン;"theatrical world"
+梨;7;花梨;17;カリン;"Burmese rosewood"
+械;7;機械;7325;キカイ;machine
+械;7;器械;81;キカイ;machine
+極;7;積極;21800;セッキョク;positive
+極;7;消極;4014;ショウキョク;negative
+標;7;目標;40169;モクヒョウ;mark
+標;7;標準;7853;ヒョウジュン;standard
+機;7;機関;70227;キカン;engine
+機;7;危機;37175;キキ;crisis
+欠;7;欠場;4483;ケツジョウ;absence
+欠;7;欠陥;4228;ケッカン;defect
+残;7;残念;9847;ザンネン;deplorable
+残;7;残留;6047;ザンリュウ;residual
+氏;7;氏名;13450;シメイ;"full name"
+氏;7;同氏;5551;ドウシ;"the said person"
+民;7;国民;96900;コクミン;nation
+民;7;民主;45932;ミンシュ;democracy
+求;7;要求;30509;ヨウキュウ;demand
+求;7;請求;20805;セイキュウ;claim
+沖;7;沖合;1145;;coast
+沖;7;沖積;8;チュウセキ;alluvial
+治;7;政治;104674;セイジ;politics
+治;7;自治;27246;ジチ;self-government
+法;7;法案;41674;ホウアン;bill
+法;7;法人;40355;ホウジン;"corporate body"
+泣;7;号泣;431;ゴウキュウ;"crying aloud"
+泣;7;感泣;9;カンキュウ;"being moved to tears"
+浅;7;浅見;943;センケン;"shallow view"
+浅;7;浅瀬;258;アサセ;shoal
+浴;7;入浴;2237;ニュウヨク;bathing
+浴;7;浴室;1195;ヨクシツ;bathroom
+清;7;清掃;3035;セイソウ;cleaning
+清;7;清算;2105;セイサン;settlement
+満;7;不満;15813;フマン;dissatisfaction
+満;7;満足;9821;マンゾク;satisfaction
+滋;7;滋養;154;ジヨウ;nourishment
+滋;7;滋味;138;;nutriment
+漁;7;漁船;5182;ギョセン;"fishing boat"
+漁;7;漁業;4238;ギョギョウ;fishing
+潟;7;干潟;892;ヒガタ;"tidal flat"
+灯;7;点灯;1268;テントウ;lighting
+灯;7;灯油;1164;トウユ;"lamp oil"
+無;7;無料;22035;ムリョウ;free
+無;7;無職;19909;ムショク;"without an occupation"
+然;7;自然;33156;シゼン;nature
+然;7;当然;11167;トウゼン;natural
+焼;7;全焼;2375;ゼンショウ;"burned down"
+焼;7;焼却;2251;ショウキャク;incineration
+照;7;対照;4024;タイショウ;contrast
+照;7;参照;3854;サンショウ;reference
+熊;7;穴熊;645;;badger
+熊;7;熊手;34;クマデ;rake
+熱;7;熱心;4410;ネッシン;zeal
+熱;7;情熱;3237;ジョウネツ;passion
+牧;7;牧場;1738;ボクジョウ;farm
+牧;7;牧師;1063;ボクシ;pastor
+特;7;特別;52481;トクベツ;special
+特;7;特定;19699;トクテイ;specific
+産;7;生産;37922;セイサン;production
+産;7;産業;34584;サンギョウ;industry
+的;7;目的;30136;モクテキ;purpose
+的;7;公的;13261;コウテキ;public
+省;7;同省;14447;ドウショウ;"the said ministry"
+省;7;反省;11735;ハンセイ;reflection
+祝;7;祝日;2854;シュクジツ;"national holiday"
+祝;7;祝福;2280;シュクフク;blessing
+票;7;投票;47841;トウヒョウ;voting
+票;7;得票;7548;トクヒョウ;"number of votes polled"
+種;7;種類;14341;シュルイ;variety
+種;7;種目;11807;シュモク;event
+積;7;積極;21800;セッキョク;positive
+積;7;面積;5853;メンセキ;area
+競;7;競技;29520;キョウギ;game
+競;7;競争;21828;キョウソウ;competition
+笑;7;笑顔;17931;エガオ;"smiling face"
+笑;7;苦笑;1591;クショウ;"bitter smile"
+管;7;管理;46863;カンリ;control
+管;7;保管;5584;ホカン;charge
+節;7;節目;3118;フシメ;"turning point"
+節;7;節約;2659;セツヤク;economising
+約;7;契約;38393;ケイヤク;contract
+約;7;条約;24460;ジョウヤク;treaty
+結;7;結果;82621;ケッカ;result
+結;7;結婚;18170;ケッコン;marriage
+給;7;供給;12801;キョウキュウ;supply
+給;7;支給;11609;シキュウ;provision
+続;7;連続;72174;レンゾク;serial
+続;7;継続;20465;ケイゾク;continuation
+縄;7;縄文;1383;ジョウモン;"Jomon period"
+縄;7;泥縄;72;ドロナワ;"braiding the rope only after the thief is caught"
+置;7;設置;35195;セッチ;establishment
+置;7;措置;31150;ソチ;measure
+群;7;抜群;2069;バツグン;preeminence
+群;7;群像;1076;グンゾウ;"sculptured group"
+老;7;老人;8931;ロウジン;"the aged"
+老;7;老後;2592;ロウゴ;"old age"
+臣;7;大臣;12136;ダイジン;"cabinet minister"
+臣;7;家臣;474;カシン;vassal
+良;7;不良;15437;フリョウ;badness
+良;7;改良;4322;カイリョウ;improvement
+芸;7;芸術;15246;ゲイジュツ;art
+芸;7;文芸;4356;ブンゲイ;literature
+芽;7;発芽;401;ハツガ;germination
+芽;7;麦芽;395;バクガ;malt
+英;7;英語;13501;エイゴ;English
+英;7;英雄;2760;エイユウ;hero
+茨;7;野茨;3;ノイバラ;"multiflora rose"
+菜;7;野菜;10976;ヤサイ;vegetable
+菜;7;総菜;625;ソウザイ;"side dish"
+街;7;街頭;3794;ガイトウ;"in the street"
+街;7;街道;1166;カイドウ;highway
+衣;7;衣装;2935;イショウ;clothing
+衣;7;衣料;2701;イリョウ;clothing
+要;7;必要;126985;ヒツヨウ;necessary
+要;7;重要;41813;ジュウヨウ;important
+覚;7;発覚;12049;ハッカク;detection
+覚;7;感覚;11196;カンカク;sense
+観;7;観光;20746;カンコウ;sightseeing
+観;7;観測;15944;カンソク;observation
+訓;7;訓練;13198;クンレン;practice
+訓;7;教訓;4761;キョウクン;lesson
+試;7;試合;107924;シアイ;match
+試;7;試験;20016;シケン;examination
+説;7;説明;174920;セツメイ;explanation
+説;7;小説;21163;ショウセツ;novel
+課;7;課題;35432;カダイ;subject
+課;7;課長;12598;カチョウ;"section manager"
+議;7;会議;97984;カイギ;meeting
+議;7;議員;91841;ギイン;"member of the Diet, congress or parliament"
+貨;7;通貨;8488;ツウカ;currency
+貨;7;貨物;3580;カモツ;cargo
+賀;7;祝賀;1067;シュクガ;celebration
+賀;7;年賀;547;ネンガ;"New Year's greetings"
+軍;7;軍事;24725;グンジ;"military affairs"
+軍;7;海軍;6167;カイグン;navy
+輪;7;五輪;81749;ゴリン;"the Olympics"
+輪;7;車輪;1154;シャリン;wheel
+辞;7;辞任;19614;ジニン;"to resign"
+辞;7;辞職;7526;ジショク;resignation
+辺;7;周辺;25411;シュウヘン;circumference
+辺;7;上辺;1363;ジョウヘン;seeming
+連;7;連続;72174;レンゾク;serial
+連;7;関連;59084;カンレン;relation
+達;7;達成;20771;タッセイ;achievement
+達;7;調達;7820;チョウタツ;supply
+選;7;選手;122240;センシュ;player
+選;7;選挙;111854;センキョ;election
+郡;7;郡部;212;グンブ;"rural districts"
+量;7;大量;23294;タイリョウ;"large quantity"
+量;7;量的;3044;リョウテキ;substantively
+録;7;記録;59875;キロク;record
+録;7;登録;19820;トウロク;registration
+鏡;7;眼鏡;1346;メガネ;spectacles
+鏡;7;手鏡;87;テカガミ;hand-mirror
+関;7;関係;146333;カンケイ;relation
+関;7;機関;70227;キカン;engine
+阪;7;京阪;198;ケイハン;Kyoto-Osaka
+陸;7;陸上;18229;リクジョウ;land
+陸;7;大陸;4885;タイリク;continent
+隊;7;部隊;17759;ブタイ;force
+隊;7;隊員;6712;タイイン;troops
+静;7;冷静;7525;レイセイ;calm
+静;7;沈静;1361;チンセイ;stillness
+順;7;順位;19416;ジュンイ;order
+順;7;順調;6322;ジュンチョウ;favourable
+願;7;志願;2007;シガン;aspiration
+願;7;悲願;1953;ヒガン;"one's dearest wish"
+類;7;種類;14341;シュルイ;variety
+類;7;書類;10300;ショルイ;documents
+飛;7;飛行;9359;ヒコウ;aviation
+飛;7;飛車;3905;ヒシャ;castle
+飯;7;炊飯;532;スイハン;"rice cooking"
+飯;7;夕飯;214;ユウメシ;"evening meal"
+養;7;栄養;5095;エイヨウ;nutrition
+養;7;療養;4585;リョウヨウ;recuperation
+香;7;香水;466;コウスイ;perfume
+香;7;香料;448;コウリョウ;flavoring
+験;7;経験;37752;ケイケン;experience
+験;7;実験;22707;ジッケン;experiment
+鹿;7;馬鹿;298;バカ;fool
+鹿;7;鹿毛;17;カゲ;"fawn colour"
+久;6;久々;2103;ヒサビサ;"long time"
+久;6;恒久;2093;コウキュウ;permanent
+仏;6;仏像;1214;ブツゾウ;"statue of Buddha"
+仏;6;仏壇;636;ブツダン;altar
+仮;6;仮設;2621;カセツ;temporary
+仮;6;仮称;2422;カショウ;"temporary name"
+件;6;事件;142862;ジケン;event
+件;6;条件;27992;ジョウケン;condition
+任;6;責任;59232;セキニン;duty
+任;6;就任;37839;シュウニン;inauguration
+似;6;類似;1512;ルイジ;resemblance
+似;6;酷似;748;コクジ;resemblance
+余;6;余裕;7848;ヨユウ;surplus
+余;6;余録;4940;ヨロク;"unofficial record"
+価;6;評価;54248;ヒョウカ;valuation
+価;6;価格;44749;カカク;price
+保;6;保険;58594;ホケン;insurance
+保;6;保護;40729;ホゴ;care
+修;6;修正;23910;シュウセイ;amendment
+修;6;研修;8775;ケンシュウ;training
+個;6;個人;53575;コジン;individual
+個;6;個別;7223;コベツ;"particular case"
+停;6;停止;26906;テイシ;suspension
+停;6;停戦;4654;テイセン;armistice
+備;6;整備;27465;セイビ;maintenance
+備;6;準備;24649;ジュンビ;preparation
+像;6;映像;17094;エイゾウ;reflection
+像;6;想像;8163;ソウゾウ;imagination
+再;6;再生;28096;サイセイ;resuscitation
+再;6;再開;25989;サイカイ;reopening
+刊;6;刊行;7173;カンコウ;publication
+刊;6;新刊;6721;シンカン;"new book"
+判;6;判断;64033;ハンダン;judgement
+判;6;批判;62123;ヒハン;criticism
+制;6;制度;77296;セイド;system
+制;6;規制;30846;キセイ;regulation
+則;6;原則;18397;ゲンソク;principle
+則;6;罰則;3636;バッソク;punishment
+効;6;効果;40590;コウカ;effect
+効;6;有効;17919;ユウコウ;validity
+務;6;事務;40474;ジム;business
+務;6;業務;29671;ギョウム;business
+勢;6;姿勢;46677;シセイ;attitude
+勢;6;勢力;24763;セイリョク;influence
+厚;6;厚生;25220;コウセイ;welfare
+厚;6;濃厚;2654;ノウコウ;density
+句;6;俳句;7026;ハイク;haiku
+句;6;句集;2784;クシュウ;"collection of haiku poems"
+可;6;可能;112430;カノウ;potential
+可;6;許可;10122;キョカ;permission
+史;6;歴史;40132;レキシ;history
+史;6;史上;15396;シジョウ;historical
+告;6;報告;69746;ホウコク;report
+告;6;被告;60441;ヒコク;defendant
+喜;6;喜劇;1572;キゲキ;comedy
+喜;6;歓喜;1252;カンキ;delight
+営;6;経営;67494;ケイエイ;management
+営;6;運営;28246;ウンエイ;management
+因;6;原因;31121;ゲンイン;cause
+因;6;要因;10281;ヨウイン;"main cause"
+団;6;団体;60511;ダンタイ;organization
+団;6;球団;22582;キュウダン;"baseball team"
+囲;6;囲碁;13057;イゴ;go
+囲;6;周囲;11605;シュウイ;surroundings
+圧;6;圧力;13033;アツリョク;pressure
+圧;6;圧勝;5114;アッショウ;"complete victory"
+在;6;現在;193742;ゲンザイ;now
+在;6;存在;33809;ソンザイ;existence
+均;6;平均;34690;ヘイキン;average
+均;6;均衡;2526;キンコウ;equilibrium
+型;6;大型;15328;オオガタ;large
+型;6;新型;12264;シンガタ;"new type"
+基;6;基本;41520;キホン;foundation
+基;6;基準;33274;キジュン;standard
+堂;6;堂々;2613;ドウドウ;magnificent
+堂;6;食堂;2103;ショクドウ;"dining room"
+報;6;情報;135096;ジョウホウ;news
+報;6;報告;69746;ホウコク;report
+境;6;環境;70834;カンキョウ;environment
+境;6;国境;9853;コッキョウ;"national border"
+墓;6;墓地;1662;ボチ;cemetery
+墓;6;墓石;843;ボセキ;tombstone
+増;6;増加;21454;ゾウカ;increase
+増;6;急増;8116;キュウゾウ;"rapid increase"
+士;6;同士;11790;ドウシ;fellow
+士;6;兵士;8919;ヘイシ;soldier
+夢;6;夢中;1762;ムチュウ;daze
+夢;6;悪夢;1261;アクム;nightmare
+妻;6;夫妻;7302;フサイ;"man and wife"
+妻;6;妻子;887;サイシ;"wife and children"
+婦;6;主婦;19460;シュフ;housewife
+婦;6;夫婦;13508;フウフ;"married couple"
+容;6;容疑;130370;ヨウギ;suspect
+容;6;内容;50285;ナイヨウ;subject
+寄;6;寄付;8479;キフ;contribution
+寄;6;寄与;2273;キヨ;contribution
+導;6;指導;48264;シドウ;leadership
+導;6;導入;38113;ドウニュウ;introduction
+居;6;入居;5182;ニュウキョ;"moving into"
+居;6;居住;4311;キョジュウ;residence
+属;6;所属;17097;ショゾク;"attached to"
+属;6;金属;5502;キンゾク;metal
+布;6;配布;5735;ハイフ;distribution
+布;6;財布;2379;サイフ;purse
+師;6;医師;32234;イシ;doctor
+師;6;教師;11734;キョウシ;teacher
+常;6;通常;18515;ツウジョウ;common
+常;6;非常;14820;ヒジョウ;emergency
+幹;6;幹部;53544;カンブ;management
+幹;6;幹事;38005;カンジ;"executive secretary"
+序;6;序盤;5801;ジョバン;
+序;6;秩序;2956;チツジョ;order
+弁;6;弁護;14035;ベンゴ;defense
+弁;6;答弁;6993;トウベン;response
+張;6;主張;43845;シュチョウ;claim
+張;6;緊張;13479;キンチョウ;tension
+往;6;往復;3763;オウフク;"making a round trip"
+往;6;往来;1255;オウライ;"coming and going"
+得;6;獲得;33772;カクトク;acquisition
+得;6;得点;32534;トクテン;score
+復;6;回復;35990;カイフク;restoration
+復;6;復帰;18414;フッキ;return
+志;6;志向;4804;シコウ;intention
+志;6;有志;2341;ユウシ;voluntary
+応;6;対応;64244;タイオウ;interaction
+応;6;応援;14646;オウエン;aid
+快;6;快勝;6853;カイショウ;"sweeping victory"
+快;6;不快;3001;フカイ;unpleasant
+性;6;女性;114178;ジョセイ;woman
+性;6;男性;68928;ダンセイ;man
+情;6;情報;135096;ジョウホウ;news
+情;6;事情;20654;ジジョウ;circumstances
+態;6;状態;37309;ジョウタイ;"current status"
+態;6;事態;22051;ジタイ;situation
+慣;6;習慣;5133;シュウカン;custom
+慣;6;慣例;1102;カンレイ;custom
+技;6;技術;57528;ギジュツ;art
+技;6;競技;29520;キョウギ;game
+招;6;招待;8701;ショウタイ;invitation
+招;6;招致;5935;ショウチ;invitation
+授;6;教授;69910;キョウジュ;professor
+授;6;授業;15412;ジュギョウ;lesson
+採;6;採用;20770;サイヨウ;use
+採;6;採択;12720;サイタク;adoption
+接;6;直接;21821;チョクセツ;direct
+接;6;接触;8250;セッショク;touch
+提;6;提出;40775;テイシュツ;"to present"
+提;6;提供;37542;テイキョウ;offer
+損;6;損害;11194;ソンガイ;damage
+損;6;損失;8739;ソンシツ;loss
+支;6;支援;93865;シエン;support
+支;6;支持;63236;シジ;support
+政;6;政府;181556;セイフ;government
+政;6;政治;104674;セイジ;politics
+故;6;事故;59318;ジコ;accident
+故;6;故障;7991;コショウ;breakdown
+救;6;救済;11713;キュウサイ;relief
+救;6;救援;8465;キュウエン;relief
+断;6;判断;64033;ハンダン;judgement
+断;6;診断;12273;シンダン;diagnosis
+旧;6;復旧;4140;フッキュウ;restoration
+旧;6;新旧;1195;シンキュウ;"new and old"
+易;6;貿易;20557;ボウエキ;trade
+易;6;容易;5097;ヨウイ;easy
+暴;6;暴力;10843;ボウリョク;violence
+暴;6;暴行;8824;ボウコウ;assault
+条;6;条件;27992;ジョウケン;condition
+条;6;条約;24460;ジョウヤク;treaty
+枝;6;枝豆;346;エダマメ;edamame
+枝;6;枝葉;172;エダハ;"leaves and branches"
+査;6;調査;123787;チョウサ;investigation
+査;6;捜査;52772;ソウサ;search
+格;6;価格;44749;カカク;price
+格;6;本格;22986;ホンカク;"original method or procedure"
+桜;6;桜花;1054;オウカ;"cherry blossom"
+桜;6;山桜;154;ヤマザクラ;"mountain cherry"
+検;6;検討;68934;ケントウ;consideration
+検;6;検査;33509;ケンサ;inspection
+構;6;機構;30947;キコウ;mechanism
+構;6;構造;24054;コウゾウ;structure
+武;6;武装;17535;ブソウ;arms
+武;6;武器;11784;ブキ;weapon
+歴;6;歴史;40132;レキシ;history
+歴;6;略歴;19525;リャクレキ;"brief personal record"
+殺;6;殺人;25860;サツジン;murder
+殺;6;殺害;24481;サツガイ;killing
+毒;6;中毒;3600;チュウドク;poisoning
+毒;6;毒性;1222;ドクセイ;toxicity
+比;6;比例;14813;ヒレイ;proportion
+比;6;比率;9654;ヒリツ;ratio
+永;6;永遠;2289;エイエン;eternity
+永;6;永住;1690;エイジュウ;"permanent residence"
+河;6;河川;2499;カセン;rivers
+河;6;銀河;1368;ギンガ;"Milky Way"
+液;6;血液;6266;ケツエキ;blood
+液;6;液晶;3208;エキショウ;"liquid crystal"
+混;6;混乱;16059;コンラン;disorder
+混;6;混入;3801;コンニュウ;mixing
+減;6;削減;42329;サクゲン;cut
+減;6;減少;20773;ゲンショウ;decrease
+測;6;観測;15944;カンソク;observation
+測;6;予測;11265;ヨソク;prediction
+準;6;基準;33274;キジュン;standard
+準;6;準備;24649;ジュンビ;preparation
+演;6;演説;19676;エンゼツ;speech
+演;6;講演;17339;コウエン;lecture
+潔;6;清潔;1006;セイケツ;clean
+潔;6;簡潔;531;カンケツ;brevity
+災;6;被災;13437;ヒサイ;"being a victim of"
+災;6;災害;12407;サイガイ;calamity
+燃;6;燃料;16415;ネンリョウ;fuel
+燃;6;燃費;2098;ネンピ;"fuel consumption"
+版;6;出版;25091;シュッパン;publication
+版;6;版画;1914;ハンガ;woodcut
+犯;6;犯罪;21232;ハンザイ;crime
+犯;6;犯行;7604;ハンコウ;crime
+状;6;状況;53045;ジョウキョウ;"state of affairs"
+状;6;状態;37309;ジョウタイ;"current status"
+独;6;独立;24217;ドクリツ;independence
+独;6;独自;18093;ドクジ;original
+率;6;打率;11814;ダリツ;"batting average"
+率;6;効率;10098;コウリツ;efficiency
+現;6;現在;193742;ゲンザイ;now
+現;6;現場;37182;ゲンバ;"actual spot"
+留;6;駐留;7709;チュウリュウ;stationing
+留;6;残留;6047;ザンリュウ;residual
+略;6;戦略;27741;センリャク;strategy
+略;6;略歴;19525;リャクレキ;"brief personal record"
+益;6;利益;26770;リエキ;profit
+益;6;収益;11130;シュウエキ;earnings
+眼;6;眼鏡;1346;メガネ;spectacles
+眼;6;主眼;788;シュガン;"main point"
+破;6;破壊;17091;ハカイ;destruction
+破;6;突破;10966;トッパ;"breaking through"
+確;6;確認;56273;カクニン;confirmation
+確;6;確保;27050;カクホ;guarantee
+示;6;表示;136067;ヒョウジ;indication
+示;6;指示;23077;シジ;indication
+祖;6;祖母;4103;ソボ;grandmother
+祖;6;祖父;3931;ソフ;grandfather
+禁;6;禁止;28207;キンシ;prohibition
+禁;6;解禁;4585;カイキン;"lifting a ban"
+移;6;移植;11711;イショク;transplanting
+移;6;移動;11315;イドウ;movement
+程;6;程度;28636;テイド;degree
+程;6;日程;16236;ニッテイ;schedule
+税;6;税制;12241;ゼイセイ;"tax system"
+税;6;課税;9265;カゼイ;taxation
+築;6;建築;14307;ケンチク;construction
+築;6;構築;9479;コウチク;construction
+粉;6;花粉;2717;カフン;pollen
+粉;6;粉飾;2049;フンショク;makeup
+精;6;精神;27838;セイシン;mind
+精;6;精度;2362;セイド;precision
+紀;6;世紀;32655;セイキ;century
+紀;6;紀行;1078;キコウ;"traveller's journal"
+素;6;素材;6819;ソザイ;"raw materials"
+素;6;要素;5956;ヨウソ;component
+経;6;経済;139962;ケイザイ;economics
+経;6;経営;67494;ケイエイ;management
+統;6;統合;20631;トウゴウ;integration
+統;6;統一;17036;トウイツ;unity
+絶;6;絶対;10871;ゼッタイ;absolutely
+絶;6;絶望;2959;ゼツボウ;despair
+綿;6;石綿;3656;イシワタ;asbestos
+綿;6;海綿;1973;カイメン;sponge
+総;6;総合;42096;ソウゴウ;synthesis
+総;6;総裁;31604;ソウサイ;president
+編;6;編集;26885;ヘンシュウ;editing
+編;6;再編;14525;サイヘン;reorganization
+績;6;成績;24323;セイセキ;results
+績;6;実績;15319;ジッセキ;achievements
+織;6;組織;57210;ソシキ;organization
+織;6;織物;465;オリモノ;textile
+罪;6;犯罪;21232;ハンザイ;crime
+罪;6;謝罪;12361;シャザイ;apology
+義;6;主義;36357;シュギ;doctrine
+義;6;義務;14161;ギム;duty
+耕;6;耕作;915;コウサク;cultivation
+耕;6;農耕;365;ノウコウ;farming
+職;6;職員;38190;ショクイン;"staff member"
+職;6;無職;19909;ムショク;"without an occupation"
+肥;6;肥満;2091;ヒマン;corpulence
+肥;6;肥料;1807;ヒリョウ;manure
+能;6;可能;112430;カノウ;potential
+能;6;機能;27006;キノウ;function
+脈;6;動脈;1560;ドウミャク;artery
+脈;6;人脈;1547;ジンミャク;"personal connections"
+興;6;復興;16486;フッコウ;revival
+興;6;振興;10076;シンコウ;promotion
+舎;6;校舎;2750;コウシャ;"school building"
+舎;6;宿舎;2575;シュクシャ;"lodging house"
+航;6;航空;18609;コウクウ;aviation
+航;6;難航;6380;ナンコウ;"difficult voyage"
+術;6;技術;57528;ギジュツ;art
+術;6;手術;16350;シュジュツ;operation
+衛;6;防衛;29521;ボウエイ;defense
+衛;6;衛星;10063;エイセイ;satellite
+製;6;製造;22883;セイゾウ;manufacture
+製;6;製品;17735;セイヒン;"manufactured goods"
+複;6;複数;16324;フクスウ;several
+複;6;複雑;8948;フクザツ;complex
+規;6;規模;35071;キボ;scale
+規;6;規制;30846;キセイ;regulation
+解;6;理解;31677;リカイ;understanding
+解;6;解決;31540;カイケツ;settlement
+設;6;施設;56422;シセツ;institution
+設;6;建設;41659;ケンセツ;construction
+許;6;許可;10122;キョカ;permission
+許;6;免許;6286;メンキョ;license
+証;6;証券;28729;ショウケン;securities
+証;6;証言;14207;ショウゲン;evidence
+評;6;評価;54248;ヒョウカ;valuation
+評;6;評論;10769;ヒョウロン;criticism
+講;6;講演;17339;コウエン;lecture
+講;6;講師;9082;コウシ;lecturer
+謝;6;謝罪;12361;シャザイ;apology
+謝;6;感謝;11616;カンシャ;thanks
+識;6;意識;34656;イシキ;consciousness
+識;6;認識;26281;ニンシキ;recognition
+護;6;保護;40729;ホゴ;care
+護;6;介護;27012;カイゴ;nursing
+豊;6;豊富;6255;ホウフ;abundance
+豊;6;豊作;460;ホウサク;"abundant harvest"
+象;6;対象;65512;タイショウ;target
+象;6;印象;16001;インショウ;impression
+財;6;財政;41934;ザイセイ;"financial affairs"
+財;6;財務;20854;ザイム;"financial affairs"
+貧;6;貧困;7313;ヒンコン;poor
+貧;6;貧富;862;ヒンプ;"wealth and poverty"
+責;6;責任;59232;セキニン;duty
+責;6;責務;2155;セキム;duty
+貯;6;貯金;5052;チョキン;"putting money aside"
+貯;6;郵貯;2031;ユウチョ;savings
+貸;6;賃貸;2563;チンタイ;lease
+貸;6;貸付;1715;;loan
+費;6;消費;53733;ショウヒ;consumption
+費;6;費用;15177;ヒヨウ;cost
+貿;6;貿易;20557;ボウエキ;trade
+資;6;資金;50209;シキン;funds
+資;6;投資;43670;トウシ;investment
+賛;6;賛成;17018;サンセイ;approval
+賛;6;協賛;5467;キョウサン;support
+賞;6;受賞;29111;ジュショウ;winning
+賞;6;大賞;9353;タイショウ;"big prize"
+質;6;質問;28097;シツモン;question
+質;6;物質;12456;ブッシツ;material
+輸;6;輸入;23175;ユニュウ;importation
+輸;6;輸出;20082;ユシュツ;export
+述;6;供述;13190;キョウジュツ;affidavit
+述;6;記述;4547;キジュツ;description
+迷;6;低迷;11008;テイメイ;"hanging low"
+迷;6;迷惑;6283;メイワク;trouble
+逆;6;逆転;24438;ギャクテン;change
+逆;6;逆風;2021;ギャクフウ;headwind
+造;6;構造;24054;コウゾウ;structure
+造;6;製造;22883;セイゾウ;manufacture
+過;6;過去;46813;カコ;"the past"
+過;6;通過;9800;ツウカ;"passage through"
+適;6;適用;14885;テキヨウ;applying
+適;6;適時;13506;テキジ;timely
+酸;6;酸素;2978;サンソ;oxygen
+酸;6;酸化;2075;サンカ;oxidation
+鉱;6;炭鉱;1400;タンコウ;"coal mine"
+鉱;6;鉱山;1348;コウザン;mine
+銅;6;銅像;631;ドウゾウ;"bronze statue"
+銅;6;銅山;516;ドウザン;"copper mine"
+防;6;防衛;29521;ボウエイ;defense
+防;6;防止;27931;ボウシ;prevention
+限;6;制限;17101;セイゲン;restriction
+限;6;期限;15121;キゲン;term
+険;6;保険;58594;ホケン;insurance
+険;6;危険;24234;キケン;danger
+際;6;国際;120870;コクサイ;international
+際;6;実際;17742;ジッサイ;practicality
+雑;6;雑誌;10967;ザッシ;journal
+雑;6;複雑;8948;フクザツ;complex
+非;6;非常;14820;ヒジョウ;emergency
+非;6;非難;12185;ヒナン;criticism
+領;6;占領;6950;センリョウ;occupation
+領;6;領土;3729;リョウド;dominion
+額;6;総額;17953;ソウガク;"sum total"
+額;6;金額;11193;キンガク;"amount of money"
+飼;6;飼育;3486;シイク;breeding
+飼;6;飼料;2078;;fodder
+並;5;並行;2395;ヘイコウ;side-by-side
+並;5;並木;739;ナミキ;"roadside tree"
+乱;5;混乱;16059;コンラン;disorder
+乱;5;波乱;2745;ハラン;troubles
+乳;5;牛乳;3076;ギュウニュウ;milk
+乳;5;乳児;1537;ニュウジ;infant
+亡;5;死亡;56936;シボウ;death
+亡;5;亡命;4621;ボウメイ;"flight from one's country"
+仁;5;寛仁;282;カンジン;magnanimous
+仁;5;仁義;206;ジンギ;"humanity and justice"
+供;5;子供;65559;コドモ;child
+供;5;提供;37542;テイキョウ;offer
+俳;5;俳優;9515;ハイユウ;actor
+俳;5;俳句;7026;ハイク;haiku
+俵;5;土俵;5643;ドヒョウ;"arena, esp. in sumo"
+俵;5;桟俵;2;サンダワラ;"straw lid covering either end of a rice container"
+値;5;価値;15765;カチ;value
+値;5;終値;12828;;"closing price"
+傷;5;負傷;12050;フショウ;injury
+傷;5;傷害;6957;ショウガイ;wound
+優;5;優勝;86887;ユウショウ;"overall victory"
+優;5;優先;18016;ユウセン;preference
+党;5;与党;45435;ヨトウ;"ruling party"
+党;5;野党;30533;ヤトウ;"opposition party"
+冊;5;冊子;1441;;book
+冊;5;別冊;329;ベッサツ;"separate volume"
+処;5;処分;37895;ショブン;disposal
+処;5;処理;31136;ショリ;processing
+券;5;証券;28729;ショウケン;securities
+券;5;債券;3575;サイケン;bond
+刻;5;深刻;14542;シンコク;serious
+刻;5;彫刻;3026;チョウコク;carving
+割;5;役割;20304;ヤクワリ;part
+割;5;割合;10394;ワリアイ;rate
+創;5;創設;11633;ソウセツ;establishment
+創;5;創造;5658;ソウゾウ;creation
+劇;5;劇場;13236;ゲキジョウ;theatre
+劇;5;演劇;6146;エンゲキ;drama
+勤;5;勤務;14186;キンム;service
+勤;5;通勤;3098;ツウキン;"commuting to work"
+危;5;危機;37175;キキ;crisis
+危;5;危険;24234;キケン;danger
+卵;5;卵子;1646;ランシ;ovum
+卵;5;産卵;1027;サンラン;egg-laying
+厳;5;厳格;3618;ゲンカク;severe
+厳;5;厳重;2857;ゲンジュウ;strict
+収;5;買収;16156;バイシュウ;acquisition
+収;5;回収;15134;カイシュウ;collection
+后;5;皇后;3500;コウゴウ;empress
+后;5;午后;4;;afternoon
+否;5;否定;25189;ヒテイ;negation
+否;5;拒否;21198;キョヒ;denial
+吸;5;呼吸;6657;コキュウ;breath
+吸;5;吸収;5097;キュウシュウ;absorption
+呼;5;呼吸;6657;コキュウ;breath
+呼;5;呼称;1011;コショウ;naming
+善;5;改善;31534;カイゼン;betterment
+善;5;親善;3919;シンゼン;friendship
+困;5;困難;16374;コンナン;difficulty
+困;5;貧困;7313;ヒンコン;poor
+垂;5;垂直;486;スイチョク;vertical
+垂;5;垂直;164;スイチョク;vertical
+域;5;地域;76310;チイキ;area
+域;5;区域;2721;クイキ;limits
+奏;5;演奏;12456;エンソウ;"musical performance"
+奏;5;奏者;1671;ソウシャ;instrumentalist
+奮;5;興奮;3878;コウフン;excitement
+奮;5;奮闘;2005;フントウ;"hard struggle"
+姿;5;姿勢;46677;シセイ;attitude
+姿;5;容姿;454;ヨウシ;appearance
+存;5;存在;33809;ソンザイ;existence
+存;5;保存;8201;ホゾン;preservation
+孝;5;孝行;348;コウコウ;"filial piety"
+孝;5;孝子;101;コウシ;"filial child"
+宅;5;自宅;38781;ジタク;"one's home"
+宅;5;住宅;38045;ジュウタク;residence
+宇;5;宇宙;18936;ウチュウ;universe
+宇;5;気宇;52;キウ;"breadth of mind"
+宗;5;宗教;11894;シュウキョウ;religion
+宗;5;宗派;1298;シュウハ;sect
+宙;5;宇宙;18936;ウチュウ;universe
+宝;5;国宝;2257;コクホウ;"national treasure"
+宝;5;家宝;1616;カホウ;heirloom
+宣;5;宣言;24453;センゲン;declaration
+宣;5;宣伝;5134;センデン;publicity
+密;5;秘密;8178;ヒミツ;secret
+密;5;機密;4606;キミツ;secrecy
+寸;5;寸前;1952;スンゼン;"on the verge"
+寸;5;寸断;567;スンダン;"to pieces"
+専;5;専門;41832;センモン;speciality
+専;5;専務;11712;センム;"managing director"
+射;5;発射;7800;ハッシャ;firing
+射;5;射殺;3866;シャサツ;"shooting to death"
+将;5;将来;26645;ショウライ;future
+将;5;将棋;18660;ショウギ;shogi
+尊;5;尊重;6301;ソンチョウ;respect
+尊;5;尊敬;2465;ソンケイ;respect
+就;5;就任;37839;シュウニン;inauguration
+就;5;就職;12004;シュウショク;"finding employment"
+尺;5;尺度;473;シャクド;"linear measure"
+尺;5;尺八;330;シャクハチ;shakuhachi
+届;5;届出;78;トドケデ;report
+展;5;展開;36357;テンカイ;development
+展;5;発展;19140;ハッテン;development
+層;5;断層;3075;ダンソウ;fault
+層;5;一層;2671;イッソウ;"much more"
+己;5;自己;21495;ジコ;self
+己;5;利己;176;リコ;self-interest
+巻;5;圧巻;963;アッカン;highlight
+巻;5;竜巻;663;タツマキ;tornado
+幕;5;開幕;31775;カイマク;"raising the curtain"
+幕;5;閉幕;3685;ヘイマク;"falling of the curtain"
+干;5;干渉;1595;カンショウ;interference
+干;5;若干;1262;ジャッカン;some
+幼;5;幼児;3892;ヨウジ;infant
+幼;5;幼少;622;ヨウショウ;infancy
+庁;5;省庁;10898;ショウチョウ;"ministries and government offices"
+庁;5;官庁;2609;カンチョウ;"government office"
+座;5;口座;8633;コウザ;account
+座;5;講座;6800;コウザ;"academic teaching unit"
+延;5;延長;25877;エンチョウ;extension
+延;5;延期;9027;エンキ;postponement
+律;5;法律;14456;ホウリツ;law
+律;5;一律;3877;イチリツ;evenness
+従;5;従来;19617;ジュウライ;"up to now"
+従;5;従業;13331;ジュウギョウ;employment
+忘;5;忘却;161;ボウキャク;"lapse of memory"
+忘;5;健忘;24;ケンボウ;forgetfulness
+忠;5;忠実;1339;チュウジツ;faithful
+忠;5;忠誠;739;チュウセイ;loyalty
+恩;5;恩恵;2127;オンケイ;grace
+恩;5;恩師;1163;オンシ;teacher
+憲;5;憲法;31773;ケンポウ;constitution
+憲;5;改憲;3675;カイケン;"constitutional change"
+我;5;我々;17800;ワレワレ;we
+我;5;我慢;3909;ガマン;patience
+批;5;批判;62123;ヒハン;criticism
+批;5;批准;4871;ヒジュン;ratification
+承;5;承認;16246;ショウニン;recognition
+承;5;了承;6879;リョウショウ;acknowledgement
+担;5;担当;63654;タントウ;"being in charge"
+担;5;負担;40646;フタン;burden
+拝;5;参拝;12649;サンパイ;"visit to a shrine or temple"
+拝;5;礼拝;1548;レイハイ;worship
+拡;5;拡大;45995;カクダイ;magnification
+拡;5;拡散;5855;カクサン;scattering
+捨;5;喜捨;54;キシャ;almsgiving
+捨;5;取捨;25;シュシャ;choice
+探;5;探査;2998;タンサ;probe
+探;5;探偵;1622;タンテイ;detective
+推;5;推進;26738;スイシン;propulsion
+推;5;推薦;13067;スイセン;recommendation
+揮;5;指揮;13054;シキ;command
+揮;5;発揮;11195;ハッキ;exhibition
+操;5;操作;7250;ソウサ;operation
+操;5;体操;4962;タイソウ;gymnastics
+敬;5;敬称;5137;ケイショウ;"title of honour"
+敬;5;尊敬;2465;ソンケイ;respect
+敵;5;敵対;2605;テキタイ;hostility
+敵;5;敵失;1487;テキシツ;"error made by the enemy or opposing team"
+映;5;映画;51917;エイガ;movie
+映;5;映像;17094;エイゾウ;reflection
+晩;5;晩年;1950;バンネン;"last years"
+晩;5;毎晩;663;マイバン;"every night"
+暖;5;温暖;13293;オンダン;warmth
+暖;5;暖房;1606;ダンボウ;heating
+暮;5;歳暮;146;セイボ;"end of the year"
+暮;5;薄暮;68;ハクボ;dusk
+朗;5;朗読;2765;ロウドク;"reading aloud"
+朗;5;朗報;600;ロウホウ;"good news"
+机;5;机上;420;キジョウ;"on the desk"
+机;5;文机;32;フヅクエ;"Japanese-style writing desk"
+枚;5;枚数;1044;マイスウ;"the number of flat things"
+枚;5;枚挙;131;マイキョ;enumeration
+染;5;感染;27991;カンセン;infection
+染;5;汚染;7976;オセン;pollution
+株;5;株式;31200;カブシキ;stock
+株;5;株価;22040;カブカ;"stock prices"
+棒;5;鉄棒;921;;"iron rod"
+棒;5;泥棒;892;ドロボウ;thief
+模;5;規模;35071;キボ;scale
+模;5;模様;11403;モヨウ;pattern
+権;5;政権;101593;セイケン;administration
+権;5;債権;19352;サイケン;credit
+樹;5;樹立;4230;ジュリツ;establish
+樹;5;植樹;2164;ショクジュ;tree-planting
+欲;5;意欲;15391;イヨク;will
+欲;5;食欲;1383;ショクヨク;appetite
+段;5;段階;25141;ダンカイ;grade
+段;5;手段;8952;シュダン;means
+沿;5;沿岸;4054;エンガン;coast
+沿;5;沿道;887;エンドウ;route
+泉;5;温泉;7656;オンセン;spa
+泉;5;源泉;1718;ゲンセン;source
+洗;5;洗濯;3101;センタク;washing
+洗;5;洗浄;2168;センジョウ;washing
+派;5;派遣;40666;ハケン;dispatch
+派;5;派閥;9468;ハバツ;clique
+済;5;経済;139962;ケイザイ;economics
+済;5;救済;11713;キュウサイ;relief
+源;5;財源;16929;ザイゲン;"source of funds"
+源;5;資源;11625;シゲン;resources
+潮;5;風潮;1894;フウチョウ;tide
+潮;5;潮流;1278;チョウリュウ;tide
+激;5;刺激;8266;シゲキ;stimulus
+激;5;激化;5526;ゲキカ;intensification
+灰;5;灰色;911;ハイイロ;grey
+灰;5;灰皿;294;ハイザラ;ashtray
+熟;5;成熟;2274;セイジュク;maturity
+熟;5;未熟;1257;ミジュク;inexperience
+片;5;破片;1310;ハヘン;fragment
+片;5;片手;1213;カタテ;"one hand"
+班;5;班長;369;ハンチョウ;"squad leader"
+班;5;首班;137;シュハン;head
+異;5;異常;10260;イジョウ;strangeness
+異;5;異例;9225;イレイ;exception
+疑;5;容疑;130370;ヨウギ;suspect
+疑;5;疑問;19195;ギモン;question
+痛;5;痛感;2673;ツウカン;"feeling keenly"
+痛;5;腰痛;1623;ヨウツウ;pain
+皇;5;天皇;11678;テンノウ;"Emperor of Japan"
+皇;5;皇室;4095;コウシツ;"Imperial household"
+盛;5;旺盛;843;オウセイ;"full of vim and vigor"
+盛;5;盛況;706;セイキョウ;success
+盟;5;連盟;26031;レンメイ;league
+盟;5;加盟;20701;カメイ;participation
+看;5;看護;10535;カンゴ;nursing
+看;5;看板;5492;カンバン;signboard
+砂;5;砂漠;2253;サバク;desert
+砂;5;砂糖;1776;サトウ;sugar
+磁;5;磁気;862;ジキ;magnetism
+磁;5;電磁;491;デンジ;electromagnetic
+私;5;私立;7300;ワタクシリツ;private
+私;5;私的;3416;シテキ;personal
+秘;5;秘書;15414;ヒショ;secretary
+秘;5;秘密;8178;ヒミツ;secret
+穀;5;穀物;1412;コクモツ;grain
+穀;5;米穀;235;ベイコク;rice
+穴;5;穴熊;645;;badger
+穴;5;風穴;446;カザアナ;"air hole"
+窓;5;窓口;7340;マドグチ;"ticket window"
+窓;5;車窓;364;シャソウ;"train window"
+筋;5;道筋;3605;ミチスジ;path
+筋;5;筋肉;3408;キンニク;muscle
+策;5;政策;80580;セイサク;"political measures"
+策;5;対策;74068;タイサク;measure
+簡;5;簡単;12576;カンタン;simple
+簡;5;書簡;3222;ショカン;letter
+糖;5;糖尿;4982;トウニョウ;glycosuria
+糖;5;砂糖;1776;サトウ;sugar
+系;5;日系;3698;ニッケイ;"Japanese descent"
+系;5;系列;2791;ケイレツ;series
+紅;5;紅白;2337;コウハク;"red and white"
+紅;5;紅葉;1492;コウヨウ;"autumn colours"
+納;5;納得;11094;ナットク;consent
+納;5;納税;3278;ノウゼイ;"payment of taxes"
+純;5;単純;5212;タンジュン;simplicity
+純;5;純粋;2292;ジュンスイ;pure
+絹;5;絹本;46;ケンポン;"silk used in artwork"
+絹;5;絹糸;43;ケンシ;"silk thread"
+縦;5;操縦;2645;ソウジュウ;flying
+縦;5;縦断;722;ジュウダン;"flying through"
+縮;5;縮小;8200;シュクショウ;reduction
+縮;5;濃縮;5530;ノウシュク;concentration
+署;5;署名;9513;ショメイ;signature
+署;5;同署;8626;ドウショ;authorities
+翌;5;翌日;7614;ヨクジツ;"next day"
+翌;5;翌年;4601;ヨクネン;"following year"
+聖;5;棋聖;3795;キセイ;"great master of go"
+聖;5;聖火;2612;セイカ;"sacred fire"
+肺;5;肺炎;5768;ハイエン;pneumonia
+肺;5;心肺;899;シンパイ;"heart and lungs"
+胃;5;胃腸;599;イチョウ;stomach
+胃;5;胃袋;203;イブクロ;stomach
+背;5;背景;27058;ハイケイ;background
+背;5;背中;5008;セナカ;back
+胸;5;度胸;608;ドキョウ;courage
+胸;5;胸中;565;キョウチュウ;"one's heart"
+脳;5;首脳;41672;シュノウ;head
+脳;5;脳死;3407;ノウシ;"brain death"
+腸;5;大腸;1200;ダイチョウ;"large intestine"
+腸;5;胃腸;599;イチョウ;stomach
+腹;5;腹部;1077;フクブ;abdomen
+腹;5;裏腹;1064;ウラハラ;opposite
+臓;5;臓器;6775;ゾウキ;"internal organs"
+臓;5;心臓;6469;シンゾウ;heart
+臨;5;臨時;12320;リンジ;temporary
+臨;5;臨床;3933;リンショウ;clinical
+至;5;必至;5305;;inevitable
+至;5;至上;1275;シジョウ;supremacy
+舌;5;舌戦;383;ゼッセン;"war of words"
+舌;5;毒舌;225;ドクゼツ;"wicked tongue"
+若;5;若者;18974;ワカモノ;"young man"
+若;5;若手;14271;ワカテ;"young person"
+著;5;著作;127950;チョサク;writing
+著;5;著者;12899;チョシャ;author
+蒸;5;蒸気;1268;ジョウキ;steam
+蒸;5;蒸発;376;ジョウハツ;evaporation
+蔵;5;蔵相;2436;ゾウショウ;"Minister of Finance"
+蔵;5;埋蔵;1598;マイゾウ;"buried property"
+蚕;5;養蚕;142;ヨウサン;sericulture
+蚕;5;蚕室;28;サンシツ;"silkworm-raising room"
+衆;5;観衆;4833;カンシュウ;spectators
+衆;5;大衆;4031;タイシュウ;"general public"
+裁;5;裁判;40926;サイバン;trial
+裁;5;地裁;36349;チサイ;"district court"
+装;5;武装;17535;ブソウ;arms
+装;5;装置;11976;ソウチ;equipment
+裏;5;裏金;3239;ウラガネ;bribe
+裏;5;裏側;1358;ウラガワ;"the reverse"
+補;5;候補;53816;コウホ;candidate
+補;5;補助;17419;ホジョ;assistance
+視;5;重視;19314;ジュウシ;importance
+視;5;監視;15234;カンシ;monitoring
+覧;5;展覧;3802;テンラン;exhibition
+覧;5;閲覧;2778;エツラン;inspection
+討;5;検討;68934;ケントウ;consideration
+討;5;討論;7823;トウロン;debate
+訪;5;訪問;30844;ホウモン;call
+訪;5;訪中;3975;ホウチュウ;"visit to China"
+訳;5;翻訳;4771;ホンヤク;translation
+訳;5;内訳;3230;ウチワケ;itemization
+詞;5;作詞;2133;サクシ;"song lyrics"
+詞;5;歌詞;1741;カシ;"song lyrics"
+誌;5;雑誌;10967;ザッシ;journal
+誌;5;日誌;1403;ニッシ;journal
+認;5;確認;56273;カクニン;confirmation
+認;5;認識;26281;ニンシキ;recognition
+誕;5;誕生;19399;タンジョウ;birth
+誕;5;生誕;2029;セイタン;birth
+誠;5;誠実;2249;セイジツ;sincere
+誠;5;誠意;1385;セイイ;sincerity
+誤;5;誤解;4244;ゴカイ;misunderstanding
+誤;5;誤算;2039;ゴサン;miscalculation
+論;5;議論;38228;ギロン;argument
+論;5;世論;19026;ヨロン;"public opinion"
+諸;5;諸国;17021;ショコク;"various countries"
+諸;5;諸島;1794;ショトウ;archipelago
+警;5;県警;38215;ケンケイ;"prefectural police"
+警;5;警察;29534;ケイサツ;police
+貴;5;貴重;6529;キチョウ;precious
+貴;5;貴族;1260;キゾク;noble
+賃;5;賃金;8039;チンギン;wages
+賃;5;運賃;2988;ウンチン;fare
+退;5;撤退;15380;テッタイ;evacuation
+退;5;退職;15081;タイショク;retirement
+遺;5;遺体;16521;イタイ;corpse
+遺;5;遺族;16145;イゾク;"bereaved family"
+郵;5;郵政;23704;ユウセイ;"postal system"
+郵;5;郵便;18593;ユウビン;"mail service"
+郷;5;故郷;5844;;"home town"
+郷;5;郷土;1503;キョウド;"native place"
+針;5;方針;76485;ホウシン;objective
+針;5;指針;6618;シシン;needle
+銭;5;金銭;3339;キンセン;money
+銭;5;銭湯;784;セントウ;bath-house
+鋼;5;鉄鋼;4762;テッコウ;"iron and steel"
+鋼;5;鋼材;901;コウザイ;"steel material"
+閉;5;閉鎖;7824;ヘイサ;closing
+閉;5;閉幕;3685;ヘイマク;"falling of the curtain"
+閣;5;内閣;44307;ナイカク;cabinet
+閣;5;閣僚;21644;カクリョウ;"cabinet ministers"
+降;5;以降;48749;イコウ;"on and after"
+降;5;降板;3202;;"leaving the mound"
+陛;5;陛下;4971;ヘイカ;"your Majesty"
+除;5;解除;15030;カイジョ;cancellation
+除;5;排除;7860;ハイジョ;exclusion
+障;5;障害;42189;ショウガイ;obstacle
+障;5;保障;29847;ホショウ;guarantee
+難;5;避難;16497;ヒナン;"taking refuge"
+難;5;困難;16374;コンナン;difficulty
+革;5;改革;86437;カイカク;reform
+革;5;革命;10294;カクメイ;revolution
+頂;5;頂点;4308;チョウテン;top
+頂;5;山頂;1924;サンチョウ;summit
+預;5;預金;9988;ヨキン;deposit
+預;5;預言;361;ヨゲン;prediction
+骨;5;骨折;4538;コッセツ;"bone fracture"
+骨;5;骨子;2499;コッシ;"main point"
+丈;4;丈夫;592;ジョウブ;healthy
+丈;4;気丈;345;キジョウ;stout-hearted
+与;4;与党;45435;ヨトウ;"ruling party"
+与;4;関与;18629;カンヨ;participation
+丘;4;丘陵;528;キュウリョウ;hill
+丘;4;墳丘;245;フンキュウ;tumulus
+丹;4;丹念;1031;タンネン;assiduity
+丹;4;牡丹;365;ボタン;"tree peony"
+乾;4;乾燥;3518;カンソウ;dryness
+乾;4;乾杯;668;カンパイ;toast
+互;4;相互;6922;アイタガイ;mutual
+互;4;互角;1861;ゴカク;equality
+介;4;紹介;30006;ショウカイ;introduction
+介;4;介護;27012;カイゴ;nursing
+仰;4;信仰;2375;シンコウ;faith
+仰;4;大仰;901;オオギョウ;exaggeration
+伺;4;伺候;1;シコウ;"waiting upon"
+依;4;依頼;10319;イライ;request
+依;4;依存;6578;イゾン;dependence
+侵;4;侵害;7067;シンガイ;infringement
+侵;4;侵入;7007;シンニュウ;penetration
+俗;4;風俗;1809;フウゾク;manners
+俗;4;民俗;1564;ミンゾク;"folk customs"
+倒;4;倒産;5135;トウサン;bankruptcy
+倒;4;圧倒;4335;アットウ;overwhelm
+偉;4;偉大;2069;イダイ;greatness
+偉;4;偉業;733;イギョウ;"great enterprise"
+傍;4;傍聴;2417;ボウチョウ;hearing
+傍;4;傍受;910;ボウジュ;interception
+傾;4;傾向;15305;ケイコウ;tendency
+傾;4;傾斜;1313;ケイシャ;inclination
+僧;4;僧侶;1392;ソウリョ;priest
+僧;4;小僧;393;コゾウ;youngster
+儀;4;葬儀;16081;ソウギ;"funeral service"
+儀;4;儀式;1282;ギシキ;ceremony
+兼;4;兼務;2211;ケンム;"holding two posts concurrently"
+兼;4;兼任;1455;ケンニン;"concurrent post"
+冒;4;冒頭;6663;ボウトウ;beginning
+冒;4;冒険;3000;ボウケン;risk
+凡;4;凡退;1553;ボンタイ;"out in 1-2-3 order"
+凡;4;平凡;1163;ヘイボン;common
+凶;4;凶悪;1452;キョウアク;atrocious
+凶;4;凶器;1021;キョウキ;"dangerous weapon"
+刈;4;刈穂;9;;"harvested grain"
+到;4;到着;10358;トウチャク;arrival
+到;4;到達;3151;トウタツ;reaching
+刺;4;刺激;8266;シゲキ;stimulus
+刺;4;刺殺;1707;シサツ;"stabbing to death"
+剣;4;真剣;5894;シンケン;seriousness
+剣;4;剣道;2717;ケンドウ;kendo
+剤;4;製剤;2392;セイザイ;formulation
+剤;4;薬剤;1414;ヤクザイ;medicine
+劣;4;劣化;2456;レッカ;deterioration
+劣;4;劣勢;1307;レッセイ;inferiority
+勧;4;勧告;10315;カンコク;advice
+勧;4;勧誘;2393;カンユウ;invitation
+匹;4;匹敵;1367;ヒッテキ;"comparing with"
+匹;4;匹夫;1;ヒップ;man
+占;4;占領;6950;センリョウ;occupation
+占;4;独占;6070;ドクセン;monopoly
+即;4;即時;2680;ソクジ;prompt
+即;4;即日;1539;ソクジツ;"same day"
+却;4;売却;15886;バイキャク;"selling off"
+却;4;棄却;5899;キキャク;rejection
+及;4;普及;12838;フキュウ;diffusion
+及;4;追及;10927;ツイキュウ;investigation
+叫;4;絶叫;608;ゼッキョウ;scream
+叫;4;叫喚;7;キョウカン;shout
+召;4;召集;2367;ショウシュウ;convening
+召;4;召喚;272;ショウカン;summons
+吐;4;吐露;752;トロ;"express one's mind"
+吐;4;嘔吐;377;オウト;vomiting
+含;4;含有;783;ガンユウ;contain
+含;4;含蓄;141;ガンチク;implication
+吹;4;息吹;450;;breath
+吹;4;吹雪;398;フブキ;"snow storm"
+唐;4;唐突;707;トウトツ;abrupt
+唐;4;唐人;55;トウジン;"Chinese person"
+嘆;4;感嘆;463;カンタン;admiration
+嘆;4;嘆願;321;タンガン;entreaty
+噴;4;噴火;4852;フンカ;eruption
+噴;4;噴出;2508;フンシュツ;spewing
+圏;4;圏内;898;ケンナイ;"within the sphere"
+圏;4;圏外;258;ケンガイ;"outside range"
+坊;4;坊主;282;ボウズ;"Buddhist priest"
+坊;4;宿坊;85;シュクボウ;"visitor's or pilgrims' lodgings in a temple"
+執;4;執行;19424;シッコウ;execution
+執;4;執筆;5505;シッピツ;writing
+堅;4;中堅;7111;チュウケン;"main body"
+堅;4;堅持;3797;ケンジ;"holding on to"
+堤;4;堤防;1414;テイボウ;bank
+堤;4;突堤;31;;breakwater
+塔;4;鉄塔;254;テットウ;pylon
+塔;4;石塔;82;セキトウ;"stone monument or pagoda"
+壁;4;壁画;1722;ヘキガ;fresco
+壁;4;外壁;1336;ソトカベ;"outer wall"
+壊;4;破壊;17091;ハカイ;destruction
+壊;4;崩壊;14901;ホウカイ;collapse
+奇;4;奇跡;2598;キセキ;miracle
+奇;4;好奇;1827;コウキ;inquisitiveness
+奥;4;奥様;370;オクサマ;wife
+奥;4;山奥;307;ヤマオク;"deep in the mountains"
+奴;4;奴隷;1121;ドレイ;slave
+奴;4;農奴;61;ノウド;serf
+妙;4;微妙;6728;ビミョウ;delicate
+妙;4;絶妙;1866;ゼツミョウ;exquisite
+姓;4;旧姓;632;キュウセイ;name
+姓;4;百姓;264;ヒャクショウ;farmer
+威;4;脅威;7866;キョウイ;threat
+威;4;権威;2953;ケンイ;authority
+娘;4;孫娘;797;マゴムスメ;granddaughter
+娘;4;愛娘;168;マナムスメ;"one's beloved daughter"
+婚;4;結婚;18170;ケッコン;marriage
+婚;4;離婚;6126;リコン;divorce
+寂;4;静寂;297;セイジャク;silence
+寂;4;静寂;235;セイジャク;silence
+寝;4;寝室;1255;シンシツ;bedroom
+寝;4;就寝;916;シュウシン;"going to bed"
+尋;4;尋問;2361;ジンモン;cross-examination
+尋;4;千尋;584;センジン;"great depth"
+尽;4;尽力;2162;ジンリョク;efforts
+尽;4;無尽;33;ムジン;inexhaustibility
+尾;4;尾籠;1161;ビロウ;"foolish thing"
+尾;4;末尾;533;マツビ;end
+屈;4;理屈;1832;リクツ;theory
+屈;4;屈指;1724;クッシ;leading
+峰;4;連峰;327;レンポウ;"mountain range"
+峰;4;高峰;185;;"high mountain"
+巡;4;巡査;4083;ジュンサ;police
+巡;4;巡回;1907;ジュンカイ;"going around"
+巨;4;巨大;8100;キョダイ;huge
+巨;4;巨額;5617;キョガク;"great sum"
+帽;4;帽子;2424;ボウシ;hat
+帽;4;脱帽;774;ダツボウ;"removing one's hat"
+幅;4;大幅;24362;オオハバ;big
+幅;4;増幅;1486;ゾウフク;amplification
+幾;4;幾何;359;キカ;geometry
+幾;4;幾度;281;;"many times"
+床;4;臨床;3933;リンショウ;clinical
+床;4;病床;1365;ビョウショウ;sickbed
+弾;4;爆弾;12587;バクダン;bomb
+弾;4;弾道;2905;ダンドウ;trajectory
+彩;4;多彩;4690;タサイ;variegated
+彩;4;色彩;2552;シキサイ;colour
+影;4;影響;70682;エイキョウ;influence
+影;4;撮影;20623;サツエイ;photography
+彼;4;彼女;12295;カノジョ;she
+彼;4;彼方;668;カナタ;beyond
+征;4;遠征;3879;エンセイ;expedition
+征;4;出征;352;シュッセイ;"going to war"
+御;4;防御;6051;ボウギョ;defense
+御;4;制御;3529;セイギョ;control
+微;4;微妙;6728;ビミョウ;delicate
+微;4;微量;1000;ビリョウ;"minuscule amount"
+徴;4;特徴;13030;トクチョウ;feature
+徴;4;象徴;11329;ショウチョウ;symbol
+忙;4;多忙;1187;タボウ;busy
+忙;4;忙殺;190;ボウサツ;"being extremely busy"
+怒;4;激怒;639;ゲキド;rage
+怒;4;怒号;220;ドゴウ;"angry roar"
+怖;4;恐怖;4942;キョウフ;fear
+怖;4;畏怖;166;イフ;awe
+恋;4;恋愛;3622;レンアイ;love
+恋;4;恋人;3195;コイビト;lover
+恐;4;恐怖;4942;キョウフ;fear
+恐;4;恐喝;2018;キョウカツ;blackmail
+恒;4;恒例;2200;コウレイ;"established practice"
+恒;4;恒久;2093;コウキュウ;permanent
+恥;4;恥辱;102;チジョク;disgrace
+恥;4;羞恥;44;シュウチ;shyness
+恵;4;知恵;5324;チエ;wisdom
+恵;4;恩恵;2127;オンケイ;grace
+悩;4;苦悩;2382;クノウ;suffering
+悩;4;煩悩;131;ボンノウ;"worldly desires"
+惑;4;疑惑;16788;ギワク;doubt
+惑;4;迷惑;6283;メイワク;trouble
+惨;4;悲惨;2355;ヒサン;disastrous
+惨;4;惨敗;2274;ザンパイ;"ignominious defeat"
+慎;4;慎重;17913;シンチョウ;careful
+慎;4;謹慎;1208;キンシン;penitence
+慢;4;我慢;3909;ガマン;patience
+慢;4;自慢;3461;ジマン;pride
+慮;4;配慮;16715;ハイリョ;consideration
+慮;4;考慮;8250;コウリョ;consideration
+憶;4;記憶;12052;キオク;memory
+憶;4;憶測;1192;オクソク;guess
+戒;4;警戒;15386;ケイカイ;vigilance
+戒;4;懲戒;5074;チョウカイ;discipline
+戯;4;戯曲;1451;ギキョク;play
+戯;4;遊戯;327;ユウギ;game
+扇;4;扇動;639;センドウ;incitement
+扇;4;扇子;422;センス;"folding fan"
+払;4;支払;1184;;payment
+払;4;払拭;608;フッショク;"wiping out"
+扱;4;取扱;1255;;treatment
+抗;4;対抗;24777;タイコウ;opposition
+抗;4;抗議;13485;コウギ;protest
+抜;4;選抜;9884;センバツ;selection
+抜;4;抜本;7250;バッポン;eradication
+抱;4;抱負;3395;ホウフ;aspiration
+抱;4;辛抱;1139;シンボウ;patience
+抵;4;抵抗;11779;テイコウ;resistance
+抵;4;抵触;1416;テイショク;collision
+押;4;押収;3380;オウシュウ;seizure
+押;4;押印;340;オウイン;"affixing one's seal"
+拍;4;拍手;4811;ハクシュ;"clapping hands"
+拍;4;拍車;2549;ハクシャ;spur
+拓;4;開拓;2353;カイタク;reclamation
+拓;4;干拓;1210;カンタク;"land reclamation"
+拠;4;証拠;12496;ショウコ;evidence
+拠;4;拠点;11608;キョテン;position
+振;4;三振;14420;サンシン;"strike out"
+振;4;振興;10076;シンコウ;promotion
+捕;4;逮捕;67684;タイホ;arrest
+捕;4;捕手;6816;;catcher
+掘;4;発掘;5624;ハックツ;excavation
+掘;4;掘削;1094;クッサク;"digging out"
+描;4;描写;2433;ビョウシャ;depiction
+描;4;素描;243;スガキ;drawing
+握;4;把握;8745;ハアク;grasp
+握;4;握手;3364;アクシュ;handshake
+援;4;支援;93865;シエン;support
+援;4;応援;14646;オウエン;aid
+搬;4;搬送;3819;ハンソウ;transportation
+搬;4;運搬;1439;ウンパン;transport
+摘;4;指摘;73359;シテキ;"pointing out"
+摘;4;摘発;4488;テキハツ;exposing
+撃;4;攻撃;47303;コウゲキ;attack
+撃;4;打撃;12041;ダゲキ;blow
+攻;4;攻撃;47303;コウゲキ;attack
+攻;4;専攻;4644;センコウ;"major subject"
+敏;4;敏感;2003;ビンカン;sensibility
+敏;4;過敏;504;カビン;nervousness
+敷;4;敷地;4611;シキチ;site
+敷;4;屋敷;1311;ヤシキ;residence
+斜;4;斜面;1370;シャメン;slope
+斜;4;傾斜;1313;ケイシャ;inclination
+旨;4;要旨;6172;ヨウシ;point
+旨;4;趣旨;5273;シュシ;meaning
+旬;4;下旬;12743;ゲジュン;month
+旬;4;中旬;10360;チュウジュン;"middle of a month"
+是;4;是非;5568;ゼヒ;certainly
+是;4;是正;5545;ゼセイ;correction
+普;4;普通;15295;フツウ;general
+普;4;普及;12838;フキュウ;diffusion
+暇;4;休暇;3003;キュウカ;holiday
+暇;4;余暇;372;ヨカ;leisure
+暦;4;還暦;1292;カンレキ;"60th birthday"
+暦;4;西暦;297;セイレキ;"Christian Era"
+曇;4;曇天;62;ドンテン;weather
+曇;4;雨曇;14;;"overcast weather"
+更;4;変更;20267;ヘンコウ;change
+更;4;更新;15034;コウシン;renewal
+替;4;為替;7680;カワセ;"money order"
+替;4;代替;4486;ダイタイ;substitution
+朱;4;朱色;119;シュイロ;vermilion
+朱;4;朱鷺;107;;"Japanese crested ibis"
+朽;4;老朽;1558;ロウキュウ;superannuated
+朽;4;不朽;199;フキュウ;everlasting
+杯;4;乾杯;668;カンパイ;toast
+杯;4;賜杯;480;シハイ;"Emperor's cup"
+枯;4;枯渇;587;コカツ;"drying up"
+枯;4;枯葉;91;;"dead leaf"
+柄;4;銘柄;5716;メイガラ;brand
+柄;4;身柄;3543;ミガラ;"one's person"
+柔;4;柔道;9101;ジュウドウ;judo
+柔;4;柔軟;5123;ジュウナン;flexible
+桃;4;桃色;132;モモイロ;pink
+桃;4;桜桃;98;;cherry
+欄;4;本欄;2419;;"this column"
+欄;4;空欄;217;クウラン;"blank space"
+歓;4;歓迎;10822;カンゲイ;welcome
+歓;4;歓声;3236;カンセイ;cheer
+歳;4;歳出;6654;サイシュツ;"annual expenditure"
+歳;4;歳入;1947;サイニュウ;"annual revenue"
+殖;4;増殖;2479;ゾウショク;increase
+殖;4;繁殖;2260;ハンショク;breed
+殿;4;宮殿;2139;キュウデン;palace
+殿;4;殿堂;1522;デンドウ;palace
+汗;4;発汗;209;ハッカン;sweating
+汗;4;汗水;50;アセミズ;sweat
+汚;4;汚染;7976;オセン;pollution
+汚;4;汚職;5601;オショク;corruption
+沈;4;沈没;2946;チンボツ;sinking
+沈;4;沈黙;2603;チンモク;silence
+沢;4;潤沢;429;ジュンタク;luster
+沢;4;光沢;381;コウタク;brilliance
+沼;4;泥沼;1288;ドロヌマ;bog
+沼;4;湖沼;390;コショウ;"lakes and marshes"
+況;4;状況;53045;ジョウキョウ;"state of affairs"
+況;4;不況;8510;フキョウ;recession
+泊;4;宿泊;7700;シュクハク;lodging
+泊;4;停泊;490;テイハク;anchorage
+浜;4;砂浜;822;スナハマ;"sandy beach"
+浜;4;浜辺;467;ハマベ;beach
+浮;4;浮上;12842;フジョウ;surfacing
+浮;4;浮揚;928;フヨウ;floating
+浸;4;浸透;5742;シントウ;permeation
+浸;4;浸水;1379;シンスイ;inundation
+涙;4;催涙;531;サイルイ;lachrymal
+涙;4;涙声;241;ナミダゴエ;"tearful voice"
+淡;4;淡泊;408;;light
+淡;4;濃淡;380;ノウタン;"light and shade"
+添;4;添付;1794;テンプ;attachment
+添;4;添加;1428;テンカ;addition
+渡;4;譲渡;5006;ジョウト;transfer
+渡;4;渡航;2358;トコウ;voyage
+溶;4;溶接;868;ヨウセツ;weld
+溶;4;溶岩;525;ヨウガン;lava
+滴;4;点滴;1902;テンテキ;raindrops
+滴;4;水滴;265;スイテキ;"drop of water"
+漫;4;漫画;8174;マンガ;cartoon
+漫;4;漫才;1367;マンザイ;"two-person comedy act"
+澄;4;清澄;117;セイチョウ;clear
+澄;4;清澄;35;セイチョウ;clear
+濁;4;濁流;250;ダクリュウ;"muddy stream"
+濁;4;汚濁;179;オダク;pollution
+濃;4;濃縮;5530;ノウシュク;concentration
+濃;4;濃度;3600;ノウド;concentration
+為;4;行為;24317;コウイ;act
+為;4;為替;7680;カワセ;"money order"
+烈;4;強烈;3383;キョウレツ;strong
+烈;4;痛烈;960;ツウレツ;severe
+煙;4;喫煙;4724;キツエン;smoking
+煙;4;禁煙;3247;キンエン;"abstaining from smoking"
+煮;4;煮物;581;ニモノ;"food cooked by boiling or stewing"
+煮;4;雑煮;222;ゾウニ;"soup containing rice cakes and vegetables"
+燥;4;乾燥;3518;カンソウ;dryness
+燥;4;焦燥;342;ショウソウ;impatience
+爆;4;爆発;16072;バクハツ;explosion
+爆;4;爆弾;12587;バクダン;bomb
+狂;4;熱狂;1823;ネッキョウ;"wild enthusiasm"
+狂;4;狂言;1586;キョウゲン;kyogen
+狩;4;狩猟;616;シュリョウ;hunting
+狩;4;狩人;69;カリュウド;hunter
+狭;4;狭間;278;ハザマ;interval
+狭;4;狭義;184;キョウギ;"narrow sense"
+猛;4;猛暑;2196;モウショ;"heat wave"
+猛;4;猛攻;1499;モウコウ;"fierce attack"
+獣;4;獣医;1347;ジュウイ;veterinarian
+獣;4;怪獣;453;カイジュウ;monster
+獲;4;獲得;33772;カクトク;acquisition
+獲;4;捕獲;1749;ホカク;capture
+玄;4;玄関;5404;ゲンカン;entranceway
+玄;4;玄米;589;ゲンマイ;"unpolished rice"
+珍;4;珍事;157;チンジ;"strange occurrence"
+珍;4;珍味;146;チンミ;delicacy
+環;4;環境;70834;カンキョウ;environment
+環;4;一環;6481;イッカン;link
+甘;4;甘味;302;;sweetness
+甘;4;甘受;179;カンジュ;"submission to"
+畳;4;石畳;258;イシダタミ;"stone paving"
+畳;4;畳表;136;タタミオモテ;"facing of a tatami mat"
+疲;4;疲労;3505;ヒロウ;fatigue
+疲;4;疲弊;882;ヒヘイ;exhaustion
+療;4;医療;51179;イリョウ;"medical care"
+療;4;治療;26986;チリョウ;"medical treatment"
+皆;4;皆様;1679;ミナサマ;everyone
+皆;4;皆無;675;カイム;nonexistent
+盆;4;盆栽;500;ボンサイ;bonsai
+盆;4;盆地;226;ボンチ;basin
+盗;4;強盗;8231;ゴウトウ;robber
+盗;4;窃盗;4894;セットウ;theft
+監;4;監督;128290;カントク;supervision
+監;4;監視;15234;カンシ;monitoring
+盤;4;基盤;9549;キバン;foundation
+盤;4;終盤;7716;シュウバン;endgame
+盾;4;矛盾;4163;ムジュン;contradiction
+眠;4;睡眠;2879;スイミン;sleep
+眠;4;不眠;508;フミン;sleeplessness
+瞬;4;瞬間;9017;シュンカン;moment
+瞬;4;一瞬;4870;イッシュン;moment
+矛;4;矛盾;4163;ムジュン;contradiction
+矛;4;矛先;747;ホコサキ;"point of spear"
+砲;4;発砲;3475;ハッポウ;firing
+砲;4;砲撃;1576;ホウゲキ;bombarding
+祈;4;祈念;786;キネン;prayer
+祈;4;祈願;674;キガン;prayer
+秀;4;優秀;6658;ユウシュウ;superiority
+秀;4;秀逸;4694;シュウイツ;excellence
+称;4;敬称;5137;ケイショウ;"title of honour"
+称;4;名称;3962;メイショウ;name
+稲;4;稲作;595;イナサク;"rice cultivation"
+稲;4;稲荷;275;イナリ;Inari
+稿;4;投稿;4353;トウコウ;contribution
+稿;4;原稿;4037;ゲンコウ;manuscript
+突;4;衝突;16093;ショウトツ;collision
+突;4;突破;10966;トッパ;"breaking through"
+端;4;端末;4331;タンマツ;terminal
+端;4;先端;2908;センタン;"pointed end"
+箇;4;箇所;73;カショ;passage
+箇;4;箇条;40;カジョウ;item
+範;4;範囲;10623;ハンイ;extent
+範;4;規範;1513;キハン;model
+粒;4;粒子;1603;リュウシ;particle
+粒;4;小粒;370;コツブ;"small grain"
+紋;4;波紋;2571;ハモン;ripple
+紋;4;指紋;1596;シモン;fingerprint
+紫;4;紫色;376;ムラサキイロ;violet
+紫;4;紫紺;110;シコン;"bluish purple"
+紹;4;紹介;30006;ショウカイ;introduction
+絡;4;連絡;22009;レンラク;"to contact"
+絡;4;短絡;532;タンラク;"electric short-circuit"
+継;4;継続;20465;ケイゾク;continuation
+継;4;中継;7234;チュウケイ;relay
+維;4;維持;31363;イジ;maintenance
+維;4;繊維;3482;センイ;fibre
+網;4;網羅;890;モウラ;comprising
+網;4;網膜;497;モウマク;retina
+緯;4;経緯;9619;イキサツ;details
+緯;4;北緯;208;ホクイ;"north latitude"
+縁;4;無縁;2090;ムエン;unrelated
+縁;4;因縁;1020;インネン;fate
+繁;4;繁栄;2415;ハンエイ;prospering
+繁;4;頻繁;2261;ヒンパン;frequent
+繰;4;繰越;646;クリコシ;"balance brought forward"
+繰;4;繰入;15;;"inward transfer"
+罰;4;罰金;5226;バッキン;fine
+罰;4;罰則;3636;バッソク;punishment
+翼;4;右翼;6709;ウヨク;right-wing
+翼;4;左翼;6340;サヨク;left-wing
+耐;4;耐震;6814;タイシン;"resistant to earthquakes"
+耐;4;耐久;1241;タイキュウ;endurance
+肩;4;肩書;2360;;title
+肩;4;右肩;1978;ミギカタ;"right shoulder"
+肪;4;脂肪;3276;シボウ;fat
+胴;4;胴体;614;ドウタイ;body
+胴;4;胴元;131;ドウモト;bookmaker
+脂;4;脂肪;3276;シボウ;fat
+脂;4;樹脂;1352;ジュシ;resin
+脚;4;脚本;5944;キャクホン;script
+脚;4;脚光;1100;キャッコウ;footlight
+脱;4;離脱;4963;リダツ;withdrawal
+脱;4;脱出;4778;ダッシュツ;escape
+腐;4;腐敗;2457;フハイ;decomposition
+腐;4;豆腐;1924;トウフ;tofu
+腕;4;左腕;5992;サワン;"left arm"
+腕;4;右腕;5605;ミギウデ;"right arm"
+腰;4;腰痛;1623;ヨウツウ;pain
+腰;4;本腰;761;ホンゴシ;"strenuous effort"
+膚;4;皮膚;3803;ヒフ;skin
+膚;4;完膚;31;カンプ;"unwounded skin"
+致;4;拉致;25758;ラチ;"taking captive"
+致;4;一致;21388;イッチ;coincidence
+舗;4;店舗;11352;テンポ;shop
+舗;4;老舗;1886;シニセ;"old shop"
+舞;4;舞台;28553;ブタイ;stage
+舞;4;舞踊;2321;ブヨウ;dancing
+舟;4;小舟;187;;boat
+舟;4;舟艇;91;;boat
+般;4;一般;39274;イッパン;general
+般;4;全般;2656;ゼンパン;whole
+芋;4;里芋;94;;taro
+芋;4;長芋;63;ナガイモ;"Chinese yam"
+芝;4;芝居;4132;シバイ;play
+芝;4;芝生;827;シバフ;lawn
+茂;4;繁茂;52;ハンモ;"luxuriant growth"
+荒;4;荒廃;1113;コウハイ;ruin
+荒;4;荒木;915;アラキ;"logs in bark"
+菓;4;菓子;1871;カシ;pastry
+菓;4;製菓;319;セイカ;"confectionery production"
+蓄;4;蓄積;2846;チクセキ;accumulation
+蓄;4;備蓄;2169;ビチク;"emergency stores"
+薄;4;薄型;1907;ウスガタ;thin
+薄;4;希薄;1243;キハク;thin
+薪;4;薪能;122;タキギノウ;"noh theater performed at night by a fire"
+薪;4;薪炭;27;シンタン;"wood and charcoal"
+被;4;被害;67131;ヒガイ;damage
+被;4;被告;60441;ヒコク;defendant
+襲;4;襲撃;5194;シュウゲキ;attack
+襲;4;空襲;2322;クウシュウ;air-raid
+触;4;接触;8250;セッショク;touch
+触;4;感触;1957;カンショク;feel
+訴;4;訴訟;28551;ソショウ;litigation
+訴;4;起訴;25691;キソ;prosecution
+詰;4;缶詰;649;;packing
+詰;4;詰問;104;;cross-examination
+詳;4;詳細;8622;ショウサイ;detail
+詳;4;不詳;1075;フショウ;unknown
+誇;4;誇示;1135;コジ;ostentation
+誇;4;誇張;708;コチョウ;exaggeration
+誉;4;名誉;20839;メイヨ;honor
+誉;4;栄誉;1080;エイヨ;honour
+謡;4;歌謡;1113;カヨウ;song
+謡;4;童謡;968;ドウヨウ;"children's song"
+豪;4;強豪;4433;キョウゴウ;veteran
+豪;4;豪華;2447;ゴウカ;wonderful
+販;4;販売;69232;ハンバイ;sales
+販;4;市販;2179;シハン;"selling on the market"
+賦;4;割賦;158;カップ;allotment
+賦;4;賦課;87;フカ;levy
+贈;4;贈呈;2095;ゾウテイ;presentation
+贈;4;贈賄;1826;ゾウワイ;bribery
+越;4;信越;1331;;"region on Japan Sea side of Japan west of Tokyo"
+越;4;越境;1325;エッキョウ;"border transgression"
+趣;4;趣味;5404;シュミ;hobby
+趣;4;趣旨;5273;シュシ;meaning
+距;4;距離;16702;キョリ;distance
+跡;4;遺跡;7142;イセキ;"historic ruins"
+跡;4;追跡;3168;ツイセキ;pursuit
+跳;4;跳馬;694;チョウバ;"long horse"
+跳;4;跳躍;409;チョウヤク;jump
+踊;4;舞踊;2321;ブヨウ;dancing
+踊;4;踊子;34;;dancer
+踏;4;踏切;1584;フミキリ;"railway crossing"
+踏;4;踏襲;1524;トウシュウ;following
+躍;4;活躍;24951;カツヤク;activity
+躍;4;飛躍;3685;ヒヤク;leaping
+軒;4;軒先;209;ノキサキ;"edge of the eaves"
+軒;4;軒下;159;ノキシタ;"under the overhang of a Japanese roof"
+較;4;比較;8797;ヒカク;comparison
+較;4;較正;15;コウセイ;calibration
+載;4;掲載;24536;ケイサイ;publication
+載;4;記載;10426;キサイ;record
+輝;4;輝度;52;キド;brightness
+輝;4;輝石;25;キセキ;pyroxene
+輩;4;先輩;6504;センパイ;senior
+輩;4;後輩;3188;コウハイ;junior
+込;4;申込;1415;;application
+込;4;振込;529;;"payment made via bank deposit transfer"
+迎;4;歓迎;10822;カンゲイ;welcome
+迎;4;迎撃;2334;ゲイゲキ;intercept
+迫;4;脅迫;3341;キョウハク;threat
+迫;4;圧迫;3019;アッパク;pressure
+逃;4;逃走;4242;トウソウ;flight
+逃;4;逃亡;1785;トウボウ;escape
+透;4;透明;6453;トウメイ;transparency
+透;4;浸透;5742;シントウ;permeation
+途;4;途中;19829;トチュウ;"on the way"
+途;4;途上;9202;トジョウ;"en route"
+遅;4;遅刻;670;チコク;lateness
+遅;4;遅延;647;チエン;delay
+違;4;違反;40197;イハン;violation
+違;4;違法;11289;イホウ;illegal
+遣;4;派遣;40666;ハケン;dispatch
+遣;4;先遣;982;センケン;"sending ahead"
+避;4;避難;16497;ヒナン;"taking refuge"
+避;4;回避;8564;カイヒ;evasion
+郎;4;新郎;271;シンロウ;bridegroom
+郎;4;野郎;271;ヤロウ;guy
+釈;4;解釈;6902;カイシャク;explanation
+釈;4;釈放;4891;シャクホウ;release
+鈍;4;鈍化;1275;ドンカ;"becoming dull"
+鈍;4;鈍感;414;ドンカン;thickheadedness
+鉛;4;鉛筆;841;エンピツ;pencil
+鉛;4;黒鉛;516;コクエン;graphite
+鋭;4;新鋭;1796;シンエイ;"young and energetic"
+鋭;4;先鋭;678;センエイ;radical
+鎖;4;閉鎖;7824;ヘイサ;closing
+鎖;4;連鎖;2266;レンサ;chain
+鑑;4;鑑定;8502;カンテイ;judgement
+鑑;4;鑑賞;2971;カンショウ;appreciation
+闘;4;戦闘;11675;セントウ;battle
+闘;4;闘争;5368;トウソウ;strife
+陣;4;陣営;6941;ジンエイ;camp
+陣;4;退陣;4894;タイジン;retreat
+陰;4;陰謀;848;インボウ;plot
+陰;4;陰性;528;インセイ;negative
+隠;4;隠居;1179;インキョ;retirement
+隠;4;隠滅;923;インメツ;destruction
+隣;4;隣接;3589;リンセツ;adjoin
+隣;4;近隣;3033;キンリン;neighbourhood
+隷;4;奴隷;1121;ドレイ;slave
+隷;4;隷書;148;レイショ;"clerical script"
+雄;4;英雄;2760;エイユウ;hero
+雄;4;雄大;538;ユウダイ;grandeur
+雅;4;優雅;856;ユウガ;elegance
+雅;4;雅楽;409;ガガク;"old Japanese court music"
+雌;4;雌雄;182;シユウ;"male and female"
+雌;4;雌伏;76;シフク;"remaining in obscurity"
+離;4;距離;16702;キョリ;distance
+離;4;分離;7154;ブンリ;separation
+雷;4;地雷;3295;ジライ;"land mine"
+雷;4;落雷;599;ラクライ;"lightning strike"
+需;4;需要;12307;ジュヨウ;demand
+需;4;需給;1644;ジュキュウ;"supply and demand"
+震;4;地震;37897;ジシン;earthquake
+震;4;耐震;6814;タイシン;"resistant to earthquakes"
+霧;4;濃霧;239;ノウム;"heavy fog"
+霧;4;噴霧;231;フンム;spraying
+露;4;披露;7992;ヒロウ;announcement
+露;4;露呈;1954;ロテイ;exposure
+響;4;影響;70682;エイキョウ;influence
+響;4;反響;2246;ハンキョウ;echo
+項;4;項目;12780;コウモク;item
+項;4;事項;4664;ジコウ;matter
+頼;4;信頼;20654;シンライ;reliance
+頼;4;依頼;10319;イライ;request
+飾;4;粉飾;2049;フンショク;makeup
+飾;4;装飾;1191;ソウショク;ornament
+駆;4;駆使;2642;クシ;"free use"
+駆;4;駆除;1113;クジョ;extermination
+騒;4;騒動;3874;ソウドウ;strife
+騒;4;騒音;1988;ソウオン;noise
+驚;4;驚異;1270;キョウイ;wonder
+驚;4;驚嘆;259;キョウタン;wonder
+髪;4;白髪;705;シラガ;"white hair"
+髪;4;髪形;498;;"hair style"
+鬼;4;鬼門;187;キモン;direction
+鬼;4;鬼才;171;キサイ;wizard
+鮮;4;鮮明;5691;センメイ;vivid
+鮮;4;新鮮;3787;シンセン;fresh
+麗;4;華麗;1762;カレイ;splendor
+麗;4;奇麗;240;;pretty
+黙;4;沈黙;2603;チンモク;silence
+黙;4;黙認;1064;モクニン;connivance
+鼓;4;太鼓;1026;タイコ;drum
+鼓;4;鼓舞;686;コブ;inspiration
+齢;4;高齢;29100;コウレイ;age
+齢;4;年齢;24811;ネンレイ;age
+乏;3;貧乏;620;ビンボウ;poverty
+乏;3;貧乏;373;ビンボウ;poverty
+乙;3;乙女;543;オトメ;"little girl"
+乙;3;甲乙;78;コウオツ;"A and B"
+了;3;終了;22315;シュウリョウ;end
+了;3;了承;6879;リョウショウ;acknowledgement
+企;3;企業;114671;キギョウ;enterprise
+企;3;企画;19578;キカク;planning
+伏;3;潜伏;1339;センプク;concealment
+伏;3;伏兵;646;フクヘイ;ambush
+伐;3;伐採;1582;バッサイ;lumbering
+伐;3;間伐;726;カンバツ;"periodic thinning"
+伴;3;同伴;791;ドウハン;"to accompany"
+伴;3;伴奏;730;バンソウ;accompaniment
+伸;3;続伸;1751;ゾクシン;"continuous rise"
+伸;3;急伸;874;キュウシン;"sudden rise"
+佳;3;佳作;715;カサク;"good piece of work"
+佳;3;佳境;238;カキョウ;climax
+侍;3;侍従;285;ジジュウ;chamberlain
+侍;3;侍医;97;ジイ;"court physician"
+促;3;促進;10463;ソクシン;promotion
+促;3;督促;545;トクソク;urge
+倣;3;模倣;884;モホウ;imitation
+倹;3;倹約;194;ケンヤク;thrift
+倹;3;節倹;17;セッケン;economy
+偶;3;配偶;2240;ハイグウ;combination
+偶;3;偶然;1781;グウゼン;chance
+催;3;開催;49630;カイサイ;"holding a meeting"
+催;3;主催;28470;シュサイ;sponsorship
+債;3;債権;19352;サイケン;credit
+債;3;国債;11461;コクサイ;"national debt"
+克;3;克服;5456;コクフク;conquest
+克;3;克明;560;コクメイ;detailed
+免;3;免許;6286;メンキョ;license
+免;3;免除;3583;メンジョ;exemption
+冗;3;冗談;2079;ジョウダン;jest
+冗;3;冗舌;214;;garrulity
+冠;3;栄冠;863;エイカン;laurels
+冠;3;王冠;529;オウカン;crown
+凍;3;凍結;9666;トウケツ;freeze
+凍;3;冷凍;3493;レイトウ;freezing
+凝;3;凝縮;992;ギョウシュク;condensation
+凝;3;凝視;241;ギョウシ;stare
+刑;3;刑事;14409;ケイジ;detective
+刑;3;死刑;10656;シケイ;"death penalty"
+削;3;削減;42329;サクゲン;cut
+削;3;削除;4517;サクジョ;elimination
+励;3;奨励;4958;ショウレイ;encouragement
+励;3;激励;2721;ゲキレイ;encouragement
+勘;3;勘定;1162;カンジョウ;calculation
+勘;3;勘案;796;カンアン;"taking into consideration"
+募;3;募集;16170;ボシュウ;recruiting
+募;3;応募;14382;オウボ;application
+匠;3;師匠;3951;シショウ;master
+匠;3;巨匠;1200;キョショウ;master
+匿;3;匿名;4082;トクメイ;anonymity
+匿;3;秘匿;713;ヒトク;hiding
+卑;3;卑劣;670;ヒレツ;mean
+卑;3;卑屈;108;ヒクツ;menial
+卓;3;食卓;6225;ショクタク;"dining table"
+卓;3;卓球;4010;タッキュウ;"table tennis"
+卸;3;卸売;1747;;wholesale
+卸;3;卸値;417;オロシネ;"wholesale price"
+双;3;双方;11160;ソウホウ;"two way"
+双;3;双子;1829;フタゴ;twins
+吉;3;吉兆;322;キッチョウ;"lucky omen"
+吉;3;末吉;296;;"good luck to come"
+吏;3;官吏;129;カンリ;"government official"
+吏;3;能吏;30;ノウリ;"able official"
+哀;3;哀悼;847;アイトウ;condolence
+哀;3;哀歌;507;アイカ;lament
+哲;3;哲学;4811;テツガク;philosophy
+哲;3;変哲;115;ヘンテツ;unusual
+啓;3;啓発;1681;ケイハツ;enlightenment
+啓;3;啓蒙;230;ケイモウ;enlightenment
+喚;3;喚問;2745;カンモン;summons
+喚;3;喚起;1613;カンキ;arousal
+喫;3;喫煙;4724;キツエン;smoking
+喫;3;満喫;944;マンキツ;"having enough of"
+嘱;3;嘱託;950;ショクタク;commission
+嘱;3;委嘱;760;イショク;entrusting
+坑;3;炭坑;143;タンコウ;"coal mine"
+坑;3;坑内;128;コウナイ;shaft
+埋;3;埋蔵;1598;マイゾウ;"buried property"
+埋;3;埋葬;1095;マイソウ;burial
+塊;3;団塊;3364;ダンカイ;mass
+塊;3;金塊;173;キンカイ;"gold nugget"
+塗;3;塗装;1006;トソウ;coating
+塗;3;塗料;506;トリョウ;paints
+墜;3;墜落;4308;ツイラク;falling
+墜;3;失墜;1066;シッツイ;abasement
+墨;3;水墨;385;スイボク;"water and ink"
+墨;3;遺墨;172;イボク;"of departed person"
+墳;3;古墳;2592;コフン;"ancient burial mound"
+墳;3;墳丘;245;フンキュウ;tumulus
+墾;3;開墾;155;カイコン;"cultivating new land"
+墾;3;墾田;7;コンデン;"new rice field"
+壇;3;壇上;665;ダンジョウ;"on a stage"
+壇;3;教壇;664;キョウダン;platform
+奉;3;奉仕;1812;ホウシ;attendance
+奉;3;奉納;668;ホウノウ;dedication
+契;3;契約;38393;ケイヤク;contract
+契;3;契機;3481;ケイキ;opportunity
+奪;3;争奪;2875;ソウダツ;struggle
+奪;3;奪取;2116;ダッシュ;usurpation
+如;3;欠如;1600;ケツジョ;lack
+如;3;如実;441;ニョジツ;reality
+妨;3;妨害;6400;ボウガイ;disturbance
+姫;3;美姫;790;ビキ;"beautiful maiden"
+姫;3;歌姫;282;ウタヒメ;songstress
+娯;3;娯楽;2712;ゴラク;pleasure
+婆;3;老婆;100;ロウバ;"old woman"
+婆;3;産婆;29;サンバ;midwife
+婿;3;花婿;57;ハナムコ;bridegroom
+婿;3;女婿;51;ジョセイ;"one's son-in-law"
+嫁;3;転嫁;1403;テンカ;imputation
+嫁;3;花嫁;544;ハナヨメ;bride
+嬢;3;令嬢;96;レイジョウ;daughter
+嬢;3;老嬢;10;ロウジョウ;"elderly spinster"
+孔;3;孔雀;169;;peafowl
+孔;3;瞳孔;109;ドウコウ;pupil
+孤;3;孤立;4255;コリツ;isolation
+孤;3;孤独;2953;コドク;isolation
+宴;3;球宴;1124;キュウエン;"baseball all-star game"
+宴;3;宴会;1090;エンカイ;party
+審;3;審議;35664;シンギ;deliberation
+審;3;審査;22135;シンサ;judging
+寿;3;寿命;2156;ジュミョウ;"life span"
+寿;3;長寿;2047;チョウジュ;longevity
+封;3;完封;5047;;"complete blockade"
+封;3;封印;2214;フウイン;seal
+尿;3;糖尿;4982;トウニョウ;glycosuria
+尿;3;排尿;149;ハイニョウ;urination
+岳;3;山岳;2296;サンガク;mountains
+岳;3;富岳;43;;"Mount Fuji"
+峡;3;海峡;1816;カイキョウ;channel
+峡;3;峡谷;95;キョウコク;glen
+崩;3;崩壊;14901;ホウカイ;collapse
+崩;3;崩落;1111;ホウラク;collapse
+巧;3;巧妙;961;コウミョウ;ingenious
+巧;3;技巧;781;ギコウ;technique
+帆;3;帆船;244;ハンセン;"sailing ship"
+帆;3;帆布;58;ホヌノ;sailcloth
+帝;3;帝国;2697;テイコク;empire
+帝;3;皇帝;1072;コウテイ;emperor
+幻;3;幻想;2558;ゲンソウ;illusions
+幻;3;幻覚;389;ゲンカク;hallucination
+幽;3;幽霊;809;ユウレイ;ghost
+幽;3;幽玄;215;ユウゲン;"subtle grace"
+廉;3;廉売;460;レンバイ;"bargain sale"
+廉;3;廉価;186;レンカ;"low price"
+廊;3;画廊;2514;ガロウ;"art gallery"
+廊;3;廊下;1656;ロウカ;corridor
+弧;3;円弧;30;エンコ;arc
+弧;3;弧線;28;コセン;arc
+彫;3;彫刻;3026;チョウコク;carving
+彫;3;彫像;168;チョウゾウ;sculpture
+徐;3;徐行;249;ジョコウ;"going slowly"
+徐;3;徐々;70;ジョジョ;gradually
+忌;3;回忌;670;カイキ;"death anniversary"
+忌;3;忌避;545;キヒ;evasion
+怠;3;怠慢;772;タイマン;negligence
+怠;3;怠惰;127;タイダ;laziness
+怪;3;怪物;791;カイブツ;monster
+怪;3;妖怪;707;ヨウカイ;ghost
+恨;3;痛恨;887;ツウコン;regretful
+恨;3;悔恨;131;カイコン;regret
+悔;3;後悔;2009;コウカイ;regret
+悔;3;悔恨;131;カイコン;regret
+悟;3;覚悟;6055;カクゴ;resolution
+悟;3;大悟;151;タイゴ;enlightenment
+悦;3;満悦;231;マンエツ;"great delight"
+悦;3;悦楽;30;エツラク;enjoyment
+惜;3;惜敗;1347;セキハイ;"regrettable defeat"
+惜;3;惜別;135;セキベツ;"regret or reluctance to part"
+愚;3;愚痴;907;グチ;"idle complaint"
+愚;3;愚直;297;グチョク;"simple honesty"
+慈;3;慈善;533;ジゼン;charity
+慈;3;慈悲;219;ジヒ;compassion
+慌;3;恐慌;854;キョウコウ;panic
+慕;3;思慕;93;シボ;yearning
+慕;3;慕情;65;ボジョウ;longing
+慨;3;感慨;986;カンガイ;"strong feelings"
+慨;3;憤慨;429;;indignation
+慰;3;慰霊;2239;イレイ;"comfort the spirit"
+慰;3;慰謝;1602;イシャ;consolation
+憂;3;憂慮;1436;ユウリョ;anxiety
+憂;3;杞憂;210;キユウ;"absurd fear"
+憎;3;憎悪;897;ゾウオ;hatred
+憎;3;愛憎;385;アイゾウ;"love and hate"
+憩;3;休憩;2865;キュウケイ;rest
+房;3;官房;30862;カンボウ;"government secretariat"
+房;3;書房;2142;ショボウ;library
+抑;3;抑制;9186;ヨクセイ;control
+抑;3;抑止;3272;ヨクシ;check
+択;3;選択;21418;センタク;selection
+択;3;採択;12720;サイタク;adoption
+抽;3;抽選;4854;チュウセン;lottery
+抽;3;抽出;3915;チュウシュツ;extraction
+拘;3;拘束;13980;コウソク;restriction
+拘;3;拘置;3937;コウチ;detention
+掃;3;掃除;3671;ソウジ;cleaning
+掃;3;清掃;3035;セイソウ;cleaning
+掌;3;掌握;1252;ショウアク;grasping
+掌;3;車掌;923;シャショウ;conductor
+排;3;排出;13398;ハイシュツ;evacuation
+排;3;排除;7860;ハイジョ;exclusion
+掛;3;仕掛;53;;device
+掛;3;腰掛;7;;seat
+控;3;控訴;9988;コウソ;"koso appeal"
+控;3;控除;4196;コウジョ;subtraction
+措;3;措置;31150;ソチ;measure
+措;3;特措;519;トクソ;"special measure"
+掲;3;掲載;24536;ケイサイ;publication
+掲;3;掲示;1038;ケイジ;notice
+揚;3;高揚;1181;コウヨウ;enhancement
+揚;3;浮揚;928;フヨウ;floating
+換;3;交換;16736;コウカン;exchange
+換;3;転換;16040;テンカン;convert
+揺;3;動揺;2501;ドウヨウ;shaking
+揺;3;揺籃;21;ヨウラン;cradle
+携;3;携帯;29469;ケイタイ;"something carried"
+携;3;連携;15628;レンケイ;cooperation
+搾;3;搾取;323;サクシュ;exploitation
+搾;3;搾乳;73;サクニュウ;milking
+摂;3;摂取;3048;セッシュ;intake
+摂;3;摂理;160;セツリ;providence
+撮;3;撮影;20623;サツエイ;photography
+撮;3;特撮;206;トクサツ;"special effects"
+擁;3;擁立;6189;ヨウリツ;back
+擁;3;擁護;3642;ヨウゴ;protection
+擦;3;摩擦;2422;マサツ;friction
+擦;3;擦過;6;サッカ;abrasion
+敢;3;果敢;1425;カカン;resolute
+敢;3;敢闘;943;カントウ;"fighting bravely"
+斗;3;泰斗;123;タイト;"a great authority"
+斗;3;熨斗;23;;"long thin strip of dried sea-ear or paper attached to a gift"
+斤;3;斤量;348;;weight
+斥;3;排斥;407;ハイセキ;rejection
+斥;3;斥力;11;セキリョク;repulsion
+施;3;実施;62343;ジッシ;enforcement
+施;3;施設;56422;シセツ;institution
+既;3;既存;5614;キソン;existing
+既;3;既成;1176;キセイ;established
+昇;3;上昇;24763;ジョウショウ;rising
+昇;3;昇格;6692;ショウカク;"raising of status"
+晶;3;液晶;3208;エキショウ;"liquid crystal"
+晶;3;結晶;1100;ケッショウ;crystal
+暫;3;暫定;13744;ザンテイ;tentative
+暫;3;暫時;12;ザンジ;"short while"
+架;3;架空;3512;カクウ;aerial
+架;3;高架;759;コウカ;"overhead structure"
+某;3;某国;73;ボウコク;"certain country"
+某;3;某所;23;ボウショ;"certain place"
+桑;3;桑田;672;ソウデン;"mulberry plantation"
+桑;3;桑原;208;クワバラ;"mulberry field"
+棄;3;廃棄;11359;ハイキ;disposal
+棄;3;放棄;8972;ホウキ;abandonment
+棋;3;将棋;18660;ショウギ;shogi
+棋;3;棋士;4028;キシ;"shogi player"
+楼;3;楼閣;89;ロウカク;"multistoried building"
+楼;3;鐘楼;47;ショウロウ;belfry
+概;3;概算;3266;ガイサン;approximation
+概;3;概要;3210;ガイヨウ;outline
+欧;3;全欧;291;ゼンオウ;"all Europe"
+欧;3;訪欧;286;ホウオウ;"visit to Europe"
+欺;3;詐欺;11978;サギ;fraud
+欺;3;欺瞞;122;ギマン;deception
+殊;3;特殊;11010;トクシュ;special
+殊;3;殊勲;1031;シュクン;"meritorious deeds"
+殴;3;殴打;504;オウダ;hit
+殴;3;殴殺;41;オウサツ;"beating to death"
+没;3;沈没;2946;チンボツ;sinking
+没;3;戦没;2206;センボツ;"death in battle"
+泌;3;分泌;1103;ブンピツ;secretion
+泌;3;泌尿;1;;urination
+浪;3;放浪;827;ホウロウ;wandering
+浪;3;浪人;767;ロウニン;ronin
+湾;3;湾岸;4333;ワンガン;"gulf coast"
+湾;3;港湾;1708;コウワン;harbours
+湿;3;湿度;1017;シツド;"level of humidity"
+湿;3;湿地;646;シッチ;wetland
+滅;3;絶滅;2882;ゼツメツ;destruction
+滅;3;消滅;2508;ショウメツ;extinction
+滑;3;滑走;3762;カッソウ;gliding
+滑;3;円滑;2297;エンカツ;smooth
+滝;3;滝口;54;タキグチ;"top of a waterfall"
+滝;3;白滝;16;シラタキ;"noodles made from konnyaku"
+滞;3;滞在;9141;タイザイ;stay
+滞;3;停滞;3330;テイタイ;stagnation
+漂;3;漂流;1136;ヒョウリュウ;drifting
+漂;3;漂着;605;ヒョウチャク;"drifting ashore"
+漏;3;漏水;198;ロウスイ;leakage
+漏;3;漏出;153;ロウシュツ;"leaking out"
+潜;3;潜在;2740;センザイ;potentiality
+潜;3;原潜;2114;ゲンセン;"nuclear submarine"
+潤;3;潤沢;429;ジュンタク;luster
+潤;3;利潤;224;リジュン;profit
+濫;3;氾濫;150;ハンラン;overflowing
+濫;3;濫用;33;;abuse
+瀬;3;瀬戸;368;セト;strait
+瀬;3;浅瀬;258;アサセ;shoal
+炉;3;炉心;492;ロシン;"nuclear reactor core"
+炉;3;高炉;317;コウロ;"blast furnace"
+炊;3;炊飯;532;スイハン;"rice cooking"
+炊;3;炊事;259;スイジ;cooking
+炎;3;肺炎;5768;ハイエン;pneumonia
+炎;3;肝炎;2359;カンエン;hepatitis
+焦;3;焦点;17813;ショウテン;focus
+焦;3;焦燥;342;ショウソウ;impatience
+牲;3;犠牲;13054;ギセイ;victim
+犠;3;犠牲;13054;ギセイ;victim
+犠;3;犠飛;2329;ギヒ;"sacrifice fly"
+猟;3;狩猟;616;シュリョウ;hunting
+猟;3;密猟;234;ミツリョウ;poaching
+獄;3;地獄;1838;ジゴク;hell
+獄;3;獄中;491;ゴクチュウ;"during imprisonment"
+甲;3;甲板;466;カンパン;deck
+甲;3;甲斐;292;カイ;effect
+畔;3;湖畔;666;コハン;"lake shore"
+畔;3;河畔;127;カハン;riverside
+畜;3;家畜;2210;カチク;"domestic animals"
+畜;3;畜産;1685;チクサン;"animal husbandry"
+疾;3;疾患;4269;シッカン;disease
+疾;3;疾病;1073;シッペイ;illness
+痘;3;種痘;54;シュトウ;vaccination
+痘;3;痘瘡;54;トウソウ;smallpox
+癖;3;口癖;711;クチグセ;"way of saying"
+癖;3;潔癖;130;ケッペキ;fastidiousness
+硬;3;強硬;7557;キョウコウ;firm
+硬;3;硬化;1719;コウカ;hardening
+碑;3;石碑;339;セキヒ;"stone monument"
+碑;3;碑文;159;ヒブン;inscription
+礎;3;基礎;12253;キソ;foundation
+礎;3;礎石;147;ソセキ;"foundation stone"
+祉;3;福祉;18061;フクシ;welfare
+稚;3;稚魚;392;チギョ;fry
+稚;3;幼稚;342;ヨウチ;infancy
+穂;3;稲穂;213;イナホ;"of rice"
+穂;3;穂先;56;ホサキ;ear
+穏;3;穏健;1885;オンケン;quiet
+穏;3;平穏;1118;ヘイオン;tranquil
+穫;3;収穫;4619;シュウカク;harvest
+窒;3;窒息;1461;チッソク;suffocation
+窒;3;窒素;1008;チッソ;nitrogen
+符;3;切符;2510;キップ;ticket
+符;3;符合;210;フゴウ;agreeing
+篤;3;危篤;263;キトク;"critical illness"
+篤;3;篤志;59;トクシ;charity
+簿;3;名簿;6054;メイボ;"register of names"
+簿;3;帳簿;936;チョウボ;"account book"
+籍;3;移籍;11090;イセキ;"changing household registry"
+籍;3;国籍;8696;コクセキ;nationality
+粋;3;純粋;2292;ジュンスイ;pure
+粋;3;抜粋;382;バッスイ;extract
+粗;3;粗鋼;504;ソコウ;"crude steel"
+粗;3;粗末;446;ソマツ;crude
+粘;3;粘着;850;ネンチャク;cohesion
+粘;3;粘土;615;ヘナツチ;clay
+糧;3;食糧;5843;ショクリョウ;food
+糧;3;兵糧;102;ヒョウロウ;provisions
+紛;3;紛争;10738;フンソウ;dispute
+紛;3;紛失;1843;フンシツ;"losing something"
+紺;3;紺色;346;コンイロ;"deep blue"
+紺;3;濃紺;165;ノウコン;"dark blue"
+絞;3;絞殺;715;コウサツ;strangulation
+絞;3;絞首;28;コウシュ;hanging
+綱;3;横綱;10965;ヨコヅナ;yokozuna
+綱;3;大綱;3348;タイコウ;"fundamental principles"
+緊;3;緊急;22126;キンキュウ;urgent
+緊;3;緊張;13479;キンチョウ;tension
+締;3;締結;6057;テイケツ;conclusion
+締;3;取締;2529;;control
+緩;3;緩和;17377;カンワ;relief
+緩;3;緩急;1497;カンキュウ;pace
+縛;3;呪縛;457;ジュバク;curse
+縛;3;束縛;280;ソクバク;restraint
+縫;3;縫製;386;ホウセイ;sewing
+縫;3;裁縫;204;サイホウ;sewing
+繕;3;修繕;645;シュウゼン;repair
+繕;3;営繕;86;エイゼン;upkeep
+翻;3;翻訳;4771;ホンヤク;translation
+翻;3;翻弄;896;ホンロウ;"trifling with"
+聴;3;視聴;12733;シチョウ;"looking and listening"
+聴;3;聴取;8963;チョウシュ;listening
+肝;3;肝臓;2383;カンゾウ;liver
+肝;3;肝炎;2359;カンエン;hepatitis
+胆;3;大胆;4004;ダイタン;bold
+胆;3;落胆;1184;ラクタン;discouragement
+胎;3;胎児;1462;タイジ;fetus
+胎;3;胎盤;333;タイバン;placenta
+胞;3;細胞;15944;サイボウ;cell
+胞;3;同胞;1039;ドウホウ;brethren
+脅;3;脅威;7866;キョウイ;threat
+脅;3;脅迫;3341;キョウハク;threat
+膜;3;粘膜;558;ネンマク;"mucous membrane"
+膜;3;角膜;509;カクマク;cornea
+膨;3;膨大;2739;ボウダイ;huge
+膨;3;膨張;984;ボウチョウ;expansion
+芳;3;芳香;257;ホウコウ;perfume
+芳;3;芳醇;42;ホウジュン;mellow
+苗;3;苗木;798;ナエギ;seedling
+苗;3;種苗;210;シュビョウ;"seeds and seedlings"
+菊;3;菊花;170;キッカ;chrysanthemum
+菊;3;春菊;96;;"edible chrysanthemum"
+華;3;豪華;2447;ゴウカ;wonderful
+華;3;中華;2030;チュウカ;Chinese
+葬;3;葬儀;16081;ソウギ;"funeral service"
+葬;3;埋葬;1095;マイソウ;burial
+藩;3;藩主;438;ハンシュ;"feudal lord"
+藩;3;藩士;190;ハンシ;"feudal retainer or warrior"
+虐;3;虐待;9650;ギャクタイ;abuse
+虐;3;虐殺;3398;ギャクサツ;atrocity
+虚;3;虚偽;7534;キョギ;untrue
+虚;3;謙虚;1823;ケンキョ;modesty
+蛮;3;野蛮;211;ヤバン;savage
+蛮;3;南蛮;188;ナンバン;"southern barbarians"
+衝;3;衝突;16093;ショウトツ;collision
+衝;3;衝撃;6781;ショウゲキ;shock
+衰;3;衰退;1702;スイタイ;decline
+衰;3;衰弱;901;スイジャク;weakness
+袋;3;手袋;805;テブクロ;glove
+袋;3;紙袋;427;カミブクロ;"paper bag"
+裂;3;分裂;5074;ブンレツ;split
+裂;3;亀裂;2773;キレツ;crack
+裸;3;裸足;382;ハダシ;barefoot
+裸;3;全裸;281;ゼンラ;nude
+覆;3;転覆;1761;テンプク;capsizing
+覆;3;覆面;676;フクメン;mask
+訂;3;訂正;5862;テイセイ;correction
+訂;3;改訂;1115;カイテイ;revision
+託;3;信託;7665;シンタク;trust
+託;3;委託;6875;イタク;"to a firm"
+詠;3;諷詠;56;フウエイ;"poetic composition"
+詠;3;朗詠;37;ロウエイ;recitation
+該;3;該当;3290;ガイトウ;"corresponding to"
+該;3;当該;1370;トウガイ;appropriate
+誘;3;誘拐;5188;ユウカイ;abduction
+誘;3;誘導;4195;ユウドウ;guidance
+請;3;要請;27064;ヨウセイ;appeal
+請;3;請求;20805;セイキュウ;claim
+諮;3;諮問;11385;シモン;question
+諮;3;諮詢;7;シジュン;question
+諾;3;受諾;1523;ジュダク;acceptance
+諾;3;承諾;1327;ショウダク;consent
+謀;3;共謀;3780;キョウボウ;conspiracy
+謀;3;参謀;2523;サンボウ;"staff officer"
+譲;3;移譲;5520;イジョウ;transfer
+譲;3;譲渡;5006;ジョウト;transfer
+豚;3;豚肉;1754;ブタニク;pork
+豚;3;養豚;269;ヨウトン;pig-keeping
+貫;3;一貫;5036;イッカン;consistency
+貫;3;貫禄;828;カンロク;presence
+賊;3;海賊;2314;カイゾク;pirate
+賊;3;盗賊;280;トウゾク;thief
+賢;3;賢明;639;ケンメイ;wisdom
+賢;3;賢人;317;ケンジン;"wise man"
+赦;3;容赦;777;ヨウシャ;pardon
+赦;3;恩赦;571;オンシャ;amnesty
+赴;3;赴任;2228;フニン;"moving to a different location to start a new job"
+超;3;超過;3119;チョウカ;excess
+超;3;超越;337;チョウエツ;transcendence
+軌;3;軌道;4461;キドウ;orbit
+軌;3;軌跡;1647;キセキ;"tire track"
+軸;3;中軸;1306;チュウジク;axis
+軸;3;主軸;946;シュジク;"main spindle"
+辛;3;辛抱;1139;シンボウ;patience
+辛;3;辛口;791;カラクチ;"dry taste"
+辱;3;雪辱;2688;セツジョク;"vindication of honour"
+辱;3;屈辱;1288;クツジョク;disgrace
+逮;3;逮捕;67684;タイホ;arrest
+遂;3;未遂;6064;ミスイ;attempt
+遂;3;遂行;1527;スイコウ;accomplishment
+遇;3;優遇;4183;ユウグウ;"favorable treatment"
+遇;3;処遇;2584;ショグウ;treatment
+遭;3;遭難;1405;ソウナン;disaster
+遭;3;遭遇;1214;ソウグウ;encounter
+遵;3;遵守;85;;compliance
+遵;3;遵法;4;ジュンポウ;"law observance"
+邦;3;連邦;15511;レンポウ;commonwealth
+邦;3;邦人;2406;ホウジン;"Japanese national"
+邪;3;風邪;3116;カゼ;"common cold"
+邪;3;邪魔;1120;ジャマ;hindrance
+郊;3;郊外;6023;コウガイ;suburb
+郊;3;近郊;4384;キンコウ;suburbs
+郭;3;外郭;771;ガイカク;"outer wall"
+郭;3;輪郭;528;リンカク;contour
+酔;3;麻酔;1140;マスイ;anaesthesia
+酔;3;泥酔;405;デイスイ;"dead drunk"
+酵;3;酵素;1264;コウソ;enzyme
+酵;3;発酵;1175;ハッコウ;fermentation
+鋳;3;鋳造;222;チュウゾウ;casting
+鋳;3;鋳物;143;イモノ;"cast metal"
+錠;3;手錠;821;テジョウ;handcuffs
+錠;3;施錠;816;セジョウ;locking
+錬;3;鍛錬;403;;tempering
+錬;3;錬成;179;レンセイ;training
+錯;3;交錯;1900;;mixture
+錯;3;錯覚;817;サッカク;"optical illusion"
+鍛;3;鍛錬;403;;tempering
+鍛;3;鍛冶;129;タンヤ;smithing
+鎮;3;鎮圧;1125;チンアツ;suppression
+鎮;3;重鎮;633;ジュウチン;leader
+鐘;3;警鐘;1558;ケイショウ;"alarm bell"
+鐘;3;鐘楼;47;ショウロウ;belfry
+閲;3;閲覧;2778;エツラン;inspection
+閲;3;検閲;1139;ケンエツ;censorship
+阻;3;阻止;5786;ソシ;obstruction
+阻;3;阻害;1505;ソガイ;obstruction
+陪;3;陪審;1386;バイシン;jury
+陪;3;陪席;154;バイセキ;"sitting with one's superior"
+陳;3;陳述;2499;チンジュツ;statement
+陳;3;陳謝;2219;チンシャ;apology
+陵;3;丘陵;528;キュウリョウ;hill
+陵;3;陵墓;211;リョウボ;"imperial tomb or mausoleum"
+陶;3;陶芸;1701;トウゲイ;"ceramic art"
+陶;3;陶器;580;トウキ;porcelain
+隆;3;隆盛;379;リュウセイ;prosperity
+隆;3;隆起;309;リュウキ;protuberance
+随;3;追随;1540;ツイズイ;follow
+随;3;随所;1254;ズイショ;everywhere
+隔;3;隔離;1959;カクリ;isolation
+隔;3;間隔;1772;カンカク;space
+隻;3;隻句;20;セック;"a few words"
+隻;3;隻眼;16;セキガン;eye
+雇;3;雇用;23926;コヨウ;employment
+雇;3;解雇;5772;カイコ;discharge
+零;3;零細;520;レイサイ;insignificant
+零;3;零細;234;レイサイ;insignificant
+霊;3;慰霊;2239;イレイ;"comfort the spirit"
+霊;3;幽霊;809;ユウレイ;ghost
+顧;3;顧問;11694;コモン;adviser
+顧;3;顧客;11347;コキャク;customer
+飽;3;飽和;442;ホウワ;saturation
+飽;3;飽食;307;ホウショク;gluttony
+餓;3;飢餓;1038;キガ;starvation
+餓;3;餓死;553;ガシ;starvation
+駐;3;駐留;7709;チュウリュウ;stationing
+駐;3;駐車;7002;チュウシャ;parking
+騎;3;騎手;2671;キシュ;horseman
+騎;3;騎乗;993;キジョウ;mount
+髄;3;脊髄;494;セキズイ;"spinal cord"
+髄;3;神髄;381;;essence
+魂;3;鎮魂;498;チンコン;"repose of souls"
+魂;3;入魂;99;;intimacy
+魅;3;魅力;15644;ミリョク;charm
+魅;3;魅了;1654;;fascination
+魔;3;魔法;1142;マホウ;magic
+魔;3;邪魔;1120;ジャマ;hindrance
+鯨;3;捕鯨;2769;ホゲイ;whaling
+鯨;3;鯨油;11;ゲイユ;"whale oil"
+鶏;3;鶏肉;1536;;"chicken meat"
+鶏;3;養鶏;1251;ヨウケイ;"poultry raising"
+丙;pre_2;丙午;33;ヒノエウマ;"43rd year of the sexagenary cycle"
+亜;pre_2;興亜;478;コウア;"Asia development"
+亜;pre_2;亜鉛;364;アエン;zinc
+享;pre_2;享受;741;キョウジュ;reception
+享;pre_2;享年;293;キョウネン;"one's age at death"
+亭;pre_2;料亭;964;リョウテイ;ryotei
+亭;pre_2;亭主;378;テイシュ;"household head"
+仙;pre_2;仙人;219;センニン;"immortal mountain wizard"
+仙;pre_2;水仙;171;;daffodil
+伯;pre_2;伯父;401;シュクフ;uncle
+伯;pre_2;伯母;252;オバ;aunt
+併;pre_2;合併;18592;ガッペイ;combination
+併;pre_2;併殺;2497;ヘイサツ;double-play
+侮;pre_2;侮辱;755;ブジョク;insult
+侮;pre_2;侮蔑;64;ブベツ;scorn
+侯;pre_2;侯爵;95;コウシャク;marquis
+侯;pre_2;王侯;71;オウコウ;"king and princes"
+俊;pre_2;俊足;1213;;"fast runner"
+俊;pre_2;俊敏;154;シュンビン;"quick-witted and agile"
+俸;pre_2;年俸;3411;ネンポウ;"annual salary"
+俸;pre_2;減俸;350;ゲンポウ;"salary reduction"
+倫;pre_2;倫理;7402;リンリ;ethics
+倫;pre_2;不倫;1059;フリン;adultery
+偏;pre_2;偏見;2260;ヘンケン;prejudice
+偏;pre_2;偏重;737;ヘンチョウ;preponderance
+偵;pre_2;偵察;1765;テイサツ;"scout out"
+偵;pre_2;探偵;1622;タンテイ;detective
+偽;pre_2;偽造;8873;ギゾウ;forgery
+偽;pre_2;偽装;8080;;disguise
+傑;pre_2;傑作;1372;ケッサク;masterpiece
+傑;pre_2;傑作;439;ケッサク;masterpiece
+傘;pre_2;傘下;6374;サンカ;"affiliated with"
+傘;pre_2;日傘;194;ヒガサ;sunshade
+僕;pre_2;公僕;92;;"public servant"
+僕;pre_2;下僕;20;ゲボク;manservant
+僚;pre_2;閣僚;21644;カクリョウ;"cabinet ministers"
+僚;pre_2;官僚;11481;カンリョウ;bureaucrat
+儒;pre_2;儒教;252;ジュキョウ;Confucianism
+儒;pre_2;儒学;103;ジュガク;Confucianism
+償;pre_2;賠償;15475;バイショウ;reparations
+償;pre_2;補償;10105;ホショウ;compensation
+充;pre_2;充実;12589;ジュウジツ;fullness
+充;pre_2;拡充;4063;カクジュウ;expansion
+准;pre_2;批准;4871;ヒジュン;ratification
+准;pre_2;准尉;19;ジュンイ;"warrant officer"
+凸;pre_2;凹凸;302;オウトツ;unevenness
+凸;pre_2;凸凹;94;オウトツ;unevenness
+凹;pre_2;凹凸;302;オウトツ;unevenness
+凹;pre_2;凸凹;94;オウトツ;unevenness
+刃;pre_2;刃物;2559;ハモノ;"edged tool"
+刃;pre_2;両刃;207;リョウバ;double-edged
+剖;pre_2;解剖;3017;カイボウ;dissection
+剖;pre_2;剖検;4;ボウケン;autopsy
+剛;pre_2;剛腕;601;;"strong arm"
+剛;pre_2;金剛;163;コンゴウ;vajra
+剰;pre_2;過剰;6390;カジョウ;excess
+剰;pre_2;余剰;995;ヨジョウ;redundant
+劾;pre_2;弾劾;1479;ダンガイ;impeachment
+勅;pre_2;勅語;230;チョクゴ;"imperial rescript"
+勅;pre_2;勅使;65;チョクシ;"imperial envoy"
+勲;pre_2;勲章;2038;クンショウ;decoration
+勲;pre_2;殊勲;1031;シュクン;"meritorious deeds"
+升;pre_2;升席;104;;"tatami ""box seat"" for four people at sumo, kabuki, etc."
+升;pre_2;升目;25;;measure
+厄;pre_2;厄介;496;ヤッカイ;trouble
+厄;pre_2;災厄;94;サイヤク;calamity
+叔;pre_2;叔父;683;;uncle
+叔;pre_2;叔母;474;;aunt
+叙;pre_2;叙勲;702;ジョクン;"conferring of decorations"
+叙;pre_2;叙情;533;ジョジョウ;lyricism
+吟;pre_2;吟味;880;ギンミ;testing
+吟;pre_2;詩吟;53;;"reciting Chinese poems"
+呈;pre_2;贈呈;2095;ゾウテイ;presentation
+呈;pre_2;露呈;1954;ロテイ;exposure
+呉;pre_2;呉服;522;ゴフク;draperies
+呉;pre_2;呉竹;14;クレタケ;"Alternative name for henon bamboo"
+唆;pre_2;示唆;9612;シサ;suggestion
+唆;pre_2;教唆;234;;instigation
+唇;pre_2;上唇;28;ウワクチビル;"upper lip"
+唇;pre_2;口唇;19;コウシン;lips
+唯;pre_2;唯一;9272;ユイイツ;only
+唯;pre_2;唯々;38;イイ;"quite willingly"
+喝;pre_2;恐喝;2018;キョウカツ;blackmail
+喝;pre_2;一喝;284;イッカツ;"cry in a thundering voice"
+喪;pre_2;喪主;12009;モシュ;"chief mourner"
+喪;pre_2;喪失;1781;ソウシツ;loss
+嗣;pre_2;令嗣;86;レイシ;heir
+嗣;pre_2;嗣子;14;;heir
+嚇;pre_2;威嚇;924;イカク;menace
+囚;pre_2;囚人;610;シュウジン;prisoner
+囚;pre_2;虜囚;34;リョシュウ;captive
+坪;pre_2;延坪;275;;"total floor space"
+坪;pre_2;建坪;19;タテツボ;"floor space"
+垣;pre_2;垣根;814;カキネ;hedge
+垣;pre_2;石垣;690;イシガキ;"stone wall"
+培;pre_2;栽培;5444;サイバイ;cultivation
+培;pre_2;培養;1129;バイヨウ;cultivation
+堀;pre_2;外堀;222;ソトボリ;"outer moat"
+堀;pre_2;内堀;57;ウチボリ;"inner moat"
+堕;pre_2;堕落;339;ダラク;depravity
+堕;pre_2;堕胎;190;ダタイ;abortion
+堪;pre_2;堪能;1119;タンノウ;proficient
+堪;pre_2;堪能;213;タンノウ;proficient
+塀;pre_2;土塀;36;ドベイ;"mud wall"
+塀;pre_2;練塀;3;;"mud and tile wall topped with tiles"
+塁;pre_2;二塁;9702;ニルイ;"second base"
+塁;pre_2;三塁;8869;サンルイ;"third base"
+塑;pre_2;可塑;114;カソ;plastic
+塑;pre_2;彫塑;37;チョウソ;carving
+塚;pre_2;貝塚;418;カイヅカ;"shell heap"
+塚;pre_2;蟻塚;14;アリヅカ;anthill
+塾;pre_2;塾生;416;ジュクセイ;"private-school student"
+塾;pre_2;塾長;265;ジュクチョウ;"principal of a private school"
+壌;pre_2;土壌;2650;ドジョウ;soil
+壮;pre_2;壮大;1272;ソウダイ;magnificent
+壮;pre_2;壮行;796;ソウコウ;rousing
+奔;pre_2;奔走;1310;ホンソウ;"running about"
+奔;pre_2;奔放;710;ホンポウ;wild
+奨;pre_2;奨励;4958;ショウレイ;encouragement
+奨;pre_2;奨学;1927;ショウガク;"encouragement to study"
+妃;pre_2;王妃;402;オウヒ;queen
+妃;pre_2;后妃;2;コウヒ;queen
+妄;pre_2;妄想;719;モウソウ;"wild idea"
+妄;pre_2;妄言;80;モウゲン;"reckless remark"
+妊;pre_2;妊娠;4719;ニンシン;conception
+妊;pre_2;不妊;1724;フニン;infertility
+妥;pre_2;妥協;4972;ダキョウ;compromise
+妥;pre_2;妥当;2277;ダトウ;valid
+姻;pre_2;婚姻;1050;コンイン;marriage
+姻;pre_2;姻戚;18;;"relative by marriage"
+娠;pre_2;妊娠;4719;ニンシン;conception
+媒;pre_2;媒体;1096;バイタイ;media
+媒;pre_2;触媒;776;ショクバイ;catalyst
+嫌;pre_2;嫌気;1103;イヤキ;dislike
+嫌;pre_2;機嫌;836;キゲン;humour
+嫡;pre_2;嫡出;316;チャクシュツ;"legitimate birth"
+嫡;pre_2;嫡男;28;チャクナン;heir
+宜;pre_2;便宜;1432;ベンギ;convenience
+宜;pre_2;適宜;384;テキギ;suitable
+宰;pre_2;主宰;3360;シュサイ;supervision
+宰;pre_2;宰相;446;サイショウ;"prime minister"
+宵;pre_2;今宵;69;コヨイ;"this evening"
+宵;pre_2;宵闇;32;ヨイヤミ;dusk
+寛;pre_2;寛容;1082;カンヨウ;tolerance
+寛;pre_2;寛大;378;カンダイ;tolerance
+寡;pre_2;寡占;317;カセン;oligopoly
+寡;pre_2;寡黙;316;カモク;silent
+寧;pre_2;丁寧;4182;テイネイ;polite
+寧;pre_2;丁寧;148;テイネイ;polite
+寮;pre_2;全寮;146;ゼンリョウ;"whole dormitory"
+寮;pre_2;寮生;131;リョウセイ;boarder
+尉;pre_2;大尉;339;タイイ;captain
+尉;pre_2;中尉;235;チュウイ;"first lieutenant"
+尚;pre_2;尚早;626;ショウソウ;prematurity
+尚;pre_2;尚早;304;ショウソウ;prematurity
+尼;pre_2;尼僧;79;ニソウ;nun
+尼;pre_2;尼寺;45;;nunnery
+履;pre_2;履行;2718;リコウ;performance
+履;pre_2;履歴;1308;リレキ;"personal history"
+屯;pre_2;駐屯;779;チュウトン;stationing
+屯;pre_2;屯田;24;トンデン;colonization
+崇;pre_2;崇拝;457;スウハイ;worship
+崇;pre_2;崇高;293;スウコウ;loftiness
+帥;pre_2;元帥;300;ゲンスイ;marshal
+帥;pre_2;総帥;129;ソウスイ;commander-in-chief
+幣;pre_2;紙幣;1424;シヘイ;"paper money"
+幣;pre_2;貨幣;574;カヘイ;money
+庶;pre_2;庶民;3856;ショミン;masses
+庶;pre_2;庶務;244;ショム;"general affairs"
+庸;pre_2;凡庸;82;ボンヨウ;mediocre
+庸;pre_2;中庸;78;チュウヨウ;"middle way"
+廃;pre_2;廃止;20940;ハイシ;abolition
+廃;pre_2;廃棄;11359;ハイキ;disposal
+廷;pre_2;法廷;9654;ホウテイ;courtroom
+廷;pre_2;出廷;1224;シュッテイ;"appearance in court"
+弊;pre_2;弊害;1587;ヘイガイ;"adverse effect"
+弊;pre_2;疲弊;882;ヒヘイ;exhaustion
+弔;pre_2;弔問;606;チョウモン;"condolence call"
+弔;pre_2;弔意;278;チョウイ;condolence
+弦;pre_2;弦楽;545;ゲンガク;"music for strings"
+弦;pre_2;下弦;18;カゲン;"last quarter"
+彰;pre_2;表彰;6863;ヒョウショウ;"public acknowledgment"
+彰;pre_2;顕彰;1397;ケンショウ;honouring
+循;pre_2;循環;4219;ジュンカン;circulation
+循;pre_2;因循;2;インジュン;indecision
+徹;pre_2;徹底;12634;テッテイ;thoroughness
+徹;pre_2;徹夜;1150;テツヤ;"all night"
+忍;pre_2;忍耐;999;ニンタイ;endurance
+忍;pre_2;忍者;399;ニンジャ;ninja
+恭;pre_2;恭順;50;;allegiance
+恭;pre_2;恭敬;3;キョウケイ;respect
+悠;pre_2;悠久;197;ユウキュウ;eternity
+悠;pre_2;悠長;155;ユウチョウ;leisurely
+患;pre_2;患者;39528;カンジャ;patient
+患;pre_2;疾患;4269;シッカン;disease
+悼;pre_2;追悼;5209;ツイトウ;mourning
+悼;pre_2;哀悼;847;アイトウ;condolence
+惰;pre_2;惰性;163;ダセイ;inertia
+惰;pre_2;怠惰;127;タイダ;laziness
+愁;pre_2;郷愁;541;キョウシュウ;nostalgia
+愁;pre_2;哀愁;302;アイシュウ;pathos
+愉;pre_2;愉快;515;ユカイ;pleasant
+愉;pre_2;愉快;38;ユカイ;pleasant
+慶;pre_2;慶長;209;ケイチョウ;"Keichou era"
+慶;pre_2;慶事;99;ケイジ;"auspicious event"
+憤;pre_2;憤慨;429;;indignation
+憤;pre_2;憤死;105;フンシ;"dying in a fit of anger or indignation"
+憾;pre_2;遺憾;3514;イカン;regrettable
+懇;pre_2;懇談;7851;コンダン;"informal talk"
+懇;pre_2;懇話;696;コンワ;chat
+懐;pre_2;懐疑;1312;カイギ;doubt
+懐;pre_2;懐妊;349;カイニン;pregnancy
+懲;pre_2;懲役;14213;チョウエキ;"penal servitude"
+懲;pre_2;懲戒;5074;チョウカイ;discipline
+懸;pre_2;懸念;32221;ケネン;worry
+懸;pre_2;懸命;4001;ケンメイ;eagerness
+戻;pre_2;返戻;159;ヘンレイ;returning
+戻;pre_2;戻入;1;レイニュウ;"reversal of monies, funds, commissions"
+扉;pre_2;門扉;288;モンピ;"of a gate"
+扉;pre_2;鉄扉;31;テッピ;"iron door"
+扶;pre_2;扶養;1338;フヨウ;support
+扶;pre_2;扶助;568;フジョ;aid
+抄;pre_2;抄録;57;ショウロク;quotation
+抄;pre_2;抄本;45;ショウホン;excerpt
+把;pre_2;把握;8745;ハアク;grasp
+把;pre_2;把持;5;ハジ;grasp
+披;pre_2;披露;7992;ヒロウ;announcement
+披;pre_2;披瀝;13;ヒレキ;"express one's opinion"
+抹;pre_2;抹消;1946;マッショウ;erasure
+抹;pre_2;抹茶;323;マッチャ;"powdered green tea for ceremonies"
+拐;pre_2;誘拐;5188;ユウカイ;abduction
+拒;pre_2;拒否;21198;キョヒ;denial
+拒;pre_2;拒絶;1394;キョゼツ;refusal
+拙;pre_2;拙速;664;セッソク;hasty
+拙;pre_2;稚拙;185;チセツ;unskillful
+括;pre_2;総括;5699;ソウカツ;synthesis
+括;pre_2;包括;4059;ホウカツ;inclusion
+拷;pre_2;拷問;1199;ゴウモン;torture
+挑;pre_2;挑戦;28154;チョウセン;challenge
+挑;pre_2;挑発;1882;チョウハツ;provocation
+挟;pre_2;挟撃;57;キョウゲキ;"pincer movement"
+挿;pre_2;挿入;892;ソウニュウ;insertion
+挿;pre_2;挿絵;886;;illustration
+捜;pre_2;捜査;52772;ソウサ;search
+捜;pre_2;捜索;11201;ソウサク;search
+据;pre_2;据膳;2;;"meal set before one"
+据;pre_2;据付;1;;installation
+搭;pre_2;搭載;5307;トウサイ;loading
+搭;pre_2;搭乗;2669;トウジョウ;embarkation
+摩;pre_2;摩擦;2422;マサツ;friction
+摩;pre_2;摩耗;402;マモウ;wear
+撤;pre_2;撤退;15380;テッタイ;evacuation
+撤;pre_2;撤回;5797;テッカイ;withdrawal
+撲;pre_2;相撲;13227;スモウ;"sumo wrestling"
+撲;pre_2;撲滅;1515;ボクメツ;extermination
+擬;pre_2;模擬;1139;モギ;imitation
+擬;pre_2;擬人;118;ギジン;"simulation of a person"
+斉;pre_2;一斉;6319;イッセイ;simultaneous
+斉;pre_2;斉唱;651;セイショウ;"singing or chanting in unison"
+斎;pre_2;斎場;1675;サイジョウ;"funeral hall"
+斎;pre_2;書斎;457;ショサイ;study
+旋;pre_2;旋風;914;;whirlwind
+旋;pre_2;凱旋;818;ガイセン;"triumphal return"
+昆;pre_2;昆虫;1513;コンチュウ;insect
+昆;pre_2;昆布;796;コブ;
+暁;pre_2;春暁;278;シュンギョウ;"spring dawn"
+暁;pre_2;暁星;133;ギョウセイ;"morning star"
+曹;pre_2;法曹;1032;ホウソウ;"legal profession"
+曹;pre_2;軍曹;375;グンソウ;sergeant
+朴;pre_2;素朴;1641;ソボク;simplicity
+朴;pre_2;純朴;96;ジュンボク;"rustic simplicity"
+杉;pre_2;糸杉;17;;cypress
+杉;pre_2;杉菜;8;;"field horsetail"
+析;pre_2;分析;23604;ブンセキ;analysis
+析;pre_2;解析;2731;カイセキ;analysis
+枠;pre_2;大枠;1020;オオワク;"general framework"
+枠;pre_2;枠内;937;;"within the limits"
+枢;pre_2;中枢;1721;チュウスウ;centre
+枢;pre_2;枢軸;888;スウジク;axle
+柳;pre_2;川柳;8608;カワヤナギ;senryu
+柳;pre_2;青柳;112;;"green willow"
+栓;pre_2;血栓;510;ケッセン;thrombus
+栓;pre_2;元栓;43;モトセン;stopcock
+核;pre_2;中核;3707;チュウカク;kernel
+核;pre_2;非核;2137;ヒカク;non-nuclear
+栽;pre_2;栽培;5444;サイバイ;cultivation
+栽;pre_2;盆栽;500;ボンサイ;bonsai
+桟;pre_2;桟橋;547;サンバシ;wharf
+桟;pre_2;桟敷;202;サジキ;"reviewing stand"
+棚;pre_2;本棚;6936;ホンダナ;bookshelves
+棚;pre_2;棚田;629;タナダ;"terraced rice-fields"
+棟;pre_2;病棟;1306;ビョウトウ;ward
+棟;pre_2;棟梁;145;トウリョウ;"chief support"
+棺;pre_2;納棺;152;ノウカン;"placing of body in coffin"
+棺;pre_2;石棺;94;セッカン;sarcophagus
+槽;pre_2;浴槽;962;ヨクソウ;bathtub
+槽;pre_2;水槽;684;スイソウ;"water tank"
+款;pre_2;借款;1013;シャッカン;loan
+款;pre_2;約款;379;ヤッカン;agreement
+殉;pre_2;殉職;344;ジュンショク;"dying at one's post"
+殉;pre_2;殉教;222;ジュンキョウ;martyrdom
+殻;pre_2;地殻;786;チカク;"earth's crust"
+殻;pre_2;貝殻;239;カイガラ;shell
+汁;pre_2;果汁;537;カジュウ;"fruit juice"
+汁;pre_2;煮汁;182;ニジル;broth
+江;pre_2;入江;515;;inlet
+江;pre_2;江上;65;コウジョウ;"bank of a large river"
+沸;pre_2;沸騰;730;フットウ;boiling
+沸;pre_2;沸点;77;フッテン;"boiling point"
+泡;pre_2;発泡;2716;ハッポウ;foaming
+泡;pre_2;泡盛;183;アワモリ;awamori
+泥;pre_2;泥沼;1288;ドロヌマ;bog
+泥;pre_2;泥棒;892;ドロボウ;thief
+泰;pre_2;安泰;435;アンタイ;peace
+泰;pre_2;泰然;125;;calm
+洞;pre_2;空洞;1323;クウドウ;cave
+洞;pre_2;洞察;448;ドウサツ;discernment
+津;pre_2;津波;6594;ツナミ;tsunami
+津;pre_2;国津;97;クニツ;"of the land"
+洪;pre_2;洪水;1975;コウズイ;flood
+浄;pre_2;洗浄;2168;センジョウ;washing
+浄;pre_2;浄化;1508;ジョウカ;purification
+浦;pre_2;浦里;6;ウラザト;"village by the sea"
+涯;pre_2;生涯;5291;ショウガイ;"one's lifetime"
+涯;pre_2;境涯;45;キョウガイ;circumstances
+涼;pre_2;清涼;534;セイリョウ;cool
+涼;pre_2;荒涼;165;コウリョウ;desolate
+淑;pre_2;淑徳;232;シュクトク;"womanly virtues"
+淑;pre_2;淑女;103;シュクジョ;lady
+渇;pre_2;枯渇;587;コカツ;"drying up"
+渇;pre_2;渇望;233;カツボウ;craving
+渉;pre_2;交渉;170891;コウショウ;negotiations
+渉;pre_2;干渉;1595;カンショウ;interference
+渋;pre_2;渋滞;2547;ジュウタイ;congestion
+渋;pre_2;苦渋;930;クジュウ;bitterness
+渓;pre_2;渓谷;628;ケイコク;valley
+渓;pre_2;渓流;305;ケイリュウ;"mountain stream"
+渦;pre_2;渦中;541;カチュウ;vortex
+渦;pre_2;戦渦;22;センカ;"chaos of war"
+溝;pre_2;海溝;275;カイコウ;"ocean trench"
+溝;pre_2;側溝;262;ソッコウ;gutter
+漆;pre_2;漆器;198;シッキ;"lacquer ware"
+漆;pre_2;漆黒;133;シッコク;"jet black"
+漠;pre_2;砂漠;2253;サバク;desert
+漠;pre_2;漠然;376;バクゼン;obscure
+漬;pre_2;漬物;698;;tsukemono
+漬;pre_2;茶漬;13;;chazuke
+漸;pre_2;漸進;102;ゼンシン;"gradual progress"
+漸;pre_2;漸減;100;ゼンゲン;"gradual decrease"
+濯;pre_2;洗濯;3101;センタク;washing
+煩;pre_2;煩雑;368;;complex
+煩;pre_2;煩悩;131;ボンノウ;"worldly desires"
+爵;pre_2;伯爵;241;ハクシャク;count
+爵;pre_2;男爵;169;ダンシャク;baron
+猫;pre_2;子猫;428;コネコ;kitten
+猫;pre_2;猫背;79;ネコゼ;"bent back"
+献;pre_2;貢献;15301;コウケン;contribution
+献;pre_2;献金;11460;ケンキン;donation
+猶;pre_2;猶予;6198;ユウヨ;postponement
+猶;pre_2;猶子;1;ユウシ;nephew
+猿;pre_2;犬猿;82;ケンエン;"dogs and monkeys"
+猿;pre_2;野猿;37;ヤエン;"wild monkey"
+珠;pre_2;真珠;620;シンジュ;pearl
+珠;pre_2;珠玉;230;シュギョク;gem
+琴;pre_2;琴線;148;キンセン;heartstrings
+琴;pre_2;竪琴;84;タテゴト;harp
+璽;pre_2;御璽;22;ギョジ;"imperial seal"
+璽;pre_2;国璽;7;コクジ;"the seal of state"
+瓶;pre_2;大瓶;366;オオビン;"large bottle"
+瓶;pre_2;花瓶;189;ハナガメ;vase
+甚;pre_2;甚大;494;ジンダイ;"very great"
+甚;pre_2;激甚;159;ゲキジン;intenseness
+疎;pre_2;過疎;1354;カソ;depopulation
+疎;pre_2;疎通;1067;ソツウ;understanding
+疫;pre_2;免疫;2983;メンエキ;immunity
+疫;pre_2;検疫;1427;ケンエキ;quarantine
+症;pre_2;症状;10336;ショウジョウ;symptoms
+症;pre_2;発症;5691;ハッショウ;"outbreak of an illness"
+痢;pre_2;下痢;992;ゲリ;diarrhoea
+痢;pre_2;赤痢;95;セキリ;dysentery
+痴;pre_2;痴呆;1626;チホウ;dementia
+痴;pre_2;痴漢;1494;チカン;masher
+癒;pre_2;癒着;1582;ユチャク;adhesion
+癒;pre_2;治癒;459;チユ;healing
+盲;pre_2;全盲;614;ゼンモウ;"total blindness"
+盲;pre_2;盲人;377;モウジン;"blind person"
+眺;pre_2;眺望;382;チョウボウ;prospect
+睡;pre_2;睡眠;2879;スイミン;sleep
+睡;pre_2;熟睡;183;ジュクスイ;"sound sleep"
+督;pre_2;監督;128290;カントク;supervision
+督;pre_2;督促;545;トクソク;urge
+矯;pre_2;矯正;1301;キョウセイ;correction
+矯;pre_2;奇矯;11;キキョウ;eccentric
+砕;pre_2;粉砕;534;フンサイ;pulverization
+砕;pre_2;玉砕;260;ギョクサイ;"honourable defeat"
+硝;pre_2;硝酸;213;ショウサン;"nitric acid"
+硝;pre_2;硝子;116;;glass
+硫;pre_2;硫黄;610;イオウ;sulfur
+硫;pre_2;硫化;422;リュウカ;sulfuration
+碁;pre_2;囲碁;13057;イゴ;go
+碁;pre_2;碁盤;274;ゴバン;"Go board"
+磨;pre_2;研磨;195;ケンマ;grinding
+磨;pre_2;達磨;92;;daruma
+礁;pre_2;暗礁;638;アンショウ;reef
+礁;pre_2;座礁;462;ザショウ;"running aground"
+祥;pre_2;発祥;1285;ハッショウ;origin
+祥;pre_2;吉祥;48;キッショウ;"lucky omen"
+禅;pre_2;座禅;306;ザゼン;zazen
+禅;pre_2;友禅;155;ユウゼン;"type of dyeing method or pattern"
+禍;pre_2;禍根;304;カコン;"root of evil"
+禍;pre_2;惨禍;232;サンカ;calamity
+租;pre_2;租税;1061;ソゼイ;taxes
+租;pre_2;租界;63;ソカイ;concession
+秩;pre_2;秩序;2956;チツジョ;order
+稼;pre_2;稼働;5900;カドウ;operation
+稼;pre_2;稼業;170;カギョウ;trade
+窃;pre_2;窃盗;4894;セットウ;theft
+窃;pre_2;窃取;37;セッシュ;theft
+窮;pre_2;窮地;1079;キュウチ;dilemma
+窮;pre_2;困窮;877;コンキュウ;poverty
+窯;pre_2;窯業;84;ヨウギョウ;ceramics
+窯;pre_2;窯元;64;カマモト;pottery
+竜;pre_2;竜王;2076;リュウオウ;"Dragon King"
+竜;pre_2;恐竜;1503;キョウリュウ;dinosaur
+筒;pre_2;封筒;1298;フウトウ;envelope
+筒;pre_2;円筒;451;エントウ;cylinder
+粛;pre_2;自粛;3214;ジシュク;self-control
+粛;pre_2;厳粛;691;ゲンシュク;gravity
+粧;pre_2;化粧;6095;ケショウ;make-up
+粧;pre_2;美粧;2;ビショウ;makeup
+糾;pre_2;紛糾;917;フンキュウ;complication
+糾;pre_2;糾弾;740;キュウダン;blame
+紡;pre_2;紡織;180;ボウショク;"spinning and weaving"
+紡;pre_2;紡績;160;ボウセキ;spinning
+索;pre_2;捜索;11201;ソウサク;search
+索;pre_2;模索;6315;モサク;groping
+累;pre_2;累計;1903;ルイケイ;"cumulative total"
+累;pre_2;累積;1289;ルイセキ;accumulation
+紳;pre_2;紳士;1242;シンシ;gentleman
+紳;pre_2;田紳;19;デンシン;"country gentleman"
+緒;pre_2;一緒;23453;イッショ;together
+緒;pre_2;情緒;1132;ジョウショ;emotion
+繊;pre_2;繊維;3482;センイ;fibre
+繊;pre_2;繊細;1867;センサイ;dainty
+繭;pre_2;繭玉;15;マユダマ;"New Year's decoration with cocoon-shaped cakes"
+繭;pre_2;山繭;2;ヤママユ;"Japanese oak silkmoth"
+缶;pre_2;缶詰;649;;packing
+缶;pre_2;汽缶;4;キカン;boiler
+罷;pre_2;罷免;1260;ヒメン;dismissal
+罷;pre_2;罷業;1;ヒギョウ;strike
+羅;pre_2;網羅;890;モウラ;comprising
+羅;pre_2;羅列;222;ラレツ;enumeration
+翁;pre_2;玄翁;6;ゲンノウ;sledgehammer
+翁;pre_2;老翁;5;;"old man"
+耗;pre_2;消耗;970;ショウモウ;exhaustion
+耗;pre_2;摩耗;402;マモウ;wear
+肌;pre_2;鳥肌;246;トリハダ;gooseflesh
+肌;pre_2;肌着;232;ハダギ;underwear
+肖;pre_2;肖像;2206;ショウゾウ;portrait
+肖;pre_2;不肖;54;フショウ;"unworthiness of one's father"
+肢;pre_2;肢体;306;シタイ;limbs
+肢;pre_2;四肢;161;シシ;limbs
+肯;pre_2;肯定;2195;コウテイ;positive
+肯;pre_2;首肯;19;シュコウ;assent
+臭;pre_2;異臭;581;イシュウ;"offensive smell"
+臭;pre_2;悪臭;282;アクシュウ;stink
+舶;pre_2;船舶;2943;センパク;ship
+舶;pre_2;舶来;73;ハクライ;imported
+艇;pre_2;艦艇;966;カンテイ;"military vessel"
+艇;pre_2;競艇;178;キョウテイ;"boat race"
+艦;pre_2;艦船;1443;カンセン;vessels
+艦;pre_2;艦長;1414;カンチョウ;captain
+茎;pre_2;歯茎;95;ハグキ;gums
+茎;pre_2;包茎;31;ホウケイ;phimosis
+荘;pre_2;別荘;1101;ベッソウ;"holiday house"
+荘;pre_2;山荘;662;サンソウ;"mountain villa"
+菌;pre_2;細菌;1897;サイキン;bacillus
+菌;pre_2;殺菌;701;サッキン;sterilization
+薦;pre_2;推薦;13067;スイセン;recommendation
+薦;pre_2;自薦;157;;self-recommendation
+薫;pre_2;薫陶;114;クントウ;education
+薫;pre_2;薫風;70;クンプウ;"balmy breeze"
+藻;pre_2;海藻;532;カイソウ;seaweed
+藻;pre_2;藻類;83;ソウルイ;seaweed
+虜;pre_2;捕虜;2343;ホリョ;prisoner
+虜;pre_2;俘虜;44;フリョ;captive
+虞;pre_2;虞犯;14;グハン;"likelihood of committing a crime"
+蚊;pre_2;蚊帳;358;カヤ;"mosquito net"
+蚊;pre_2;蚊柱;5;カバシラ;"mosquito swarm"
+蛇;pre_2;蛇行;390;ダコウ;meandering
+蛇;pre_2;蛇口;335;ジャグチ;faucet
+蛍;pre_2;蛍光;909;ケイコウ;fluorescence
+蛍;pre_2;蛍火;14;ホタルビ;"light of a firefly"
+融;pre_2;金融;83945;キンユウ;financing
+融;pre_2;融資;14898;ユウシ;financing
+衡;pre_2;均衡;2526;キンコウ;equilibrium
+衡;pre_2;平衡;130;ヘイコウ;"even scale"
+衷;pre_2;折衷;296;セッチュウ;compromise
+衷;pre_2;衷心;53;チュウシン;"innermost feelings"
+裕;pre_2;余裕;7848;ヨユウ;surplus
+裕;pre_2;富裕;1357;フユウ;wealth
+褐;pre_2;褐色;290;カッショク;"dark brown"
+褐;pre_2;褐炭;45;カッタン;"brown coal"
+褒;pre_2;褒章;274;ホウショウ;"medal of honour"
+褒;pre_2;褒美;266;ホウビ;reward
+襟;pre_2;胸襟;91;キョウキン;"one's heart"
+襟;pre_2;襟元;84;エリモト;"front of neck"
+覇;pre_2;連覇;18188;レンパ;"successive championships"
+覇;pre_2;制覇;6140;セイハ;conquest
+訟;pre_2;訴訟;28551;ソショウ;litigation
+訟;pre_2;争訟;4;ソウショウ;"dispute by legal action"
+診;pre_2;診断;12273;シンダン;diagnosis
+診;pre_2;診療;9184;シンリョウ;"medical examination and treatment"
+詐;pre_2;詐欺;11978;サギ;fraud
+詐;pre_2;詐取;2206;サシュ;defrauding
+詔;pre_2;詔書;163;ショウショ;"imperial edict"
+詔;pre_2;詔勅;29;ショウチョク;"imperial edict"
+誓;pre_2;宣誓;1384;センセイ;oath
+誓;pre_2;誓約;599;セイヤク;"written vow"
+諭;pre_2;教諭;8851;キョウユ;teacher
+諭;pre_2;諭旨;224;ユシ;"official suggestion"
+謁;pre_2;謁見;92;エッケン;audience
+謁;pre_2;拝謁;34;ハイエツ;"having an audience with someone of very high social standing"
+謄;pre_2;謄本;196;トウホン;"certified copy"
+謄;pre_2;謄写;38;トウシャ;copy
+謙;pre_2;謙虚;1823;ケンキョ;modesty
+謙;pre_2;謙遜;139;ケンソン;humble
+謹;pre_2;謹慎;1208;キンシン;penitence
+謹;pre_2;謹厳;45;キンゲン;stern
+譜;pre_2;楽譜;739;ガクフ;score
+譜;pre_2;棋譜;635;キフ;"record of a game of go, shogi, chess, etc."
+貞;pre_2;貞操;52;テイソウ;chastity
+貞;pre_2;童貞;34;ドウテイ;virginity
+貢;pre_2;貢献;15301;コウケン;contribution
+貢;pre_2;年貢;103;ネング;"annual tribute"
+賄;pre_2;収賄;3798;シュウワイ;"accepting bribes"
+賄;pre_2;贈賄;1826;ゾウワイ;bribery
+賓;pre_2;来賓;432;ライヒン;guest
+賓;pre_2;国賓;328;;"state guest"
+賜;pre_2;賜杯;480;シハイ;"Emperor's cup"
+賜;pre_2;恩賜;262;オンシ;"Imperial gift"
+賠;pre_2;賠償;15475;バイショウ;reparations
+購;pre_2;購入;22424;コウニュウ;purchase
+購;pre_2;購読;1122;コウドク;"paid subscription"
+践;pre_2;実践;5538;ジッセン;practice
+践;pre_2;践祚;2;センソ;accession
+軟;pre_2;柔軟;5123;ジュウナン;flexible
+軟;pre_2;軟禁;1409;ナンキン;"lenient confinement or house arrest"
+轄;pre_2;管轄;1304;カンカツ;jurisdiction
+轄;pre_2;直轄;1217;チョッカツ;"direct control"
+迅;pre_2;迅速;3805;ジンソク;quick
+迅;pre_2;奮迅;21;フンジン;"impetuous dash forward"
+迭;pre_2;更迭;3094;コウテツ;change
+逐;pre_2;駆逐;574;クチク;extermination
+逐;pre_2;放逐;69;ホウチク;expulsion
+逓;pre_2;逓信;176;テイシン;communications
+逓;pre_2;逓減;27;テイゲン;"gradual decrease"
+逝;pre_2;急逝;572;キュウセイ;"sudden death"
+逝;pre_2;逝去;270;セイキョ;death
+逸;pre_2;秀逸;4694;シュウイツ;excellence
+逸;pre_2;逸脱;1218;イツダツ;deviation
+遍;pre_2;普遍;1426;フヘン;universal
+遍;pre_2;遍路;663;ヘンロ;pilgrimage
+遮;pre_2;遮断;1577;シャダン;isolation
+遮;pre_2;遮音;163;シャオン;soundproofing
+遷;pre_2;変遷;1133;ヘンセン;change
+遷;pre_2;遷都;266;セント;"relocation of the capital"
+還;pre_2;返還;12009;ヘンカン;return
+還;pre_2;帰還;3538;キカン;repatriation
+邸;pre_2;官邸;19423;カンテイ;"official residence"
+邸;pre_2;公邸;6052;コウテイ;"official residence"
+酌;pre_2;酌量;427;;consideration
+酌;pre_2;晩酌;175;バンシャク;"drink at home with the evening meal"
+酢;pre_2;酢酸;152;サクサン;"acetic acid"
+酢;pre_2;甘酢;121;アマズ;"sweet vinegar"
+酪;pre_2;酪農;1217;ラクノウ;dairy
+酪;pre_2;牛酪;4;ギュウラク;butter
+酬;pre_2;報酬;10775;ホウシュウ;remuneration
+酬;pre_2;応酬;1269;オウシュウ;exchange
+酷;pre_2;過酷;2077;カコク;rigour
+酷;pre_2;残酷;1115;ザンコク;cruelty
+醜;pre_2;醜態;130;シュウタイ;"shameful sight"
+醜;pre_2;醜聞;117;シュウブン;scandal
+醸;pre_2;醸成;1080;ジョウセイ;brew
+醸;pre_2;醸造;694;ジョウゾウ;brewing
+釣;pre_2;釣魚;220;;fishing
+釣;pre_2;釣果;123;チョウカ;"a hooked fish"
+鈴;pre_2;風鈴;240;フウリン;"wind chime"
+鈴;pre_2;鈴蘭;66;;"lily of the valley"
+鉢;pre_2;火鉢;127;ヒバチ;brazier
+鉢;pre_2;小鉢;96;コバチ;"small bowl"
+銃;pre_2;銃撃;4848;ジュウゲキ;shooting
+銃;pre_2;拳銃;3119;ケンジュウ;pistol
+銘;pre_2;銘柄;5716;メイガラ;brand
+銘;pre_2;感銘;901;カンメイ;"deep impression"
+閑;pre_2;閑静;252;カンセイ;quiet
+閑;pre_2;閑散;195;カンサン;deserted
+閥;pre_2;派閥;9468;ハバツ;clique
+閥;pre_2;財閥;1068;ザイバツ;zaibatsu
+附;pre_2;附属;73;;attached
+附;pre_2;附子;19;;"sumac gallnut"
+陥;pre_2;欠陥;4228;ケッカン;defect
+陥;pre_2;陥落;2131;カンラク;fall
+隅;pre_2;片隅;737;カタスミ;corner
+隅;pre_2;隅々;431;スミズミ;nooks
+霜;pre_2;霜柱;23;;"frost columns"
+霜;pre_2;霜月;22;シモツキ;"eleventh month of the lunar calendar"
+靴;pre_2;靴下;708;クツシタ;socks
+靴;pre_2;長靴;299;ナガグツ;"leather boots"
+韻;pre_2;余韻;767;ヨイン;reverberation
+韻;pre_2;韻律;57;インリツ;rhythm
+頑;pre_2;頑固;756;ガンコ;stubbornness
+頑;pre_2;頑丈;240;ガンジョウ;solid
+頒;pre_2;頒布;195;ハンプ;distribution
+頒;pre_2;頒価;18;ハンカ;"distribution price"
+頻;pre_2;頻繁;2261;ヒンパン;frequent
+頻;pre_2;頻発;1324;ヒンパツ;frequency
+顕;pre_2;顕著;1937;ケンチョ;remarkable
+顕;pre_2;顕彰;1397;ケンショウ;honouring
+飢;pre_2;飢餓;1038;キガ;starvation
+飢;pre_2;飢饉;172;キキン;famine
+駄;pre_2;無駄;5129;ムダ;futility
+駄;pre_2;駄目;1630;ダメ;"no good"
+騰;pre_2;高騰;6683;コウトウ;"sudden price jump"
+騰;pre_2;急騰;1812;キュウトウ;"sudden rise"
+麻;pre_2;麻薬;3890;マヤク;"narcotic drugs"
+麻;pre_2;大麻;2850;タイマ;hemp
+串;2;玉串;7;タマグシ;"with paper or cotton strips attached"
+串;2;串柿;5;クシガキ;"dried persimmons on a skewer"
+丼;2;天丼;64;テンドン;"tempura served over a bowl of rice"
+丼;2;丼物;14;;"bowl of rice with food on top"
+乞;2;乞食;63;コジキ;beggar
+亀;2;亀裂;2773;キレツ;crack
+亀;2;亀甲;34;キッコウ;"tortoise shell"
+伎;2;伎楽;20;ギガク;"ancient music"
+伎;2;伎芸;7;ギゲイ;"art of kabuki"
+侶;2;僧侶;1392;ソウリョ;priest
+侶;2;伴侶;117;ハンリョ;companion
+傲;2;傲慢;253;ゴウマン;pride
+傲;2;傲岸;17;ゴウガン;haughtiness
+僅;2;僅差;56;キンサ;"narrow margin"
+僅;2;僅少;5;キンショウ;few
+冥;2;冥福;970;メイフク;"happiness in the next world"
+冥;2;冥利;181;ミョウリ;providence
+冶;2;鍛冶;129;タンヤ;smithing
+冶;2;冶金;29;ヤキン;metallurgy
+凄;2;凄惨;136;セイサン;ghastly
+凄;2;凄絶;23;セイゼツ;"extremely gruesome"
+刹;2;刹那;102;;moment
+刹;2;名刹;84;メイサツ;"famous temple"
+剥;2;剥離;65;ハクリ;detachment
+剥;2;剥奪;40;ハクダツ;deprivation
+勃;2;勃発;260;ボッパツ;outbreak
+勃;2;勃起;86;ボッキ;erection
+勾;2;勾玉;91;マガタマ;"comma-shaped jewels"
+勾;2;勾配;91;コウバイ;slope
+叱;2;叱責;258;シッセキ;reprimand
+叱;2;叱咤;257;シッタ;scolding
+呂;2;風呂;2548;フロ;bath
+呂;2;麻呂;89;マロ;I
+呪;2;呪縛;457;ジュバク;curse
+呪;2;呪文;187;ジュモン;spell
+咽;2;咽頭;156;イントウ;pharynx
+咽;2;嗚咽;52;オエツ;sobbing
+哺;2;哺乳;195;ホニュウ;lactation
+哺;2;哺育;6;;nursing
+唄;2;長唄;329;チョウカ;"long epic song with shamisen accompaniment"
+唄;2;小唄;114;コウタ;ballad
+唾;2;唾液;233;ダエキ;saliva
+唾;2;固唾;56;カタズ;"saliva held in one's mouth during times of tension"
+喉;2;喉頭;127;コウトウ;larynx
+喉;2;咽喉;13;;throat
+喩;2;比喩;194;ヒユ;simile
+喩;2;隠喩;61;インユ;metaphor
+嗅;2;嗅覚;209;キュウカク;"sense of smell"
+嘲;2;自嘲;257;ジチョウ;self-deprecation
+嘲;2;嘲笑;87;チョウショウ;scorn
+堆;2;堆積;330;タイセキ;pile
+堆;2;堆肥;300;タイヒ;compost
+塞;2;閉塞;1113;ヘイソク;closure
+塞;2;梗塞;1069;コウソク;stoppage
+填;2;補填;30;ホテン;compensating
+填;2;充填;24;ジュウテン;fill
+妖;2;妖怪;707;ヨウカイ;ghost
+妖;2;妖精;440;ヨウセイ;fairy
+妬;2;嫉妬;451;シット;jealousy
+嫉;2;嫉妬;451;シット;jealousy
+嫉;2;嫉視;1;シッシ;jealousy
+宛;2;宛名;36;;name
+宛;2;宛先;13;;address
+尻;2;尻目;303;シリメ;"backward glance"
+尻;2;帳尻;162;チョウジリ;"closing part of a balance sheet"
+崖;2;断崖;162;ダンガイ;palisade
+崖;2;懸崖;3;ケンガイ;"overhanging cliff"
+嵐;2;砂嵐;146;スナアラシ;sandstorm
+嵐;2;青嵐;47;セイラン;"wind blowing through fresh verdure"
+巾;2;巾着;78;;pouch
+巾;2;頭巾;50;ズキン;hood
+弄;2;翻弄;896;ホンロウ;"trifling with"
+弄;2;愚弄;98;グロウ;mockery
+弥;2;弥生;672;ヤヨイ;"third month of the lunar calendar"
+弥;2;弥勒;77;ミロク;Maitreya
+彙;2;語彙;231;ゴイ;vocabulary
+怨;2;怨念;142;オンネン;grudge
+怨;2;怨霊;123;オンリョウ;"revengeful ghost"
+恣;2;恣意;545;シイ;arbitrariness
+恣;2;放恣;1;ホウシ;licentious
+惧;2;危惧;2477;キグ;apprehensions
+慄;2;戦慄;104;センリツ;shudder
+慄;2;慄然;34;リツゼン;terrified
+憧;2;憧憬;93;ドウケイ;longing
+憬;2;憧憬;93;ドウケイ;longing
+戚;2;親戚;181;シンセキ;relative
+戚;2;姻戚;18;;"relative by marriage"
+戴;2;戴冠;109;;coronation
+戴;2;頂戴;66;チョウダイ;receiving
+拉;2;拉致;25758;ラチ;"taking captive"
+拭;2;払拭;608;フッショク;"wiping out"
+拳;2;拳銃;3119;ケンジュウ;pistol
+拳;2;鉄拳;37;テッケン;fist
+拶;2;挨拶;315;アイサツ;greeting
+挨;2;挨拶;315;アイサツ;greeting
+挫;2;挫折;1754;ザセツ;setback
+挫;2;頓挫;776;トンザ;setback
+捉;2;捕捉;327;ホソク;capture
+捗;2;進捗;52;シンチョク;progress
+捻;2;捻出;655;ネンシュツ;contriving
+捻;2;捻挫;21;ネンザ;sprain
+摯;2;真摯;1884;シンシ;sincerity
+斑;2;斑鳩;174;;"Japanese grosbeak"
+斑;2;斑点;163;ハンテン;speck
+斬;2;斬新;1202;ザンシン;novel
+斬;2;斬首;41;ザンシュ;"decapitated head"
+旦;2;元旦;259;ガンタン;"New Year's Day"
+旦;2;旦那;142;ダンナ;master
+旺;2;旺盛;843;オウセイ;"full of vim and vigor"
+昧;2;曖昧;205;アイマイ;vague
+昧;2;三昧;133;ザンマイ;indulgence
+曖;2;曖昧;205;アイマイ;vague
+枕;2;枕元;282;マクラモト;"near one's pillow"
+枕;2;夢枕;184;ユメマクラ;"at the bedside where one dreams"
+柵;2;鉄柵;28;テッサク;"iron railing or fence"
+柿;2;渋柿;53;シブガキ;"astringent persimmon"
+柿;2;熟柿;32;ジュクシ;"ripe persimmon"
+桁;2;井桁;4;イゲタ;"well lining"
+桁;2;衣桁;2;イコウ;"clothes rack"
+梗;2;梗塞;1069;コウソク;stoppage
+梗;2;桔梗;118;;"Chinese bellflower"
+椅;2;椅子;1898;;chair
+椎;2;脊椎;243;セキツイ;spine
+椎;2;腰椎;135;ヨウツイ;"lumbar vertebra"
+楷;2;楷書;165;カイショ;"square style of handwriting"
+毀;2;毀損;102;キソン;damage
+毀;2;毀棄;78;キキ;destroying
+氾;2;氾濫;150;ハンラン;overflowing
+汎;2;汎用;252;ハンヨウ;generic
+汎;2;広汎;109;;wide
+汰;2;淘汰;620;トウタ;"weeding out"
+汰;2;沙汰;24;サタ;affair
+沃;2;肥沃;28;ヒヨク;fertility
+沃;2;肥沃;19;ヒヨク;fertility
+沙;2;沙子;91;イサゴ;sand
+沙;2;沙漠;91;;desert
+淫;2;淫行;115;;obscenity
+淫;2;姦淫;16;カンイン;adultery
+湧;2;湧出;39;ユウシュツ;"gushing out"
+溺;2;溺愛;76;デキアイ;doting
+溺;2;溺死;39;デキシ;"death by drowning"
+潰;2;潰瘍;235;カイヨウ;ulcer
+潰;2;潰滅;8;;destruction
+煎;2;煎茶;70;センチャ;"green tea"
+煎;2;煎餅;22;;"rice cracker"
+爪;2;爪先;14;ツマサキ;toes
+爪;2;爪痕;13;ツメアト;"fingernail mark"
+爽;2;爽快;350;ソウカイ;refreshing
+爽;2;颯爽;57;サッソウ;gallant
+牙;2;牙城;470;ガジョウ;stronghold
+牙;2;象牙;253;ゾウゲ;ivory
+狙;2;狙撃;848;ソゲキ;shooting
+玩;2;玩具;1091;ガング;toy
+玩;2;愛玩;61;アイガン;"caring for"
+瑠;2;瑠璃;158;ルリ;"lapis lazuli"
+璃;2;瑠璃;158;ルリ;"lapis lazuli"
+璃;2;玻璃;25;ハリ;quartz
+璧;2;完璧;164;カンペキ;perfect
+璧;2;完璧;95;カンペキ;perfect
+瓦;2;瓦解;140;ガカイ;collapse
+瓦;2;煉瓦;92;レンガ;brick
+畏;2;畏敬;230;イケイ;reverence
+畏;2;畏怖;166;イフ;awe
+畿;2;畿内;132;キナイ;"territories in the vicinity of the capital and under direct imperial rule"
+痕;2;痕跡;908;コンセキ;trace
+痕;2;血痕;802;ケッコン;bloodstain
+痩;2;痩身;45;ソウシン;"slim figure"
+痩;2;痩躯;5;;lean
+瘍;2;腫瘍;1111;シュヨウ;tumor
+瘍;2;潰瘍;235;カイヨウ;ulcer
+眉;2;眉間;96;ミケン;brow
+眉;2;白眉;68;;"fine example"
+睦;2;親睦;124;シンボク;friendship
+睦;2;和睦;21;ワボク;reconciliation
+瞭;2;明瞭;191;メイリョウ;clarity
+瞭;2;瞭然;4;リョウゼン;obvious
+瞳;2;瞳孔;109;ドウコウ;pupil
+瞳;2;瞳子;4;ドウシ;pupil
+稽;2;稽古;591;ケイコ;practice
+稽;2;滑稽;128;コッケイ;funny
+窟;2;洞窟;297;ドウクツ;cave
+窟;2;石窟;278;セックツ;cavern
+箋;2;便箋;20;ビンセン;"writing paper"
+箋;2;付箋;17;フセン;tag
+箸;2;菜箸;9;サイバシ;"long chopsticks"
+箸;2;火箸;4;ヒバシ;"long metal chopsticks"
+籠;2;尾籠;1161;ビロウ;"foolish thing"
+籠;2;印籠;119;インロウ;"seal case"
+綻;2;破綻;4172;ハタン;failure
+緻;2;緻密;682;チミツ;minute
+緻;2;精緻;144;セイチ;delicate
+罵;2;罵声;156;バセイ;boos
+罵;2;罵倒;127;バトウ;abuse
+羞;2;羞恥;44;シュウチ;shyness
+羞;2;含羞;42;ガンシュウ;shyness
+羨;2;羨望;72;センボウ;envy
+肘;2;肩肘;10;カタヒジ;"shoulder and elbow"
+肘;2;掣肘;5;セイチュウ;restraint
+股;2;股間;53;コカン;"nether region"
+股;2;股旅;49;マタタビ;"wandering life of a gambler"
+脇;2;関脇;2687;セキワケ;"wrestler of the third highest rank"
+脇;2;脇役;731;ワキヤク;"supporting role"
+脊;2;脊髄;494;セキズイ;"spinal cord"
+脊;2;脊椎;243;セキツイ;spine
+腎;2;腎臓;2297;ジンゾウ;kidney
+腎;2;副腎;78;フクジン;"suprarenal body"
+腫;2;腫瘍;1111;シュヨウ;tumor
+腫;2;血腫;192;ケッシュ;hematoma
+腺;2;乳腺;122;ニュウセン;"mammary gland"
+腺;2;涙腺;96;ルイセン;"tear gland"
+膝;2;膝元;14;ヒザモト;"near one's knee"
+膝;2;膝頭;9;ヒザガシラ;kneecap
+膳;2;御膳;88;ゴゼン;meal
+膳;2;配膳;50;ハイゼン;"setting a place"
+臆;2;臆病;111;オクビョウ;cowardice
+臆;2;臆病;71;オクビョウ;cowardice
+臼;2;脱臼;330;ダッキュウ;dislocation
+臼;2;臼歯;45;ウスバ;molar
+舷;2;左舷;135;サゲン;port
+舷;2;右舷;134;ウゲン;starboard
+艶;2;妖艶;98;ヨウエン;fascinating
+艶;2;艶笑;22;エンショウ;"seductive smile"
+芯;2;芯地;2;シンジ;padding
+苛;2;苛烈;89;カレツ;severe
+苛;2;苛酷;49;カコク;rigour
+萎;2;萎縮;825;イシュク;withering
+葛;2;葛藤;1307;カットウ;conflict
+葛;2;葛粉;9;クズコ;"kudzu starch"
+蓋;2;瘡蓋;48;;crust
+蓋;2;蓋然;45;ガイゼン;probability
+蔑;2;蔑視;131;ベッシ;contempt
+蔑;2;軽蔑;91;ケイベツ;scorn
+蔽;2;隠蔽;166;インペイ;concealment
+蔽;2;遮蔽;3;シャヘイ;screen
+藍;2;伽藍;150;ガラン;temple
+藍;2;藍色;50;アイイロ;"indigo blue"
+藤;2;葛藤;1307;カットウ;conflict
+藤;2;藤本;341;トウホン;"climbing trees"
+虎;2;猛虎;632;モウコ;"fierce tiger"
+虎;2;白虎;144;ビャッコ;"White Tiger"
+虹;2;虹彩;137;コウサイ;iris
+虹;2;虹鱒;2;;"rainbow trout"
+蜂;2;蜂起;567;ホウキ;uprising
+蜂;2;養蜂;127;ヨウホウ;beekeeping
+蜜;2;蜜月;368;ミツゲツ;honeymoon
+蜜;2;蜂蜜;50;ハチミツ;honey
+袖;2;領袖;414;リョウシュウ;leader
+袖;2;半袖;269;ハンソデ;"short sleeves"
+裾;2;裾野;232;スソノ;"foot of a mountain"
+裾;2;山裾;8;ヤマスソ;"foot or base of a mountain"
+訃;2;訃報;15114;フホウ;"news of a person's death"
+詣;2;参詣;275;サンケイ;"temple or shrine visit"
+詣;2;造詣;174;ゾウケイ;"deep knowledge"
+詮;2;詮索;22;センサク;"inquiry into"
+詮;2;詮議;11;センギ;discussion
+誰;2;誰々;29;ダレダレ;so-and-so
+誰;2;誰彼;27;ダレカレ;"this or that person"
+諦;2;諦観;60;テイカン;"clear vision"
+諦;2;諦念;48;テイネン;"understanding and acceptance"
+諧;2;俳諧;165;ハイカイ;haikai
+諧;2;諧謔;80;カイギャク;joke
+謎;2;謎々;4;;riddle
+貌;2;変貌;378;ヘンボウ;transfiguration
+貌;2;風貌;179;フウボウ;looks
+貪;2;貪欲;284;ドンヨク;avarice
+貪;2;貪食;6;ドンショク;voracity
+貼;2;貼付;28;チョウフ;pasting
+貼;2;貼紙;1;;"paper patch"
+賂;2;賄賂;77;ワイロ;bribe
+賭;2;賭博;1869;トバク;gambling
+賭;2;賭場;24;トバ;"gambling den"
+踪;2;失踪;657;シッソウ;absconding
+蹴;2;一蹴;478;イッシュウ;kicking
+蹴;2;蹴球;98;シュウキュウ;football
+辣;2;辛辣;56;シンラツ;bitter
+辣;2;辣腕;39;ラツワン;shrewdness
+遜;2;謙遜;139;ケンソン;humble
+遜;2;不遜;79;フソン;arrogance
+遡;2;遡上;169;ソジョウ;"going upstream"
+遡;2;遡及;153;ソキュウ;"tracing back"
+那;2;旦那;142;ダンナ;master
+那;2;刹那;102;;moment
+酎;2;焼酎;1459;ショウチュウ;shochu
+醒;2;覚醒;108;カクセイ;"waking up"
+醒;2;警醒;1;ケイセイ;warning
+采;2;采配;348;サイハイ;baton
+采;2;喝采;280;カッサイ;acclamation
+釜;2;後釜;45;アトガマ;successor
+釜;2;釜飯;23;;"rice, meat and vegetable dish served in a small pot"
+錦;2;錦絵;165;ニシキエ;print
+錦;2;錦繍;40;キンシュウ;"fabric with a brocade and embroidery"
+錮;2;禁錮;22;;imprisonment
+鍋;2;土鍋;229;ドナベ;"earthenware pot"
+鍋;2;鍋物;120;ナベモノ;stew
+鍵;2;鍵盤;258;ケンバン;keyboard
+鍵;2;合鍵;156;アイカギ;"duplicate key"
+鎌;2;鎌鼬;11;;", thought to be a trio of weasels who appear in a whirlwind to cut their victim"
+鎌;2;鎌髭;5;カマヒゲ;"sickle-shaped moustache"
+闇;2;暗闇;765;クラヤミ;darkness
+闇;2;闇市;152;ヤミイチ;"black market"
+隙;2;隙間;92;スキマ;crevice
+隙;2;間隙;56;カンゲキ;gap
+韓;2;訪韓;1406;ホウカン;"visit to Korea"
+頃;2;日頃;54;ヒゴロ;normally
+頃;2;近頃;41;チカゴロ;lately
+須;2;必須;1263;ヒッス;indispensable
+須;2;急須;116;キュウス;"small teapot"
+頓;2;頓挫;776;トンザ;setback
+頓;2;整頓;106;セイトン;orderliness
+頬;2;頬紅;10;ホオベニ;"cheek rouge"
+頬;2;頬骨;8;ホオボネ;cheekbones
+顎;2;上顎;10;ジョウガク;"upper jaw"
+顎;2;顎骨;4;ガッコツ;jawbone
+餅;2;鏡餅;77;カガミモチ;"mirror-shaped mochi, usu. a pair stacked in order of size with a daidai on top, used as a New Year offering, then cut and eaten on January 11."
+餅;2;月餅;67;ゲッペイ;mooncake
+餌;2;餌食;97;エジキ;prey
+餌;2;給餌;67;キュウジ;feeding
+駒;2;手駒;34;テゴマ;"under one's control"
+駒;2;駒鳥;2;;"Japanese robin"
+骸;2;死骸;250;シガイ;body
+骸;2;形骸;228;ケイガイ;ruin
+鬱;2;憂鬱;93;ユウウツ;depression
+鬱;2;鬱屈;79;ウックツ;gloomy
+鶴;2;真鶴;122;;"white-naped crane"
+鶴;2;折鶴;5;;"folded paper crane"
+麓;2;山麓;187;サンロク;"foot of a mountain"
+麺;2;素麺;22;ソウメン;"fine white noodles"
+麺;2;麺類;17;メンルイ;noodles
+丑;pre_1;丑寅;5;ウシトラ;northeast
+丞;pre_1;丞相;88;ジョウショウ;"prime minister"
+乎;pre_1;断乎;4;ダンコ;firm
+乎;pre_1;確乎;1;カッコ;firm
+云;pre_1;云々;50;ウンヌン;"and so on"
+云;pre_1;云為;2;ウンイ;"sayings and doings"
+些;pre_1;些細;35;ササイ;trivial
+些;pre_1;些細;28;ササイ;trivial
+亥;pre_1;亥年;43;イドシ;"year of the boar"
+亥;pre_1;戌亥;12;イヌイ;northwest
+什;pre_1;什器;4;ジュウキ;utensil
+什;pre_1;佳什;1;カジュウ;"excellent poem"
+仇;pre_1;仇討;73;;vengeance
+仇;pre_1;仇敵;47;キュウテキ;"bitter enemy"
+仔;pre_1;仔犬;16;;puppy
+仔;pre_1;仔細;10;;reasons
+伊;pre_1;伊達;555;ダテ;elegance
+伍;pre_1;伍長;90;ゴチョウ;corporal
+伍;pre_1;落伍;8;;"dropping out of"
+伶;pre_1;伶人;5;レイジン;"court musician"
+伽;pre_1;伽藍;150;ガラン;temple
+伽;pre_1;伽羅;79;キャラ;"aloes wood"
+佃;pre_1;佃煮;79;ツクダニ;"preserved food boiled in soy"
+佑;pre_1;天佑;41;テンユウ;"divine aid"
+侠;pre_1;侠客;66;キョウカク;"self-styled humanitarian"
+侠;pre_1;任侠;63;ニンキョウ;chivalry
+倖;pre_1;僥倖;13;;fortuitous
+倖;pre_1;射倖;1;;speculation
+倦;pre_1;倦怠;120;ケンタイ;languor
+倦;pre_1;倦厭;1;ケンエン;weariness
+倭;pre_1;倭人;158;;"Japanese person"
+倭;pre_1;倭絵;3;;Yamato-e
+傭;pre_1;傭兵;67;ヨウヘイ;mercenary
+傭;pre_1;日傭;1;;"daily employment"
+僑;pre_1;華僑;299;カキョウ;"overseas Chinese merchants"
+僻;pre_1;僻地;11;ヘキチ;"remote place"
+僻;pre_1;僻村;3;ヘキソン;"remote village"
+儘;pre_1;我儘;1;;selfishness
+允;pre_1;允許;10;インキョ;permission
+兇;pre_1;兇賊;3;;villain
+兇;pre_1;兇悪;2;;atrocious
+兜;pre_1;鉄兜;10;テツカブト;"steel helmet"
+兜;pre_1;鳥兜;6;;aconite
+凋;pre_1;凋落;139;チョウラク;decline
+凌;pre_1;凌駕;90;リョウガ;excelling
+凌;pre_1;凌辱;2;;insult
+凧;pre_1;奴凧;1;ヤッコダコ;"kite shaped like a footman"
+凪;pre_1;夕凪;66;;"evening calm"
+凪;pre_1;朝凪;2;;"morning calm"
+凰;pre_1;鳳凰;169;ホウオウ;"Chinese firebird"
+凱;pre_1;凱旋;818;ガイセン;"triumphal return"
+凱;pre_1;凱歌;44;ガイカ;"victory song"
+函;pre_1;投函;202;トウカン;mailing
+函;pre_1;函数;2;;function
+剃;pre_1;剃髪;28;テイハツ;tonsure
+剃;pre_1;剃刀;16;;razor
+劫;pre_1;億劫;16;オックウ;troublesome
+劫;pre_1;永劫;12;エイゴウ;eternity
+勿;pre_1;勿体;12;モッタイ;"superior airs"
+匙;pre_1;茶匙;1;;teaspoon
+匪;pre_1;討匪;4;トウヒ;"suppression of bandits"
+匪;pre_1;土匪;3;ドヒ;"local rebels"
+卜;pre_1;卜者;1;ボクシャ;fortuneteller
+卦;pre_1;八卦;13;ハッケ;"eight trigrams"
+卦;pre_1;有卦;7;ウケ;"streak of good luck"
+卯;pre_1;卯木;27;;deutzia
+卯;pre_1;卯月;15;ウヅキ;"fourth month of the lunar calendar"
+卿;pre_1;公卿;39;クギョウ;"Imperial Court"
+厭;pre_1;厭戦;70;エンセン;"war weariness"
+厭;pre_1;厭世;21;;pessimism
+叉;pre_1;夜叉;148;ヤシャ;
+叉;pre_1;三叉;26;サンサ;"three-pronged fork"
+叛;pre_1;叛乱;18;;insurrection
+叛;pre_1;叛逆;13;;treason
+叡;pre_1;叡智;221;;wisdom
+叡;pre_1;叡知;8;;wisdom
+叢;pre_1;叢書;111;ソウショ;series
+叢;pre_1;論叢;6;ロンソウ;"treatise or essay collection"
+叩;pre_1;叩頭;2;コウトウ;kowtow
+只;pre_1;只今;24;タダイマ;"Here I am"
+只;pre_1;只事;2;タダゴト;"trivial matter"
+吃;pre_1;吃音;103;キツオン;stammering
+吃;pre_1;吃水;8;;"sea gauge"
+吊;pre_1;吊橋;19;;"suspension bridge"
+吊;pre_1;吊革;8;;strap
+吻;pre_1;接吻;75;セップン;kiss
+吻;pre_1;口吻;5;コウフン;"way of speaking"
+吾;pre_1;吾妻;175;;"eastern Japan"
+吾;pre_1;吾輩;123;;I
+呆;pre_1;痴呆;1626;チホウ;dementia
+呆;pre_1;呆然;60;ボウゼン;dumbfounded
+呑;pre_1;呑気;36;;carefree
+呑;pre_1;呑口;6;;taste
+咳;pre_1;咳嗽;9;;cough
+咳;pre_1;謦咳;4;ケイガイ;cough
+哉;pre_1;善哉;74;ゼンザイ;"Well done!"
+哉;pre_1;快哉;47;カイサイ;joy
+哨;pre_1;前哨;1162;ゼンショウ;outpost
+哨;pre_1;哨戒;891;ショウカイ;patrolling
+唖;pre_1;唖然;34;;dumbfounded
+唖;pre_1;聾唖;25;ロウア;deafness
+啄;pre_1;啄木;234;;woodpecker
+喧;pre_1;喧騒;186;ケンソウ;tumult
+喧;pre_1;喧嘩;184;ケンカ;quarrel
+喬;pre_1;喬木;6;キョウボク;"tall tree"
+喰;pre_1;漆喰;102;シックイ;mortar
+喰;pre_1;馬喰;5;;"cattle or horse trader"
+嘉;pre_1;嘉納;197;カノウ;"accepting with pleasure"
+嘉;pre_1;嘉賞;1;カショウ;approval
+嘩;pre_1;喧嘩;184;ケンカ;quarrel
+噌;pre_1;味噌;364;ミソ;miso
+噺;pre_1;噺家;213;ハナシカ;storyteller
+嚢;pre_1;嚢胞;13;ノウホウ;cyst
+嚢;pre_1;気嚢;4;キノウ;"air bladder or sac"
+圃;pre_1;圃場;12;ホジョウ;"cultivated land"
+圃;pre_1;田圃;8;;"paddy field"
+坐;pre_1;坐像;165;;"seated figure"
+坐;pre_1;坐禅;19;;zazen
+坤;pre_1;乾坤;20;ケンコン;"heaven and earth"
+坦;pre_1;平坦;39;ヘイタン;even
+坦;pre_1;平坦;30;ヘイタン;even
+垢;pre_1;無垢;305;ムク;purity
+垢;pre_1;歯垢;92;シコウ;plaque
+埠;pre_1;埠頭;119;フトウ;pier
+埴;pre_1;埴輪;176;ハニワ;haniwa
+埴;pre_1;埴生;10;ハニュウ;"clay soil"
+堰;pre_1;堰堤;30;エンテイ;dam
+堵;pre_1;安堵;1607;アンド;relief
+塵;pre_1;後塵;83;コウジン;"second fiddle"
+塵;pre_1;微塵;54;ミジン;particle
+壕;pre_1;塹壕;59;ザンゴウ;trench
+夷;pre_1;蝦夷;204;エゾ;"historical term for non-Yamato peoples in northern Japan"
+夷;pre_1;攘夷;162;ジョウイ;"expel the barbarians"
+套;pre_1;外套;47;ガイトウ;overcoat
+套;pre_1;常套;31;ジョウトウ;conventionality
+妓;pre_1;舞妓;200;マイコ;"apprentice geisha"
+妓;pre_1;芸妓;134;ゲイギ;geisha
+妾;pre_1;妾宅;14;ショウタク;"house in which a mistress is kept"
+妾;pre_1;愛妾;11;アイショウ;"beloved concubine"
+姑;pre_1;姑息;187;コソク;underhanded
+姑;pre_1;小姑;25;コジュウトメ;sister-in-law
+姥;pre_1;山姥;78;ヤマンバ;"mountain witch"
+姥;pre_1;姥桜;2;ウバザクラ;"faded beauty"
+姦;pre_1;強姦;1490;ゴウカン;rape
+姦;pre_1;姦通;117;カンツウ;adultery
+娩;pre_1;分娩;419;ブンベン;delivery
+娼;pre_1;娼婦;270;ショウフ;prostitute
+娼;pre_1;公娼;18;コウショウ;"licensed prostitution"
+嬉;pre_1;嬉々;23;キキ;merry
+嬉;pre_1;嬉戯;2;キギ;frisking
+嬰;pre_1;嬰児;11;;infant
+孜;pre_1;孜々;1;シシ;assiduously
+孜;pre_1;孜孜;1;シシ;assiduously
+孟;pre_1;孟冬;1;モウトウ;"beginning of winter"
+宏;pre_1;宏大;15;;huge
+宏;pre_1;宏大;5;;huge
+宥;pre_1;宥和;18;ユウワ;appeasement
+寅;pre_1;丑寅;5;ウシトラ;northeast
+寓;pre_1;寓話;238;グウワ;fable
+寓;pre_1;寓意;86;グウイ;"hidden meaning"
+寵;pre_1;寵児;132;;"favorite child"
+寵;pre_1;恩寵;68;オンチョウ;grace
+尖;pre_1;尖塔;73;セントウ;spire
+尖;pre_1;尖鋭;15;;radical
+屍;pre_1;死屍;25;シシ;corpse
+屍;pre_1;屍体;16;;"dead body"
+屑;pre_1;星屑;35;ホシクズ;stardust
+屑;pre_1;紙屑;8;;wastepaper
+岨;pre_1;山岨;9;ヤマソワ;"mountain cliff"
+峨;pre_1;峨々;2;ガガ;rugged
+峨;pre_1;峨峨;1;ガガ;rugged
+峻;pre_1;峻別;85;シュンベツ;"rigorous distinction"
+峻;pre_1;急峻;33;キュウシュン;steep
+嵩;pre_1;水嵩;1;ミズカサ;"volume of water"
+嵩;pre_1;嵩高;1;カサダカ;bulky
+嶺;pre_1;海嶺;36;カイレイ;ridge
+嶺;pre_1;高嶺;34;タカネ;"high peak"
+巳;pre_1;辰巳;493;タツミ;southeast
+巳;pre_1;上巳;9;ジョウミ;"March 3rd of the lunar calendar"
+巷;pre_1;巷説;36;コウセツ;gossip
+巷;pre_1;巷間;27;コウカン;"on the street"
+帖;pre_1;手帖;405;;notebook
+帖;pre_1;法帖;54;ホウジョウ;"copybook printed from the works of old masters of calligraphy"
+幡;pre_1;八幡;504;ハチマン;Hachiman
+庄;pre_1;庄屋;88;ショウヤ;"village headman"
+庄;pre_1;庄園;2;;manor
+庇;pre_1;庇護;176;ヒゴ;patronage
+庇;pre_1;雪庇;39;セッピ;"overhanging snow"
+庖;pre_1;庖丁;2;;"kitchen knife"
+庚;pre_1;庚申;25;コウシン;"57th of the sexagenary cycle"
+庵;pre_1;草庵;48;ソウアン;"thatched hut"
+庵;pre_1;沢庵;27;;"pickled daikon radish"
+廓;pre_1;遊廓;18;;"red light district"
+廓;pre_1;輪廓;1;;contour
+廟;pre_1;聖廟;132;セイビョウ;"Confucian temple"
+廟;pre_1;霊廟;88;レイビョウ;mausoleum
+廠;pre_1;工廠;103;コウショウ;"ammunition factory"
+廻;pre_1;輪廻;135;リンネ;samsara
+廻;pre_1;廻船;10;;lighter
+弘;pre_1;弘法;41;グホウ;"spreading Buddhist teachings"
+弘;pre_1;寛弘;22;カンコウ;"Kankou era"
+弛;pre_1;弛緩;1177;シカン;relaxation
+弼;pre_1;輔弼;2;ホヒツ;"giving the Emperor advice on affairs of state"
+彦;pre_1;山彦;33;ヤマビコ;echo
+徽;pre_1;徽章;5;;medal
+忽;pre_1;粗忽;20;ソコツ;careless
+忽;pre_1;粗忽;11;ソコツ;careless
+怜;pre_1;怜悧;9;レイリ;cleverness
+怜;pre_1;怜悧;6;レイリ;cleverness
+怯;pre_1;卑怯;61;ヒキョウ;cowardice
+怯;pre_1;卑怯;44;ヒキョウ;cowardice
+恕;pre_1;寛恕;3;カンジョ;magnanimity
+恢;pre_1;恢復;7;;restoration
+恰;pre_1;恰好;28;;shape
+恰;pre_1;恰好;13;;shape
+悉;pre_1;知悉;18;チシツ;"complete knowledge"
+悌;pre_1;孝悌;1;;"filial piety"
+悶;pre_1;苦悶;87;クモン;anguish
+悶;pre_1;悶々;55;モンモン;"worrying endlessly"
+惚;pre_1;恍惚;105;コウコツ;ecstasy
+惟;pre_1;思惟;19;シイ;thought
+惣;pre_1;惣菜;32;;"side dish"
+惹;pre_1;惹起;38;ジャッキ;"bringing about"
+慧;pre_1;智慧;36;;wisdom
+慧;pre_1;慧眼;32;ケイガン;eye
+慾;pre_1;性慾;4;;"sexual desire"
+慾;pre_1;貪慾;1;;avarice
+憐;pre_1;可憐;103;カレン;sweet
+憐;pre_1;憐憫;21;レンビン;pity
+戎;pre_1;西戎;2;セイジュウ;"barbarians to the west"
+戟;pre_1;刺戟;25;;stimulus
+戟;pre_1;剣戟;6;ケンゲキ;weapons
+托;pre_1;托鉢;40;タクハツ;"monk's ""begging"""
+扮;pre_1;扮装;63;;make-up
+按;pre_1;按摩;10;アンマ;"massage, esp. the Anma Japanese type of massage"
+按;pre_1;按配;3;;seasoning
+挺;pre_1;空挺;78;クウテイ;airborne
+挺;pre_1;挺身;58;テイシン;volunteer
+挽;pre_1;挽回;312;バンカイ;recovery
+挽;pre_1;挽歌;172;バンカ;elegy
+捌;pre_1;荷捌;1;ニサバキ;"freight handling"
+捧;pre_1;捧呈;1;ホウテイ;dedication
+捲;pre_1;席捲;1;;"sweeping conquest"
+捷;pre_1;敏捷;13;ビンショウ;nimble
+捷;pre_1;敏捷;8;ビンショウ;nimble
+捺;pre_1;押捺;7;オウナツ;sealing
+捺;pre_1;捺印;7;ナツイン;"affixing a seal"
+掠;pre_1;掠奪;5;;pillage
+掠;pre_1;侵掠;2;;aggression
+掩;pre_1;掩護;1;エンゴ;covering
+掩;pre_1;掩蔽;1;エンペイ;cover
+掬;pre_1;一掬;1;イッキク;"small amount"
+掻;pre_1;掻痒;3;ソウヨウ;itch
+掻;pre_1;掻巻;1;;"sleeved quilt"
+摸;pre_1;掏摸;20;;pickpocket
+摸;pre_1;摸索;7;;groping
+摺;pre_1;草摺;15;;tassets
+摺;pre_1;手摺;7;テスリ;handrail
+撒;pre_1;撒水;1;サッスイ;"sprinkling water over"
+撚;pre_1;撚糸;23;ネンシ;"twisted thread or yarn"
+撞;pre_1;撞木;14;シュモク;"wooden bell hammer"
+撞;pre_1;撞着;3;ドウチャク;contradiction
+撫;pre_1;愛撫;26;;caress
+撫;pre_1;慰撫;16;イブ;pacification
+播;pre_1;伝播;172;デンパ;transmission
+播;pre_1;播種;13;ハシュ;sowing
+撰;pre_1;新撰;63;;"newly compiled, selected or edited"
+撰;pre_1;勅撰;35;チョクセン;"compilation for the emperor"
+擢;pre_1;抜擢;121;バッテキ;selection
+擾;pre_1;騒擾;7;;riot
+擾;pre_1;擾乱;1;ジョウラン;disturbance
+攪;pre_1;攪乱;21;;disturbance
+斐;pre_1;甲斐;292;カイ;effect
+斐;pre_1;甲斐;67;カイ;effect
+斡;pre_1;斡旋;56;アッセン;"kind offices"
+斧;pre_1;石斧;19;セキフ;"stone axe"
+斧;pre_1;手斧;6;テオノ;hatchet
+斯;pre_1;瓦斯;19;;
+斯;pre_1;斯界;5;シカイ;"this field or subject"
+旭;pre_1;旭日;283;;"rising sun"
+旭;pre_1;旭光;7;キョッコウ;"rays of the rising sun"
+昂;pre_1;昂揚;14;;enhancement
+昂;pre_1;昂奮;5;;excitement
+昌;pre_1;繁昌;170;;prosperity
+昌;pre_1;隆昌;16;リュウショウ;prosperity
+昏;pre_1;黄昏;239;タソガレ;dusk
+昏;pre_1;昏睡;111;コンスイ;coma
+晦;pre_1;晦日;21;ミソカ;"last day of the month"
+晦;pre_1;韜晦;16;トウカイ;hidden
+智;pre_1;叡智;221;;wisdom
+智;pre_1;大智;88;タイチ;"supreme wisdom"
+暢;pre_1;流暢;39;リュウチョウ;fluent
+暢;pre_1;暢気;10;ノンキ;carefree
+曙;pre_1;曙光;38;ショコウ;dawn
+曝;pre_1;被曝;104;ヒバク;"being exposed to radiation"
+曝;pre_1;曝露;11;;disclosure
+曳;pre_1;曳航;14;エイコウ;towing
+曳;pre_1;曳網;9;ヒキアミ;dragnet
+朋;pre_1;同朋;80;ドウホウ;companions
+朋;pre_1;朋友;70;ホウユウ;friend
+朔;pre_1;朔日;19;サクジツ;"first day of the month"
+朔;pre_1;八朔;19;;"Hassaku orange"
+李;pre_1;桃李;14;トウリ;"person of one's recommendation"
+李;pre_1;行李;11;コウリ;portmanteau
+杏;pre_1;銀杏;142;ギンナン;ginkgo
+杏;pre_1;杏子;113;;apricot
+杓;pre_1;杓子;30;シャクシ;"bamboo ladle"
+杓;pre_1;柄杓;15;;ladle
+杖;pre_1;錫杖;16;;"bishop's staff"
+杖;pre_1;頬杖;7;ホオヅエ;"resting one's chin in one's hands"
+杜;pre_1;杜若;125;;"rabbitear iris"
+杜;pre_1;杜氏;93;トウジ;"chief brewer at a sake brewery"
+杭;pre_1;橋杭;6;ハシグイ;"bridge pillar"
+杭;pre_1;乱杭;1;ラングイ;palisade
+杵;pre_1;杵柄;16;キネヅカ;"mallet handle"
+杷;pre_1;枇杷;43;;loquat
+枇;pre_1;枇杷;43;;loquat
+柏;pre_1;柏餅;17;カシワモチ;"rice cakes wrapped in oak leaves"
+柏;pre_1;松柏;14;ショウハク;"evergreen tree"
+柑;pre_1;蜜柑;18;;"mandarin orange"
+柑;pre_1;金柑;6;;kumquat
+柘;pre_1;柘植;35;;"Japanese box tree"
+柘;pre_1;柘榴;14;;pomegranate
+柚;pre_1;柚子;114;;yuzu
+柴;pre_1;柴犬;87;シバイヌ;Shiba
+柾;pre_1;柾目;12;マサメ;"straight grain"
+栗;pre_1;甘栗;38;アマグリ;"broiled sweet chestnuts"
+栗;pre_1;栗毛;30;クリゲ;chestnut
+栴;pre_1;栴檀;6;センダン;chinaberry
+桂;pre_1;桂冠;484;ケイカン;"crown of laurel"
+桂;pre_1;桂馬;46;ケイマ;knight
+桐;pre_1;青桐;26;;"Chinese parasol-tree"
+桐;pre_1;梧桐;10;;"Chinese parasol-tree"
+桔;pre_1;桔梗;118;;"Chinese bellflower"
+桶;pre_1;棺桶;41;カンオケ;coffin
+桶;pre_1;手桶;6;テオケ;pail
+梁;pre_1;橋梁;1006;キョウリョウ;bridge
+梁;pre_1;棟梁;145;トウリョウ;"chief support"
+梓;pre_1;上梓;59;ジョウシ;publication
+梓;pre_1;梓弓;4;;"catalpa bow"
+梢;pre_1;末梢;125;マッショウ;"tree top"
+梧;pre_1;梧桐;10;;"Chinese parasol-tree"
+梯;pre_1;梯子;32;ハシゴ;ladder
+梯;pre_1;階梯;10;カイテイ;stairs
+梱;pre_1;梱包;134;コンポウ;packing
+梶;pre_1;梶木;5;;marlin
+棉;pre_1;棉花;3;;"raw cotton"
+棲;pre_1;同棲;139;ドウセイ;cohabitation
+棲;pre_1;隠棲;23;インセイ;"secluded life"
+椋;pre_1;椋鳥;18;;"grey starling"
+椿;pre_1;椿油;36;ツバキアブラ;"camellia oil"
+椿;pre_1;寒椿;18;カンツバキ;"camellia-like plant native to China"
+楊;pre_1;楊枝;19;ヨウジ;toothpick
+楊;pre_1;楊子;17;;toothpick
+楚;pre_1;清楚;115;セイソ;"neat and clean"
+楚;pre_1;楚々;18;ソソ;graceful
+槌;pre_1;鉄槌;27;テッツイ;hammer
+槌;pre_1;相槌;16;アイヅチ;back-channeling
+槍;pre_1;竹槍;25;タケヤリ;"bamboo spear"
+槍;pre_1;槍術;23;ソウジュツ;spearmanship
+樋;pre_1;雨樋;8;;drainspout
+樟;pre_1;樟脳;15;ショウノウ;camphor
+樫;pre_1;赤樫;2;;"Japanese evergreen oak"
+樫;pre_1;白樫;2;シラカシ;"quercus myrsinifolia"
+樺;pre_1;白樺;682;シラカンバ;"Japanese white birch"
+樽;pre_1;酒樽;12;サカダル;"wine cask or barrel"
+樽;pre_1;角樽;1;ツノダル;"two-handled keg"
+檀;pre_1;檀家;188;ダンカ;"family which supports a temple"
+檀;pre_1;白檀;22;ビャクダン;sandalwood
+檎;pre_1;林檎;270;;apple
+檜;pre_1;檜扇;6;ヒオウギ;"formal folding fan made of hinoki cypress"
+檜;pre_1;檜木;5;;"hinoki cypress"
+櫛;pre_1;櫛形;66;クシガタ;comb-shaped
+櫛;pre_1;櫛比;2;シッピ;"lining up"
+欣;pre_1;欣求;3;ゴング;"earnest aspiration"
+欣;pre_1;欣快;1;キンカイ;pleasant
+欽;pre_1;欽定;9;キンテイ;authorized
+歎;pre_1;歎願;4;;entreaty
+歎;pre_1;感歎;1;;admiration
+歪;pre_1;歪曲;95;ワイキョク;distortion
+殆;pre_1;危殆;3;キタイ;danger
+毅;pre_1;毅然;785;キゼン;fortitude
+毅;pre_1;剛毅;27;ゴウキ;fortitude
+毘;pre_1;荼毘;35;;cremation
+汀;pre_1;汀線;1;テイセン;shoreline
+汐;pre_1;潮汐;31;チョウセキ;tide
+汐;pre_1;血汐;2;;"blood spilt from the body"
+汲;pre_1;汲々;34;キュウキュウ;diligent
+汲;pre_1;汲汲;2;キュウキュウ;diligent
+沌;pre_1;混沌;244;コントン;confusion
+沌;pre_1;渾沌;4;コントン;confusion
+沓;pre_1;沓脱;4;;"place where one can remove one's shoes before entering a house"
+沓;pre_1;雑沓;1;;congestion
+沫;pre_1;飛沫;124;ヒマツ;splash
+沫;pre_1;泡沫;32;;"bubble on surface of liquid"
+洛;pre_1;上洛;74;ジョウラク;"proceeding to the capital"
+洛;pre_1;洛中;68;ラクチュウ;"inside the capital"
+洩;pre_1;漏洩;104;ロウエイ;disclosure
+洲;pre_1;白洲;162;;"bar of white sand"
+洲;pre_1;中洲;105;ナカス;sandbank
+浩;pre_1;浩瀚;9;コウカン;bulky
+浩;pre_1;浩然;6;コウゼン;broadminded
+涜;pre_1;冒涜;64;ボウトク;blasphemy
+涜;pre_1;涜神;5;;blasphemy
+淋;pre_1;淋病;8;;"gonorrheal infection"
+淋;pre_1;味淋;1;;mirin
+淘;pre_1;淘汰;620;トウタ;"weeding out"
+淳;pre_1;淳良;3;ジュンリョウ;"simple and kind"
+淵;pre_1;深淵;88;シンエン;abyss
+淵;pre_1;淵源;30;;origin
+渠;pre_1;暗渠;27;アンキョ;"subterranean drain"
+渠;pre_1;船渠;11;センキョ;dock
+溌;pre_1;溌剌;32;ハツラツ;lively
+溌;pre_1;活溌;1;;vigor
+溜;pre_1;溜池;71;;reservoir
+溜;pre_1;蒸溜;30;;distillation
+溢;pre_1;横溢;27;オウイツ;overflowing
+溢;pre_1;溢水;8;イッスイ;inundation
+漑;pre_1;潅漑;2;カンガイ;irrigation
+漕;pre_1;漕艇;40;ソウテイ;rowing
+漕;pre_1;競漕;13;キョウソウ;regatta
+澱;pre_1;澱粉;18;デンプン;starch
+澱;pre_1;沈澱;3;;precipitation
+濠;pre_1;外濠;29;;"outer moat"
+濡;pre_1;濡衣;17;;"false accusations"
+濡;pre_1;濡事;1;;"love affair"
+瀕;pre_1;瀕死;94;ヒンシ;dying
+灌;pre_1;灌腸;1;;enema
+灸;pre_1;鍼灸;169;シンキュウ;"acupuncture and moxibustion"
+灸;pre_1;温灸;4;オンキュウ;"moxa cautery"
+灼;pre_1;灼熱;62;シャクネツ;"red hot"
+灼;pre_1;焼灼;9;ショウシャク;cautery
+烏;pre_1;明烏;29;アケガラス;"daybreak sound of a crow"
+烏;pre_1;烏賊;11;;cuttlefish
+烹;pre_1;割烹;99;カッポウ;cooking
+焔;pre_1;火焔;124;;flame
+焚;pre_1;焚火;18;;"open-air fire"
+焚;pre_1;焚書;16;フンショ;"book burning"
+煉;pre_1;煉瓦;92;レンガ;brick
+煉;pre_1;煉獄;17;;purgatory
+煤;pre_1;煤煙;10;バイエン;"dirty smoke"
+煤;pre_1;煤塵;6;バイジン;"dust and soot"
+煽;pre_1;煽動;16;;incitement
+煽;pre_1;煽情;3;;suggestiveness
+燈;pre_1;燈台;8;;lighthouse
+燐;pre_1;燐光;78;リンコウ;phosphorescence
+燐;pre_1;黄燐;2;オウリン;phosphorus
+燕;pre_1;海燕;28;;"storm petrel"
+燕;pre_1;飛燕;17;ヒエン;"swallow in flight"
+燦;pre_1;燦燦;31;サンサン;brilliant
+燦;pre_1;燦然;30;サンゼン;brilliant
+燭;pre_1;蝋燭;21;ロウソク;candle
+燭;pre_1;燭台;20;ショクダイ;candlestick
+爺;pre_1;老爺;10;ロウヤ;"one's father"
+爺;pre_1;親爺;9;;"one's father"
+爾;pre_1;莞爾;6;カンジ;smiling
+爾;pre_1;爾後;4;;thereafter
+牌;pre_1;賞牌;207;ショウハイ;medal
+牌;pre_1;位牌;107;イハイ;"Buddhist mortuary tablet"
+牒;pre_1;通牒;41;ツウチョウ;notice
+牒;pre_1;符牒;2;;mark
+牝;pre_1;牝馬;2695;ヒンバ;mare
+牡;pre_1;牡馬;1627;ボバ;"male horse"
+牡;pre_1;牡丹;365;ボタン;"tree peony"
+牢;pre_1;牢獄;69;ロウゴク;prison
+牢;pre_1;牢屋;37;ロウヤ;jail
+牽;pre_1;牽引;127;ケンイン;hauling
+牽;pre_1;牽制;49;ケンセイ;check
+犀;pre_1;木犀;15;モクセイ;"fragrant olive"
+犀;pre_1;犀利;5;サイリ;sharp
+狐;pre_1;狐狸;49;コリ;"foxes and tanuki"
+狐;pre_1;狐火;29;キツネビ;"St. Elmo's fire"
+狗;pre_1;天狗;413;テング;"long-nosed goblin"
+狗;pre_1;走狗;11;ソウク;hound
+狛;pre_1;狛犬;51;コマイヌ;"guardian lion-dogs at Shinto shrine"
+狸;pre_1;狐狸;49;コリ;"foxes and tanuki"
+狸;pre_1;古狸;2;フルダヌキ;"old badger"
+狼;pre_1;狼狽;45;;confusion
+狼;pre_1;狼藉;19;ロウゼキ;violence
+狽;pre_1;狼狽;45;;confusion
+猪;pre_1;猪口;105;チョコ;"small cup"
+猪;pre_1;猪突;36;チョトツ;recklessness
+獅;pre_1;獅子;461;シシ;lion
+玲;pre_1;玲瓏;35;レイロウ;clear
+珊;pre_1;珊瑚;33;サンゴ;coral
+珪;pre_1;珪藻;12;;diatom
+珪;pre_1;珪酸;6;ケイサン;"silicic acid"
+琢;pre_1;琢磨;75;タクマ;polish
+琢;pre_1;彫琢;26;チョウタク;"carving and polishing"
+琵;pre_1;琵琶;366;ビワ;biwa
+琶;pre_1;琵琶;366;ビワ;biwa
+瑚;pre_1;珊瑚;33;サンゴ;coral
+瑞;pre_1;瑞雲;46;ズイウン;"auspicious clouds"
+瑞;pre_1;奇瑞;31;キズイ;omen
+瓜;pre_1;西瓜;65;;watermelon
+瓜;pre_1;冬瓜;51;トウガン;"wax gourd"
+瓢;pre_1;瓢箪;70;;gourd
+瓢;pre_1;乾瓢;1;;"strips of dried gourd"
+甜;pre_1;甜菜;1;;"sugar beet"
+畢;pre_1;畢生;10;;lifetime
+畦;pre_1;畦道;10;アゼミチ;"footpath between rice fields"
+疋;pre_1;一疋;2;イッピキ;"one animal"
+疏;pre_1;疏水;23;;canal
+疏;pre_1;疏通;1;;understanding
+疹;pre_1;発疹;118;ハッシン;rash
+疹;pre_1;麻疹;98;ハシカ;measles
+痔;pre_1;痔核;25;ジカク;hemorrhoid
+痔;pre_1;痔疾;3;ジシツ;hemorrhoids
+癌;pre_1;肺癌;39;ハイガン;"lung cancer"
+癌;pre_1;胃癌;26;イガン;"stomach cancer"
+皐;pre_1;皐月;943;;"fifth month of the lunar calendar"
+盃;pre_1;酒盃;13;;"sake cup"
+盃;pre_1;金盃;1;;"gold cup"
+瞥;pre_1;一瞥;30;イチベツ;glance
+瞥;pre_1;瞥見;2;ベッケン;glance
+矩;pre_1;矩形;85;クケイ;rectangle
+矩;pre_1;規矩;44;キク;rule
+砥;pre_1;荒砥;37;;"rough grindstone"
+砥;pre_1;砥石;28;トイシ;whetstone
+砦;pre_1;城砦;57;;fortress
+砦;pre_1;山砦;9;;"mountain stronghold"
+硯;pre_1;硯箱;10;スズリバコ;"inkstone case"
+碍;pre_1;障碍;34;;obstacle
+碍;pre_1;碍子;9;ガイシ;insulator
+碧;pre_1;紺碧;42;コンペキ;"deep blue"
+碧;pre_1;碧雲;12;ヘキウン;"bluish cloud"
+碩;pre_1;碩学;55;セキガク;"great scholar"
+磐;pre_1;磐石;11;バンジャク;"huge rock"
+磯;pre_1;磯辺;91;イソベ;seashore
+磯;pre_1;荒磯;29;アライソ;"reefy coast"
+礦;pre_1;炭礦;60;;"coal mine"
+祇;pre_1;神祇;6;ジンギ;"gods of heaven and earth"
+祇;pre_1;地祇;4;チギ;"gods of the land"
+祐;pre_1;祐筆;6;ユウヒツ;"private secretary"
+祷;pre_1;祈祷;61;キトウ;prayer
+祷;pre_1;黙祷;13;モクトウ;"silent prayer"
+禄;pre_1;貫禄;828;カンロク;presence
+禄;pre_1;元禄;327;ゲンロク;"Genroku era"
+禰;pre_1;禰宜;38;;"senior priest"
+禰;pre_1;宿禰;13;スクネ;Lord
+禽;pre_1;家禽;114;カキン;poultry
+禽;pre_1;猛禽;40;モウキン;"bird of prey"
+禿;pre_1;禿鷹;18;;vulture
+禿;pre_1;禿頭;16;;"bald head"
+秤;pre_1;天秤;68;テンビン;scales
+秤;pre_1;秤量;1;ヒョウリョウ;"measuring weight"
+稀;pre_1;稀有;230;;rare
+稀;pre_1;稀世;185;;rare
+稗;pre_1;稗史;6;ハイシ;"people's history"
+稜;pre_1;稜線;103;リョウセン;ridgeline
+稜;pre_1;山稜;14;サンリョウ;"mountain ridge"
+穣;pre_1;豊穣;75;ホウジョウ;"good harvest"
+穣;pre_1;豊穣;24;ホウジョウ;"good harvest"
+穿;pre_1;穿孔;17;センコウ;perforation
+穿;pre_1;穿刺;9;センシ;paracentesis
+窄;pre_1;狭窄;75;キョウサク;stricture
+窪;pre_1;笑窪;3;;dimple
+窪;pre_1;窪地;2;クボチ;pit
+窺;pre_1;窺知;1;キチ;perception
+竣;pre_1;竣工;83;;"completion of construction"
+竺;pre_1;天竺;41;テンジク;India
+竿;pre_1;竹竿;14;;"bamboo pole"
+竿;pre_1;旗竿;6;ハタザオ;flagstaff
+笠;pre_1;笠木;251;カサギ;coping
+笠;pre_1;花笠;40;ハナガサ;"type of conical hat adorned with flowers"
+笥;pre_1;箪笥;41;;"chest of drawers"
+笥;pre_1;碁笥;24;ゴケ;"go-stone container"
+笹;pre_1;笹原;15;ササハラ;"field of bamboo grass"
+笹;pre_1;熊笹;7;;"kuma bamboo grass"
+箔;pre_1;金箔;202;キンパク;"gold leaf"
+箔;pre_1;銀箔;24;ギンパク;"silver foil or leaf"
+箪;pre_1;瓢箪;70;;gourd
+箪;pre_1;箪笥;41;;"chest of drawers"
+箭;pre_1;弓箭;3;キュウセン;"bows and arrows"
+箭;pre_1;火箭;1;;"fire arrow"
+篇;pre_1;短篇;270;;short
+篇;pre_1;長篇;120;;long
+篠;pre_1;篠竹;52;シノダケ;"bamboo grass"
+篠;pre_1;篠笛;22;シノブエ;"Japanese transverse bamboo flute"
+簾;pre_1;暖簾;34;ノレン;"sign curtain hung at shop entrance"
+簾;pre_1;御簾;17;;"bamboo blind"
+籾;pre_1;籾殻;4;モミガラ;"rice husks"
+籾;pre_1;種籾;1;;"seed rice"
+粕;pre_1;酒粕;41;サケカス;"sake lees"
+粕;pre_1;粕汁;6;カスジル;"soup made with sake lees"
+粟;pre_1;粟粒;7;ゾクリュウ;"millet grain"
+粥;pre_1;芋粥;30;イモガユ;"rice gruel with diced sweet potatoes"
+粥;pre_1;白粥;3;シラカユ;"unflavored rice porridge"
+糊;pre_1;糊塗;30;コト;"covering up"
+糊;pre_1;模糊;16;モコ;dim
+糞;pre_1;糞尿;30;フンニョウ;"feces and urine"
+糞;pre_1;鶏糞;9;ケイフン;"poultry manure"
+糟;pre_1;糟糠;9;ソウコウ;"chaff and bran"
+糟;pre_1;酒糟;4;;"sake lees"
+糠;pre_1;糟糠;9;ソウコウ;"chaff and bran"
+糠;pre_1;糠袋;3;ヌカブクロ;"rice-bran bag"
+紐;pre_1;紐帯;26;;"important connection"
+紐;pre_1;組紐;1;;braid
+紗;pre_1;更紗;59;サラサ;"cotton print"
+紗;pre_1;袱紗;12;フクサ;"small silk wrapper"
+紘;pre_1;八紘;113;;"the eight directions"
+紬;pre_1;紬糸;1;ツムギイト;"silk thread"
+絃;pre_1;三絃;24;;"three-stringed instrument"
+絃;pre_1;絃歌;1;;music
+絢;pre_1;絢爛;138;ケンラン;gorgeous
+綜;pre_1;綜合;358;;synthesis
+綜;pre_1;錯綜;214;サクソウ;complication
+綴;pre_1;補綴;146;ホテツ;replenishment
+綴;pre_1;綴方;5;;"literary composition"
+綾;pre_1;綾織;9;;twill
+綾;pre_1;綾羅;2;リョウラ;"elaborated cloth"
+緋;pre_1;緋色;38;ヒイロ;"brilliant red"
+緋;pre_1;緋鯉;1;ヒゴイ;"red carp"
+緬;pre_1;縮緬;17;;crepe
+緬;pre_1;緬羊;2;;sheep
+縞;pre_1;横縞;3;ヨコジマ;"horizontal stripes"
+縞;pre_1;縦縞;3;タテジマ;"vertical stripes"
+繋;pre_1;繋駕;2;ケイガ;harnessing
+繋;pre_1;繋辞;1;ケイジ;copula
+繍;pre_1;刺繍;128;シシュウ;embroidery
+繍;pre_1;錦繍;40;キンシュウ;"fabric with a brocade and embroidery"
+纂;pre_1;編纂;154;ヘンサン;compilation
+纂;pre_1;雑纂;6;ザッサン;"miscellaneous collection"
+纏;pre_1;纏足;21;テンソク;foot-binding
+纏;pre_1;半纏;8;ハンテン;"traditional short winter coat resembling a haori without gussets"
+罫;pre_1;罫線;24;ケイセン;"ruled line"
+罫;pre_1;罫紙;4;ケイシ;paper
+翠;pre_1;翡翠;190;ヒスイ;kingfisher
+翠;pre_1;翠玉;15;スイギョク;emerald
+翫;pre_1;賞翫;1;ショウガン;appreciation
+翰;pre_1;翰林;27;カンリン;"literary circles"
+翰;pre_1;翰墨;9;カンボク;"brush and ink"
+耀;pre_1;栄耀;7;エイヨウ;luxury
+耀;pre_1;光耀;7;コウヨウ;shining
+而;pre_1;而立;7;ジリツ;"age 30"
+耶;pre_1;耶蘇;3;ヤソ;Jesus
+耽;pre_1;耽美;62;;aesthetics
+耽;pre_1;耽溺;28;タンデキ;indulgence
+聡;pre_1;聡明;122;ソウメイ;wisdom
+聯;pre_1;聯合;1766;;union
+聯;pre_1;聯想;89;;association
+聾;pre_1;聾唖;25;ロウア;deafness
+聾;pre_1;聾者;5;ロウシャ;"deaf person"
+肋;pre_1;肋骨;203;ロッコツ;rib
+肋;pre_1;肋間;9;ロッカン;intercostal
+肱;pre_1;股肱;5;ココウ;"one's right-hand man"
+肴;pre_1;酒肴;16;;"food and drink"
+胡;pre_1;胡同;93;フートン;hutong
+胡;pre_1;胡蝶;80;コチョウ;butterfly
+胤;pre_1;落胤;20;ラクイン;"nobleman's illegitimate child"
+胤;pre_1;後胤;1;コウイン;descendant
+脆;pre_1;脆弱;442;ゼイジャク;frail
+腔;pre_1;口腔;409;コウクウ;"the oral cavity"
+腔;pre_1;腹腔;235;フクコウ;"abdominal cavity"
+腿;pre_1;大腿;223;ダイタイ;thigh
+腿;pre_1;下腿;14;カタイ;"lower leg"
+膏;pre_1;軟膏;41;ナンコウ;ointment
+膏;pre_1;石膏;36;セッコウ;plaster
+膿;pre_1;化膿;47;カノウ;suppuration
+膿;pre_1;膿疱;11;ノウホウ;pustule
+臥;pre_1;臥竜;37;ガリョウ;"unrecognized genius"
+臥;pre_1;仰臥;16;ギョウガ;"lie on one's back"
+舵;pre_1;操舵;266;ソウダ;steering
+舵;pre_1;面舵;5;オモカジ;starboard
+芙;pre_1;芙蓉;239;;"cotton rose"
+芥;pre_1;芥子;14;;mustard
+芥;pre_1;塵芥;9;ジンカイ;rubbish
+芭;pre_1;芭蕉;690;バショウ;"Japanese fiber banana"
+苑;pre_1;御苑;510;ギョエン;"imperial garden"
+苑;pre_1;外苑;503;ガイエン;"outer garden"
+苔;pre_1;海苔;239;ノリ;nori
+苔;pre_1;舌苔;34;ゼッタイ;fur
+苧;pre_1;苧麻;15;;ramie
+苧;pre_1;苧環;6;;"fan columbine"
+茄;pre_1;茄子;117;;eggplant
+茅;pre_1;浅茅;9;アサジ;"sparsely growing cogon grass"
+茅;pre_1;白茅;4;;"cogon grass"
+茜;pre_1;茜色;10;アカネイロ;"madder red"
+茸;pre_1;松茸;114;マツタケ;"matsutake mushroom"
+茸;pre_1;椎茸;24;シイタケ;"shiitake mushroom"
+荊;pre_1;荊冠;1;ケイカン;"crown of thorns"
+荊;pre_1;荊棘;1;;"wild rose"
+莞;pre_1;莞爾;6;カンジ;smiling
+莫;pre_1;莫大;206;バクダイ;enormous
+莫;pre_1;索莫;2;サクバク;dreary
+莱;pre_1;蓬莱;227;ホウライ;"Mount Penglai"
+菅;pre_1;菅笠;22;スゲガサ;hat
+菅;pre_1;夕菅;1;ユウスゲ;"daily lily"
+菖;pre_1;菖蒲;97;;"sweet flag"
+菟;pre_1;木菟;6;;"horned owl"
+菩;pre_1;菩薩;342;ボサツ;bodhisattva
+菩;pre_1;菩提;89;ボダイ;bodhi
+菱;pre_1;菱形;6;ヒシガタ;"diamond shape"
+菱;pre_1;菱餅;1;ヒシモチ;"rhombus-shaped mochi"
+萄;pre_1;葡萄;100;;grape
+萌;pre_1;萌芽;121;ホウガ;germination
+萌;pre_1;萌黄;16;モエギ;"light yellowish green"
+萩;pre_1;溝萩;1;ミソハギ;"Lythrum anceps"
+萱;pre_1;萱草;7;カンゾウ;hemerocallis
+葡;pre_1;葡萄;100;;grape
+董;pre_1;骨董;275;コットウ;antique
+葦;pre_1;葦原;13;アシハラ;"reed bed"
+葦;pre_1;葦笛;1;アシブエ;"reed pipe"
+葱;pre_1;浅葱;22;アサギ;chive
+葱;pre_1;玉葱;10;;onion
+葵;pre_1;葵祭;41;;"hollyhock festival"
+葵;pre_1;山葵;13;;wasabi
+葺;pre_1;瓦葺;17;;tile-roofing
+葺;pre_1;草葺;2;;thatching
+蒐;pre_1;蒐集;38;;"gathering up"
+蒔;pre_1;蒔絵;181;マキエ;"gold or silver lacquer"
+蒔;pre_1;種蒔;7;;"sowing seeds"
+蒙;pre_1;啓蒙;230;ケイモウ;enlightenment
+蒙;pre_1;蒙昧;5;モウマイ;ignorance
+蒜;pre_1;野蒜;5;ノビル;"wild rocambole"
+蒜;pre_1;大蒜;1;;garlic
+蒲;pre_1;菖蒲;97;;"sweet flag"
+蒲;pre_1;蒲鉾;29;;kamaboko
+蒼;pre_1;蒼穹;62;ソウキュウ;"blue sky"
+蒼;pre_1;蒼然;35;ソウゼン;blue
+蓉;pre_1;芙蓉;239;;"cotton rose"
+蓑;pre_1;蓑笠;23;ミノカサ;"sedge hat and straw rain cape"
+蓑;pre_1;蓑虫;10;;bagworm
+蓬;pre_1;蓬莱;227;ホウライ;"Mount Penglai"
+蓬;pre_1;蓬生;32;ヨモギフ;wasteland
+蓮;pre_1;睡蓮;91;スイレン;"water lily"
+蓮;pre_1;蓮華;69;レンゲ;"lotus flower"
+蔓;pre_1;蔓延;130;マンエン;spread
+蔓;pre_1;金蔓;4;カネヅル;"source of revenue"
+蔭;pre_1;日蔭;70;;shade
+蔭;pre_1;御蔭;3;;grace
+蕃;pre_1;蕃人;1;バンジン;savage
+蕃;pre_1;蕃椒;1;バンショウ;capsicum
+蕉;pre_1;芭蕉;690;バショウ;"Japanese fiber banana"
+蕊;pre_1;雌蕊;2;;pistil
+蕊;pre_1;雄蕊;2;;stamen
+蕎;pre_1;蕎麦;161;;buckwheat
+蕗;pre_1;石蕗;13;ツワブキ;"Japanese silverleaf"
+蕗;pre_1;菜蕗;4;;"giant butterbur"
+蕨;pre_1;早蕨;3;サワラビ;"freshly budded bracken"
+蕩;pre_1;放蕩;73;ホウトウ;dissipation
+蕩;pre_1;駘蕩;17;タイトウ;"peaceful and calm"
+蕪;pre_1;蕪雑;1;ブザツ;unpolished
+薩;pre_1;菩薩;342;ボサツ;bodhisattva
+薩;pre_1;薩長;131;サッチョウ;"Satsuma and Choshu"
+薯;pre_1;薯蕷;1;;"grated yam"
+藁;pre_1;麦藁;14;;"wheat straw"
+藁;pre_1;藁苞;4;ワラヅト;"straw wrapper"
+藷;pre_1;甘藷;18;カンショ;"sweet potato"
+蘇;pre_1;蘇生;411;ソセイ;rebirth
+蘇;pre_1;屠蘇;12;トソ;"spiced sake"
+蘭;pre_1;蘭学;71;ランガク;"Dutch studies"
+蘭;pre_1;鈴蘭;66;;"lily of the valley"
+蛋;pre_1;蛋白;17;タンパク;"egg white"
+蛙;pre_1;青蛙;16;;frog
+蛙;pre_1;牛蛙;6;;"American bullfrog"
+蛛;pre_1;蜘蛛;136;;spider
+蛸;pre_1;飯蛸;1;;"ocellated octopus"
+蜘;pre_1;蜘蛛;136;;spider
+蝉;pre_1;空蝉;32;;"man of this world"
+蝉;pre_1;油蝉;4;;"large brown cicada"
+蝋;pre_1;蝋燭;21;ロウソク;candle
+蝋;pre_1;蝋梅;9;ロウバイ;wintersweet
+蝕;pre_1;腐蝕;44;;corrosion
+蝕;pre_1;日蝕;24;;"solar eclipse"
+蝦;pre_1;蝦夷;204;エゾ;"historical term for non-Yamato peoples in northern Japan"
+蝦;pre_1;蝦蟇;5;ガマ;toad
+蝶;pre_1;蝶々;187;;butterfly
+蝶;pre_1;胡蝶;80;コチョウ;butterfly
+螺;pre_1;螺鈿;50;ラデン;mother-of-pearl
+螺;pre_1;螺旋;41;;spiral
+蟹;pre_1;蟹股;3;;bowlegged
+蟹;pre_1;沢蟹;2;サワガニ;"Japanese freshwater crab"
+蟻;pre_1;蟻塚;14;アリヅカ;anthill
+蟻;pre_1;白蟻;2;;termite
+蠅;pre_1;青蠅;1;;"greenbottle fly"
+蠣;pre_1;牡蠣;152;カキ;oyster
+袈;pre_1;袈裟;87;ケサ;kasaya
+袴;pre_1;藤袴;8;フジバカマ;thoroughwort
+袴;pre_1;袴着;4;ハカマギ;"ceremony fitting child with a hakama"
+裟;pre_1;袈裟;87;ケサ;kasaya
+裡;pre_1;脳裡;4;;"one's mind"
+裡;pre_1;庫裡;3;;"temple kitchen"
+裳;pre_1;衣裳;84;;clothing
+裳;pre_1;裳裾;6;モスソ;cuff
+襖;pre_1;素襖;13;スオウ;suou
+訊;pre_1;訊問;6;;cross-examination
+訣;pre_1;秘訣;425;ヒケツ;secret
+訣;pre_1;訣別;15;;separation
+註;pre_1;註釈;7;;notes
+註;pre_1;註解;4;;gloss
+誹;pre_1;誹謗;209;ヒボウ;slander
+誹;pre_1;誹諧;2;;haikai
+誼;pre_1;友誼;46;ユウギ;friendship
+誼;pre_1;交誼;3;コウギ;friendship
+諒;pre_1;諒解;3;;comprehension
+諒;pre_1;諒察;1;;consideration
+諜;pre_1;諜報;484;チョウホウ;"secret information"
+諜;pre_1;防諜;19;ボウチョウ;counterintelligence
+諺;pre_1;俗諺;3;ゾクゲン;proverb
+諺;pre_1;俚諺;3;リゲン;proverb
+謬;pre_1;誤謬;31;ゴビュウ;fallacy
+謬;pre_1;謬見;3;ビュウケン;fallacy
+讚;pre_1;讚歌;4;;"song of praise"
+讚;pre_1;賞讚;1;;praise
+豹;pre_1;豹変;80;;"sudden change"
+豹;pre_1;海豹;4;カイヒョウ;"true seal"
+贋;pre_1;贋作;92;ガンサク;fake
+贋;pre_1;真贋;66;シンガン;"genuineness or spuriousness"
+赫;pre_1;赫々;3;カクカク;brilliant
+趨;pre_1;趨勢;62;スウセイ;tendency
+趨;pre_1;帰趨;52;キスウ;tendency
+蹄;pre_1;蹄鉄;39;テイテツ;horseshoe
+蹄;pre_1;馬蹄;13;;"horse's hooves"
+蹟;pre_1;奇蹟;79;;miracle
+蹟;pre_1;聖蹟;79;;"holy site"
+躯;pre_1;体躯;20;;"the body"
+躯;pre_1;巨躯;7;キョク;"big frame"
+輔;pre_1;輔弼;2;ホヒツ;"giving the Emperor advice on affairs of state"
+輔;pre_1;輔佐;1;;aid
+輯;pre_1;編輯;4;;editing
+輯;pre_1;特輯;1;;feature
+輿;pre_1;神輿;235;;"portable shrine"
+輿;pre_1;御輿;53;ミコシ;"portable shrine"
+轍;pre_1;前轍;1;ゼンテツ;"wheel tracks left by vehicles that have passed before"
+轟;pre_1;轟音;57;ゴウオン;"thunderous roar"
+轟;pre_1;轟沈;6;ゴウチン;"sinking a ship instantly"
+轡;pre_1;轡虫;1;クツワムシ;"Mecopoda nipponensis"
+辰;pre_1;辰巳;493;タツミ;southeast
+辰;pre_1;佳辰;3;;"lucky day"
+辻;pre_1;辻堂;37;ツジドウ;"wayside shrine"
+辻;pre_1;辻褄;14;ツジツマ;coherence
+迂;pre_1;迂回;859;ウカイ;detour
+迂;pre_1;迂遠;32;ウエン;roundabout
+迦;pre_1;釈迦;203;シャカ;
+迦;pre_1;莫迦;2;;fool
+逗;pre_1;逗留;20;トウリュウ;staying
+逢;pre_1;逢瀬;44;オウセ;rendezvous
+逢;pre_1;逢着;4;ホウチャク;encounter
+逼;pre_1;逼迫;266;ヒッパク;stringency
+逼;pre_1;逼塞;9;ヒッソク;"being blocked"
+遁;pre_1;隠遁;43;;retirement
+遁;pre_1;遁走;15;トンソウ;fleeing
+遥;pre_1;逍遥;70;ショウヨウ;ramble
+遥;pre_1;遥拝;10;ヨウハイ;"worshipping from afar"
+遼;pre_1;遼遠;2;リョウエン;remote
+郁;pre_1;郁子;146;ムベ;"Japanese staunton-vine"
+郁;pre_1;馥郁;9;フクイク;fragrant
+鄭;pre_1;鄭重;1;;polite
+酋;pre_1;酋長;26;シュウチョウ;chieftain
+醇;pre_1;芳醇;42;ホウジュン;mellow
+醇;pre_1;芳醇;24;ホウジュン;mellow
+醍;pre_1;醍醐;186;ダイゴ;ghee
+醐;pre_1;醍醐;186;ダイゴ;ghee
+醗;pre_1;醗酵;5;;fermentation
+釘;pre_1;装釘;23;;binding
+釘;pre_1;釘隠;3;;"nail hider"
+鈷;pre_1;独鈷;12;トッコ;"single-pronged vajra"
+鉤;pre_1;手鉤;2;;"short gaff"
+鉦;pre_1;鉦鼓;1;ショウコ;"small gong"
+鉾;pre_1;山鉾;46;ヤマボコ;"festival float mounted with a decorative halberd"
+鉾;pre_1;蒲鉾;29;;kamaboko
+銚;pre_1;銚子;331;チョウシ;decanter
+鋒;pre_1;先鋒;157;センポウ;"advance guard"
+鋒;pre_1;舌鋒;77;ゼッポウ;eloquence
+鋪;pre_1;鋪道;2;;pavement
+鋲;pre_1;画鋲;5;ガビョウ;"drawing pin"
+鋸;pre_1;大鋸;43;オガ;"large saw"
+鋸;pre_1;鋸歯;4;キョシ;"teeth of a saw"
+錆;pre_1;赤錆;5;アカサビ;rust
+錐;pre_1;円錐;27;エンスイ;cone
+錐;pre_1;角錐;10;カクスイ;pyramid
+錨;pre_1;投錨;6;トウビョウ;"dropping anchor"
+錫;pre_1;錫杖;16;;"bishop's staff"
+鍍;pre_1;鍍金;13;トキン;gilt
+鍔;pre_1;金鍔;2;キンツバ;"confection of sweetened beans wrapped in wheat-flour dough"
+鍬;pre_1;鍬形;11;;"hoe-shaped helmet crest"
+鍾;pre_1;鍾馗;22;ショウキ;"Shoki the Plague-Queller"
+鎧;pre_1;鎧戸;1;ヨロイド;"slatted shutter"
+鏑;pre_1;鏑矢;25;カブラヤ;"arrow to which is attached a turnip-shaped whistle made of hollowed-out wood or deer horn"
+鐸;pre_1;銅鐸;162;ドウタク;"bell-shaped bronze vessel of Yayoi period"
+鐸;pre_1;木鐸;35;ボクタク;"bell with wooden clapper"
+閃;pre_1;閃光;128;センコウ;flash
+閃;pre_1;一閃;32;;flash
+閏;pre_1;閏年;7;ウルウドシ;"leap year"
+閏;pre_1;正閏;5;セイジュン;"normal and leap"
+閤;pre_1;太閤;202;タイコウ;taiko
+阿;pre_1;阿呆;43;アホ;fool
+阿;pre_1;阿片;29;;opium
+陀;pre_1;仏陀;57;ブッダ;Buddha
+隈;pre_1;界隈;155;カイワイ;neighborhood
+隈;pre_1;隈隈;1;;nooks
+雀;pre_1;孔雀;169;;peafowl
+雀;pre_1;麻雀;135;;mahjong
+雁;pre_1;雁木;32;ガンギ;"stepped pier"
+雁;pre_1;雁行;22;ガンコウ;"the flight formation of geese"
+雛;pre_1;雛鳥;14;;chick
+雛;pre_1;雛形;10;ヒナガタ;model
+霞;pre_1;朝霞;307;アサガスミ;"morning glow"
+霞;pre_1;春霞;20;ハルガスミ;"springtime haze"
+靭;pre_1;強靭;8;キョウジン;tough
+靭;pre_1;靭帯;5;;ligament
+鞍;pre_1;鞍馬;144;;"pommel horse"
+鞍;pre_1;鞍部;3;アンブ;col
+鞘;pre_1;海鞘;3;;"sea squirt"
+鞠;pre_1;蹴鞠;34;ケマリ;kemari
+鞠;pre_1;手鞠;27;;"traditional Japanese handball game"
+鞭;pre_1;教鞭;51;キョウベン;"teacher's cane"
+鞭;pre_1;先鞭;41;センベン;initiative
+頁;pre_1;頁岩;17;ケツガン;shale
+頗;pre_1;偏頗;2;ヘンパ;favoritism
+頗;pre_1;偏頗;1;ヘンパ;favoritism
+顛;pre_1;顛末;79;テンマツ;circumstance
+顛;pre_1;顛覆;2;;capsizing
+飴;pre_1;水飴;14;ミズアメ;"starch syrup"
+飴;pre_1;飴色;2;アメイロ;amber
+餐;pre_1;晩餐;132;バンサン;dinner
+餐;pre_1;午餐;14;ゴサン;lunch
+饗;pre_1;饗宴;71;;feast
+饗;pre_1;饗応;13;;entertainment
+馨;pre_1;素馨;1;ソケイ;"Spanish jasmine"
+馳;pre_1;馳走;14;チソウ;treat
+馳;pre_1;背馳;6;ハイチ;inconsistency
+馴;pre_1;馴染;17;;intimacy
+馴;pre_1;馴鹿;11;;
+駁;pre_1;反駁;15;ハンバク;refutation
+駁;pre_1;雑駁;8;ザッパク;confusion
+駕;pre_1;凌駕;90;リョウガ;excelling
+駕;pre_1;繋駕;2;ケイガ;harnessing
+駿;pre_1;駿馬;18;シュンメ;"swift horse"
+駿;pre_1;駿足;1;シュンソク;"fast runner"
+髭;pre_1;口髭;11;;moustache
+髭;pre_1;髭面;9;ヒゲヅラ;"bearded face"
+魁;pre_1;花魁;102;オイラン;courtesan
+魁;pre_1;首魁;9;シュカイ;forerunner
+鮎;pre_1;若鮎;24;ワカアユ;sweetfish
+鮎;pre_1;落鮎;3;;"sweetfish going downstream to spawn"
+鮪;pre_1;葱鮪;3;;"dishes based on spring onions and tuna"
+鮪;pre_1;黒鮪;1;;"Pacific bluefin tuna"
+鮫;pre_1;鮫肌;78;サメハダ;"rough skin"
+鮭;pre_1;紅鮭;9;ベニザケ;"sockeye salmon"
+鮭;pre_1;塩鮭;8;シオザケ;"salted salmon"
+鯉;pre_1;錦鯉;39;ニシキゴイ;"coloured carp"
+鯉;pre_1;鯉口;4;コイグチ;sheath
+鯛;pre_1;真鯛;15;マダイ;tai
+鯛;pre_1;甘鯛;6;;tilefish
+鰭;pre_1;背鰭;2;;"dorsal fin"
+鰭;pre_1;尾鰭;2;;"caudal fin"
+鰯;pre_1;鰯雲;8;イワシグモ;cirro-cumulus
+鰯;pre_1;干鰯;1;;"dried sardine"
+鰹;pre_1;初鰹;43;;"the first bonito of the season"
+鰹;pre_1;鰹節;30;カツブシ;katsuobushi
+鰻;pre_1;養鰻;28;ヨウマン;"eel farming"
+鱈;pre_1;干鱈;2;ヒダラ;"dried cod"
+鱈;pre_1;棒鱈;1;ボウダラ;"dried codfish soaked in water for few days, and cooked almost to dryness in soy sauce and water "
+鱒;pre_1;虹鱒;2;;"rainbow trout"
+鱒;pre_1;姫鱒;2;;kokanee
+鱗;pre_1;逆鱗;45;ゲキリン;"imperial wrath"
+鱗;pre_1;魚鱗;35;ギョリン;"fish scales"
+鳩;pre_1;斑鳩;174;;"Japanese grosbeak"
+鳩;pre_1;山鳩;16;;"mountain-dwelling turtledove"
+鳳;pre_1;鳳凰;169;ホウオウ;"Chinese firebird"
+鳳;pre_1;鳳雛;5;ホウスウ;"gifted young person who shows much promise"
+鳶;pre_1;鳶尾;5;;"wall iris"
+鳶;pre_1;紙鳶;2;;kite
+鴛;pre_1;鴛鴦;12;;"mandarin duck"
+鴦;pre_1;鴛鴦;12;;"mandarin duck"
+鴨;pre_1;鴨居;63;カモイ;lintel
+鴨;pre_1;合鴨;6;;"cross between a mallard and domestic duck"
+鵜;pre_1;鵜飼;62;;"cormorant fishing"
+鵜;pre_1;鵜匠;37;ウショウ;"cormorant fisherman"
+鵠;pre_1;正鵠;17;セイコウ;bull's-eye
+鵡;pre_1;鸚鵡;18;;parrot
+鵬;pre_1;鵬翼;1;ホウヨク;"phoenix wings"
+鷲;pre_1;犬鷲;1;;"golden eagle"
+鷹;pre_1;鷹野;121;タカノ;falconry
+鷹;pre_1;鷹匠;46;タカジョウ;falconer
+鷺;pre_1;朱鷺;107;;"Japanese crested ibis"
+鷺;pre_1;白鷺;64;;"generic name for herons with all-white plumage"
+鸚;pre_1;鸚鵡;18;;parrot
+鹸;pre_1;石鹸;114;;soap
+麒;pre_1;麒麟;396;;giraffe
+麟;pre_1;麒麟;396;;giraffe
+麹;pre_1;麹菌;34;コウジキン;"yeast plant"
+黍;pre_1;唐黍;2;;"Indian millet"
+鼎;pre_1;鼎談;85;テイダン;talk
+鼎;pre_1;鼎立;9;テイリツ;"triangular position"
+鼠;pre_1;窮鼠;25;キュウソ;"cornered rat or mouse"
+鼠;pre_1;鼠径;10;;groin
+龍;pre_1;龍笛;10;;"dragon flute"
+乖;1;乖離;394;カイリ;divergence
+亢;1;亢進;21;;rising
+亢;1;亢竜;4;;"dragon which has already ascended to the heavens"
+仄;1;平仄;14;ヒョウソク;meter
+仄;1;仄聞;5;ソクブン;"casually hearing"
+仗;1;儀仗;36;ギジョウ;cortege
+佇;1;佇立;1;チョリツ;"standing still"
+佚;1;散佚;1;;"being scattered and ultimately lost"
+佞;1;佞臣;2;ネイシン;"crafty courtier"
+佞;1;佞人;1;ネイジン;flatterer
+佩;1;佩剣;1;ハイケン;"wearing a sword"
+佩;1;佩用;1;ハイヨウ;wearing
+佻;1;軽佻;15;ケイチョウ;flippant
+佻;1;軽佻;9;ケイチョウ;flippant
+侈;1;奢侈;14;シャシ;luxury
+侈;1;奢侈;9;シャシ;luxury
+侏;1;侏儒;6;シュジュ;dwarf
+侭;1;我侭;12;;selfishness
+侭;1;気侭;5;キママ;willful
+俎;1;俎上;187;ソジョウ;"on the chopping board"
+俎;1;俎板;6;;"chopping board"
+俘;1;俘虜;44;フリョ;captive
+俚;1;俚言;4;リゲン;slang
+俚;1;俚諺;3;リゲン;proverb
+俯;1;俯瞰;191;フカン;overlooking
+俯;1;俯仰;5;フギョウ;"looking up and down"
+倆;1;技倆;6;;ability
+倆;1;伎倆;1;;ability
+倪;1;端倪;7;タンゲイ;conjecturing
+偸;1;偸盗;9;チュウトウ;robber
+傀;1;傀儡;82;カイライ;puppet
+傅;1;師傅;9;シフ;"guardian and tutor of a nobleman's child"
+傅;1;傅育;2;フイク;"bringing up"
+僥;1;僥倖;13;;fortuitous
+僭;1;僭越;14;センエツ;presumptuous
+僭;1;僭主;8;センシュ;usurper
+儡;1;傀儡;82;カイライ;puppet
+兌;1;兌換;45;ダカン;conversion
+兎;1;二兎;206;ニト;"two rabbits"
+兎;1;兎馬;191;ウサギウマ;donkey
+冑;1;甲冑;74;カッチュウ;"armor and helmet"
+冤;1;冤罪;1069;エンザイ;"false charge"
+冤;1;雪冤;6;セツエン;exoneration
+冽;1;清冽;48;セイレツ;"cool and clear"
+冽;1;凛冽;12;リンレツ;biting
+凛;1;凛々;49;リンリン;severe
+凛;1;凛然;15;リンゼン;commanding
+几;1;几帳;8;キチョウ;screen
+几;1;床几;7;ショウギ;"camp stool"
+刮;1;刮目;18;カツモク;"careful observation"
+刳;1;刳舟;3;;"dugout canoe"
+剋;1;相剋;12;;rivalry
+剌;1;溌剌;32;ハツラツ;lively
+剔;1;剔抉;3;テッケツ;gouging
+剪;1;剪定;116;センテイ;pruning
+剴;1;剴切;1;ガイセツ;appropriateness
+剽;1;剽窃;21;ヒョウセツ;plagiarism
+剽;1;剽軽;1;;facetious
+劈;1;劈頭;13;ヘキトウ;outset
+勁;1;雄勁;3;ユウケイ;vigorous
+勒;1;弥勒;77;ミロク;Maitreya
+匈;1;匈奴;24;キョウド;Xiongnu
+匍;1;匍匐;6;ホフク;creeping
+匐;1;匍匐;6;ホフク;creeping
+匕;1;匕首;8;アイクチ;dagger
+卉;1;花卉;44;カキ;"flowering plants"
+厖;1;厖大;20;;huge
+厨;1;厨房;338;;kitchen
+厨;1;厨子;71;ズシ;"miniature shrine with double doors"
+厩;1;厩舎;223;キュウシャ;barn
+叭;1;喇叭;2;;trumpet
+叮;1;叮嚀;1;;polite
+吝;1;吝嗇;9;リンショク;stinginess
+吝;1;吝嗇;5;リンショク;stinginess
+吶;1;吶喊;1;トッカン;battlecry
+吽;1;阿吽;24;アウン;Om
+呱;1;呱々;2;ココ;"cry of a baby at its birth"
+呱;1;呱呱;1;ココ;"cry of a baby at its birth"
+呵;1;啖呵;56;タンカ;"caustic words"
+呵;1;呵責;42;カシャク;blame
+呻;1;呻吟;29;シンギン;moaning
+咀;1;咀嚼;106;ソシャク;chewing
+咄;1;小咄;19;コバナシ;anecdote
+咄;1;咄嗟;9;トッサ;moment
+咆;1;咆哮;41;ホウコウ;yell
+咎;1;咎人;1;;offender
+咤;1;叱咤;257;シッタ;scolding
+咫;1;咫尺;1;シセキ;"very short distance"
+咬;1;咬傷;3;;"biting wound"
+哄;1;哄笑;19;コウショウ;"loud laughter"
+哭;1;慟哭;64;ドウコク;wailing
+哭;1;鬼哭;16;キコク;"wailings of a restless ghost"
+哮;1;咆哮;41;ホウコウ;yell
+啖;1;啖呵;56;タンカ;"caustic words"
+啖;1;健啖;12;ケンタン;gluttony
+喀;1;喀血;11;カッケツ;"lung hemorrhage"
+喀;1;喀痰;3;カクタン;expectoration
+喃;1;喃語;3;ナンゴ;"lover's whispers"
+喇;1;喇叭;2;;trumpet
+喊;1;吶喊;1;トッカン;battlecry
+喘;1;喘息;69;ゼンソク;asthma
+喘;1;喘鳴;6;ゼンメイ;stridor
+喨;1;喨々;6;リョウリョウ;"bright, clear and reverberate"
+嗇;1;吝嗇;9;リンショク;stinginess
+嗇;1;吝嗇;5;リンショク;stinginess
+嗚;1;嗚咽;52;オエツ;sobbing
+嗜;1;嗜好;257;シコウ;taste
+嗜;1;嗜虐;10;シギャク;sadism
+嗟;1;怨嗟;38;エンサ;resentment
+嗟;1;咄嗟;9;トッサ;moment
+嗽;1;咳嗽;9;;cough
+嗾;1;指嗾;1;;instigation
+嘔;1;嘔吐;377;オウト;vomiting
+嘴;1;砂嘴;2;サシ;spit
+嘴;1;鶴嘴;2;;pickaxe
+噪;1;喧噪;35;;tumult
+嚀;1;叮嚀;1;;polite
+嚆;1;嚆矢;27;コウシ;"arrow to which is attached a turnip-shaped whistle made of hollowed-out wood or deer horn"
+嚥;1;嚥下;37;エンゲ;swallowing
+嚮;1;嚮導;4;キョウドウ;guidance
+嚼;1;咀嚼;106;ソシャク;chewing
+囂;1;囂々;2;ゴウゴウ;noise
+囃;1;囃子;121;ハヤシ;"Japanese orchestra"
+址;1;城址;68;ジョウシ;"castle site"
+址;1;古址;1;コシ;"historic ruins"
+坏;1;高坏;12;タカツキ;"serving table"
+坩;1;坩堝;4;;crucible
+埃;1;砂埃;2;;"cloud of dust"
+埃;1;土埃;2;;dust
+埒;1;不埒;12;フラチ;insolence
+埒;1;埒外;3;ラチガイ;"out of bounds"
+堝;1;坩堝;4;;crucible
+堡;1;堡塁;6;ホウルイ;fort
+塹;1;塹壕;59;ザンゴウ;trench
+墟;1;廃墟;177;ハイキョ;ruins
+壜;1;壜詰;2;;bottling
+壟;1;壟断;5;ロウダン;monopoly
+壷;1;骨壷;1;;"funerary urn"
+壷;1;滝壷;1;;"basin under a waterfall"
+夭;1;夭折;62;ヨウセツ;"premature death"
+夭;1;夭逝;15;ヨウセイ;"premature death"
+奕;1;博奕;7;;gambling
+奠;1;奠都;7;テント;"transferring the capital"
+奠;1;香奠;2;;"gift brought to a funeral"
+奢;1;華奢;30;キャシャ;dainty
+奢;1;豪奢;17;ゴウシャ;luxury
+奸;1;漢奸;22;カンカン;"Chinese traitor"
+奸;1;奸計;7;カンケイ;trick
+姜;1;生姜;57;ショウガ;ginger
+娑;1;娑婆;24;;"this world"
+娜;1;婀娜;1;アダ;"coquettish woman"
+婀;1;婀娜;1;アダ;"coquettish woman"
+婉;1;婉曲;27;エンキョク;euphemistic
+婉;1;優婉;1;ユウエン;elegant
+婢;1;奴婢;28;ドヒ;servant
+婢;1;僕婢;3;ボクヒ;"male and female servants"
+婪;1;貪婪;2;ドンラン;covetousness
+媚;1;明媚;62;メイビ;picturesque
+媚;1;媚薬;16;ビヤク;aphrodisiac
+媽;1;阿媽;1;アマ;
+嫣;1;嫣然;1;エンゼン;"sweetly smiling"
+嬌;1;愛嬌;164;;charm
+嬌;1;嬌声;9;キョウセイ;"coquettish voice"
+嬪;1;別嬪;1;ベッピン;"beautiful woman"
+孑;1;孑孑;1;;"mosquito larva"
+孵;1;孵化;13;フカ;incubation
+孵;1;孵卵;9;フラン;incubation
+宦;1;宦官;24;カンガン;eunuch
+宸;1;宸襟;2;シンキン;"mind of the emperor"
+宸;1;宸翰;1;シンカン;"Imperial letter"
+寇;1;入寇;1;ニュウコウ;invasion
+寞;1;寂寞;12;セキバク;loneliness
+寥;1;寂寥;77;セキリョウ;loneliness
+寥;1;荒寥;5;コウリョウ;desolate
+屁;1;放屁;8;ホウヒ;"breaking wind"
+屎;1;屎尿;2;シニョウ;excreta
+屎;1;鼻屎;1;;"nasal discharge"
+屏;1;屏風;676;ビョウブ;"folding screen"
+屓;1;贔屓;47;;favour
+屓;1;贔屓;9;;"liking something"
+屠;1;屠場;36;トジョウ;abattoir
+屠;1;屠蘇;12;トソ;"spiced sake"
+屹;1;屹立;39;キツリツ;"standing tall"
+峙;1;対峙;679;タイジ;confrontation
+嵌;1;象嵌;30;;inlay
+嵌;1;嵌入;2;カンニュウ;"setting in"
+嶼;1;島嶼;68;トウショ;islands
+嶽;1;富嶽;76;;"Mount Fuji"
+巓;1;山巓;1;サンテン;mountaintop
+巫;1;巫女;104;フジョ;"shrine maiden"
+帛;1;裂帛;6;レッパク;"cutting through cloth"
+帛;1;布帛;2;フハク;fabric
+帷;1;帷子;44;カタビラ;"light, thin, single-layer kimono "
+幀;1;装幀;44;;binding
+幇;1;幇間;33;ホウカン;"professional jester"
+幇;1;幇助;8;ホウジョ;assistance
+幔;1;幔幕;1;マンマク;curtain
+幟;1;旗幟;56;キシ;flag
+幟;1;鯉幟;4;;"carp streamer"
+弋;1;遊弋;2;ユウヨク;cruising
+弑;1;弑逆;1;シイギャク;"murder of one's own lord or father"
+彎;1;彎曲;6;;curve
+彗;1;彗星;243;スイセイ;comet
+彷;1;彷徨;117;ホウコウ;wandering
+彷;1;彷彿;100;ホウフツ;"close resemblance"
+彿;1;彷彿;100;ホウフツ;"close resemblance"
+徊;1;徘徊;344;ハイカイ;loitering
+徘;1;徘徊;344;ハイカイ;loitering
+徨;1;彷徨;117;ホウコウ;wandering
+忖;1;忖度;42;ソンタク;surmise
+忸;1;忸怩;71;;bashful
+忿;1;忿怒;7;;anger
+怩;1;忸怩;71;;bashful
+恃;1;矜恃;2;;pride
+恍;1;恍惚;105;コウコツ;ecstasy
+恚;1;瞋恚;1;シンイ;dosa
+恫;1;恫喝;161;ドウカツ;intimidation
+恬;1;恬淡;30;テンタン;disinterest
+恬;1;恬然;1;テンゼン;calm
+悄;1;悄然;9;ショウゼン;dejected
+悋;1;悋気;4;リンキ;jealousy
+悍;1;精悍;46;セイカン;fearless
+悍;1;剽悍;1;ヒョウカン;fierceness
+悛;1;改悛;17;カイシュン;repentance
+悛;1;悔悛;9;;repentance
+悧;1;怜悧;9;レイリ;cleverness
+悧;1;怜悧;6;レイリ;cleverness
+悴;1;憔悴;82;ショウスイ;emaciation
+悸;1;動悸;131;ドウキ;palpitation
+悽;1;悽愴;2;セイソウ;pathetic
+惘;1;惘然;1;ボウゼン;dumbfounded
+惻;1;惻隠;28;ソクイン;compassion
+惻;1;惻々;2;ソクソク;keenly
+愕;1;驚愕;111;キョウガク;surprise
+愕;1;愕然;104;ガクゼン;astonishment
+愧;1;慚愧;43;;shame
+愧;1;慙愧;32;;shame
+愴;1;悲愴;49;ヒソウ;pathetic
+愴;1;悲愴;4;ヒソウ;pathetic
+慂;1;慫慂;9;ショウヨウ;advice
+慇;1;慇懃;10;インギン;courtesy
+慇;1;慇懃;8;インギン;courtesy
+慙;1;慙愧;32;;shame
+慚;1;慚愧;43;;shame
+慟;1;慟哭;64;ドウコク;wailing
+慫;1;慫慂;9;ショウヨウ;advice
+慳;1;邪慳;3;;cruelty
+慷;1;慷慨;23;コウガイ;"righteous indignation"
+憊;1;困憊;42;コンパイ;exhaustion
+憑;1;憑依;34;ヒョウイ;dependence
+憑;1;信憑;32;シンピョウ;trust
+憔;1;憔悴;82;ショウスイ;emaciation
+憚;1;忌憚;46;キタン;reserve
+憫;1;不憫;27;フビン;pity
+憫;1;憐憫;21;レンビン;pity
+憮;1;憮然;24;ブゼン;discouraged
+憺;1;惨憺;36;サンタン;miserable
+懃;1;慇懃;10;インギン;courtesy
+懃;1;慇懃;8;インギン;courtesy
+懈;1;懈怠;18;;negligence
+懊;1;懊悩;16;オウノウ;anguish
+懣;1;憤懣;9;フンマン;anger
+懦;1;怯懦;3;キョウダ;cowardice
+懺;1;懺悔;71;ザンゲ;repentance
+懼;1;恐懼;3;キョウク;"being struck with awe"
+戈;1;銅戈;13;ドウカ;"bronze dagger-axe"
+戈;1;干戈;2;カンカ;"shield and halberd"
+戌;1;戌年;13;イヌドシ;"year of the dog"
+戌;1;戌亥;12;イヌイ;northwest
+戍;1;衛戍;1;エイジュ;garrison
+截;1;直截;43;チョクセツ;frank
+截;1;半截;1;;"cutting in half"
+戮;1;殺戮;79;サツリク;slaughter
+扁;1;扁平;38;ヘンペイ;flatness
+扁;1;扁額;37;ヘンガク;"framed picture or motto"
+扈;1;跋扈;73;バッコ;rampancy
+扈;1;扈従;1;コショウ;attendance
+扼;1;扼殺;2;ヤクサツ;strangulation
+抉;1;剔抉;3;テッケツ;gouging
+抒;1;抒情;249;;lyricism
+拇;1;拇印;3;ボイン;"thumb print"
+拇;1;拇指;1;;thumb
+拌;1;撹拌;1;コウハン;agitation
+拗;1;執拗;433;シツヨウ;persistent
+拗;1;拗音;4;;"contracted sound"
+拮;1;拮抗;589;キッコウ;rivalry
+拱;1;拱手;2;コウシュ;"folding one's arms"
+拿;1;拿捕;540;ダホ;capture
+挂;1;挂冠;2;ケイカン;"resigning from a government post"
+捏;1;捏造;647;ネツゾウ;fabrication
+捐;1;義捐;2;ギエン;alms
+捐;1;出捐;2;シュツエン;contribution
+掉;1;掉尾;22;トウビ;"final effort"
+掏;1;掏摸;20;;pickpocket
+掣;1;掣肘;5;セイチュウ;restraint
+揄;1;揶揄;383;ヤユ;banter
+揆;1;一揆;263;イッキ;uprising
+揶;1;揶揄;383;ヤユ;banter
+搗;1;搗栗;3;カチグリ;"dried chestnut"
+搦;1;搦手;1;カラメテ;"rear gate"
+撈;1;漁撈;4;ギョロウ;fishing
+撓;1;不撓;35;フトウ;unbending
+撥;1;反撥;13;;opposition
+撥;1;撥音;4;ハツオン;"the sound of the kana ""n"""
+撩;1;撩乱;4;リョウラン;profusely
+撹;1;撹拌;1;コウハン;agitation
+撻;1;鞭撻;4;ベンタツ;encouragement
+撼;1;震撼;171;シンカン;shake
+擂;1;擂鉢;1;;mortar
+擡;1;擡頭;2;;"rise of"
+擲;1;放擲;5;ホウテキ;abandoning
+擲;1;打擲;2;チョウチャク;thrashing
+攀;1;登攀;29;トウハン;scaling
+攘;1;攘夷;162;ジョウイ;"expel the barbarians"
+攘;1;尊攘;5;ソンジョウ;"revering the Emperor"
+攣;1;痙攣;15;ケイレン;convulsion
+攬;1;総攬;10;;control
+攬;1;収攬;2;シュウラン;grasping
+敲;1;推敲;137;スイコウ;revision
+斂;1;収斂;63;シュウレン;astringency
+斃;1;斃死;1;ヘイシ;"falling dead"
+斛;1;万斛;1;バンコク;copious
+斟;1;斟酌;76;シンシャク;consideration
+旱;1;旱魃;9;;drought
+旱;1;旱天;1;;drought
+昵;1;昵懇;2;ジッコン;intimacy
+晤;1;面晤;1;メンゴ;"face-to-face conversation"
+晰;1;明晰;132;メイセキ;clear
+暈;1;眩暈;15;ゲンウン;dizziness
+曠;1;曠野;18;;wasteland
+曾;1;曾孫;8;ヒマゴ;great-grandchild
+朦;1;朦朧;20;;dim
+朦;1;朦々;1;;dense
+朧;1;朦朧;20;;dim
+朧;1;朧月;5;オボロヅキ;"hazy moon"
+朶;1;粗朶;19;ソダ;brushwood
+朶;1;耳朶;6;;earlobe
+杞;1;杞憂;210;キユウ;"absurd fear"
+杞;1;枸杞;3;;"Chinese matrimony vine"
+枋;1;蘇枋;1;;sappanwood
+枡;1;枡形;12;マスガタ;square
+枡;1;枡席;3;マスセキ;"tatami ""box seat"" for four people at sumo, kabuki, etc."
+枷;1;足枷;5;;fetters
+枷;1;手枷;1;;handcuffs
+枸;1;枸杞;3;;"Chinese matrimony vine"
+柩;1;霊柩;16;レイキュウ;coffin
+柩;1;柩車;2;キュウシャ;hearse
+桎;1;桎梏;24;シッコク;bonds
+桧;1;桧皮;2;;"cypress bark"
+桿;1;桿菌;16;;bacillus
+梃;1;梃子;3;;lever
+梏;1;桎梏;24;シッコク;bonds
+梟;1;梟雄;7;キョウユウ;ringleader
+梟;1;島梟;1;;"Blakiston's fish owl"
+梵;1;梵鐘;27;ボンショウ;"temple bell"
+梵;1;梵天;17;ボンテン;Brahma-Deva
+棍;1;棍棒;4;コンボウ;stick
+棕;1;棕櫚;5;;"Chinese windmill palm"
+棘;1;荊棘;1;;"wild rose"
+棠;1;海棠;10;;"flowering crab apple"
+椏;1;三椏;1;;"Oriental paper bush"
+椒;1;山椒;130;サンショウ;"Japanese pepper"
+椒;1;胡椒;16;;pepper
+椰;1;椰子;52;;"palm tree"
+楕;1;楕円;220;ダエン;ellipse
+榔;1;檳榔;3;ビロウ;"Chinese fan palm"
+榕;1;榕樹;1;ヨウジュ;"Chinese banyan"
+榜;1;標榜;152;ヒョウボウ;advocate
+榴;1;石榴;16;ザクロ;pomegranate
+榴;1;柘榴;14;;pomegranate
+槃;1;涅槃;104;ネハン;Nirvana
+槐;1;針槐;1;ハリエンジュ;"black locust"
+槨;1;石槨;29;;"stone burial chamber"
+槿;1;木槿;5;;"rose of Sharon"
+橄;1;橄欖;3;カンラン;"Chinese white olive"
+橇;1;馬橇;3;バソリ;"horse-drawn sleigh"
+橙;1;橙色;10;ダイダイイロ;"orange color"
+檄;1;檄文;16;ゲキブン;"written appeal"
+檳;1;檳榔;3;ビロウ;"Chinese fan palm"
+檻;1;折檻;14;セッカン;"scolding severely"
+櫃;1;米櫃;9;コメビツ;"rice bin"
+櫃;1;唐櫃;7;カラビツ;"six-legged Chinese-style chest"
+櫚;1;棕櫚;5;;"Chinese windmill palm"
+欒;1;団欒;38;;"sitting together in a circle"
+欒;1;朱欒;1;;shaddock
+欖;1;橄欖;3;カンラン;"Chinese white olive"
+歇;1;間歇;5;;intermittence
+歿;1;歿後;4;;"after death"
+歿;1;戦歿;2;;"death in battle"
+殯;1;殯宮;33;ヒンキュウ;"temporary imperial mortuary"
+殲;1;殲滅;15;センメツ;extermination
+毫;1;揮毫;304;キゴウ;writing
+毫;1;寸毫;3;スンゴウ;"a bit"
+毬;1;手毬;36;;"traditional Japanese handball game"
+毬;1;毬栗;10;;"chestnut in its burr"
+毯;1;絨毯;58;;carpet
+氈;1;毛氈;7;モウセン;carpet
+氓;1;蒼氓;4;ソウボウ;"the people"
+沐;1;沐浴;43;モクヨク;bathing
+沛;1;沛然;3;ハイゼン;torrential
+沱;1;滂沱;10;ボウダ;"floods of tears, sweat, etc."
+沽;1;沽券;20;コケン;dignity
+泄;1;排泄;91;ハイセツ;excretion
+洒;1;洒脱;106;シャダツ;unconventional
+洒;1;瀟洒;44;ショウシャ;stylish
+洟;1;水洟;1;;"runny nose"
+浚;1;浚渫;32;シュンセツ;dredging
+浣;1;浣腸;23;カンチョウ;enema
+涅;1;涅槃;104;ネハン;Nirvana
+涎;1;垂涎;33;;"watering at the mouth"
+涛;1;松涛;29;ショウトウ;"sound of wind rustling in the pine needles"
+涛;1;怒涛;11;;"surging waves"
+涵;1;涵養;94;カンヨウ;cultivation
+淆;1;混淆;11;;mixture
+淪;1;淪落;3;リンラク;ruin
+渫;1;浚渫;32;シュンセツ;dredging
+游;1;游泳;1;;swimming
+渺;1;渺々;1;ビョウビョウ;boundless
+渾;1;渾身;146;コンシン;"with all one's might"
+渾;1;渾然;33;コンゼン;whole
+湃;1;澎湃;6;ホウハイ;"as the sound of surging water"
+湮;1;湮滅;1;;destruction
+溟;1;滄溟;1;ソウメイ;"great blue sea"
+溲;1;溲瓶;4;;"urine bottle"
+滂;1;滂沱;10;ボウダ;"floods of tears, sweat, etc."
+滄;1;滄海;17;ソウカイ;"blue waters"
+滄;1;滄溟;1;ソウメイ;"great blue sea"
+滓;1;残滓;52;ザンサイ;remains
+滓;1;鉱滓;3;コウサイ;slag
+滔;1;滔々;32;;torrentially
+滔;1;滔滔;1;トウトウ;torrentially
+滲;1;滲出;33;シンシュツ;infiltration
+滲;1;滲透;6;;permeation
+滸;1;烏滸;1;オコ;"foolish thing"
+漓;1;淋漓;1;リンリ;dripping
+漿;1;血漿;55;ケッショウ;plasma
+漿;1;岩漿;1;ガンショウ;magma
+潅;1;潅水;2;;sprinkling
+潅;1;潅木;2;;bush
+澎;1;澎湃;6;ホウハイ;"as the sound of surging water"
+澪;1;澪標;41;ミオツクシ;"marks in a water channel"
+澹;1;暗澹;24;;dark
+澹;1;惨澹;4;サンタン;miserable
+濘;1;泥濘;5;;quagmire
+濾;1;濾過;19;;filtration
+濾;1;濾紙;1;ロシ;"filter paper"
+瀉;1;吐瀉;7;トシャ;"vomiting and diarrhea"
+瀉;1;瀉血;7;シャケツ;bloodletting
+瀑;1;瀑布;36;;waterfall
+瀑;1;飛瀑;2;ヒバク;"waterfall from a high place"
+瀚;1;浩瀚;9;コウカン;bulky
+瀚;1;浩瀚;3;コウカン;bulky
+瀝;1;披瀝;13;ヒレキ;"express one's opinion"
+瀝;1;瀝青;2;レキセイ;asphalt
+瀟;1;瀟洒;44;ショウシャ;stylish
+瀰;1;瀰漫;1;ビマン;pervasion
+瀾;1;波瀾;69;ハラン;troubles
+炒;1;炒豆;1;;"parched or roasted beans"
+炙;1;膾炙;21;カイシャ;"household word"
+炙;1;親炙;3;シンシャ;"coming into close contact and being influenced by"
+炬;1;炬燵;26;;kotatsu
+炬;1;炬火;9;キョカ;"pine torch"
+炯;1;炯々;7;ケイケイ;glaring
+炯;1;炯眼;6;ケイガン;"penetrating eyes"
+炸;1;炸裂;103;サクレツ;explosion
+炸;1;炸薬;10;サクヤク;explosives
+烙;1;烙印;98;ラクイン;mark
+烙;1;焙烙;3;ホウロク;"earthenware baking pan"
+烟;1;烟管;1;;kiseru
+烟;1;烟草;1;;tobacco
+烽;1;烽火;6;ホウカ;beacon
+焉;1;終焉;395;シュウエン;demise
+焙;1;焙烙;3;ホウロク;"earthenware baking pan"
+焜;1;焜炉;1;;"portable cooking stove"
+煌;1;煌々;9;コウコウ;brilliant
+煖;1;煖炉;1;;fireplace
+煥;1;煥発;14;カンパツ;brilliance
+熄;1;終熄;1;;"having ended"
+熔;1;熔接;4;;weld
+熔;1;熔岩;1;;lava
+熨;1;熨斗;23;;"long thin strip of dried sea-ear or paper attached to a gift"
+熾;1;熾烈;124;シレツ;fierce
+熾;1;熾火;2;;"glowing ember"
+燎;1;燎原;11;リョウゲン;"agricultural burning"
+燗;1;熱燗;46;アツカン;"hot sake"
+燗;1;燗酒;22;カンザケ;"warmed sake"
+燵;1;炬燵;26;;kotatsu
+燵;1;火燵;3;;kotatsu
+燻;1;燻製;22;;"smoked food"
+燻;1;燻蒸;5;クンジョウ;fumigation
+燼;1;灰燼;12;;ash
+燼;1;余燼;6;ヨジン;"smouldering fire"
+爛;1;絢爛;138;ケンラン;gorgeous
+爛;1;爛漫;38;ランマン;glorious
+牘;1;尺牘;9;セキトク;letter
+狄;1;夷狄;8;イテキ;barbarians
+狄;1;北狄;2;ホクテキ;"Northern Di people"
+狡;1;狡猾;74;コウカツ;sly
+狡;1;狡知;8;;craft
+狷;1;狷介;11;ケンカイ;obstinate
+狷;1;狷介;2;ケンカイ;obstinate
+猊;1;猊下;9;ゲイカ;"your highness"
+猜;1;猜疑;46;サイギ;suspicion
+猥;1;猥雑;36;ワイザツ;confusion
+猥;1;猥雑;26;ワイザツ;confusion
+猩;1;猩々;50;ショウジョウ;orangutan
+猩;1;猩猩;1;;orangutan
+猴;1;猿猴;12;エンコウ;monkey
+猾;1;狡猾;74;コウカツ;sly
+獪;1;老獪;30;ロウカイ;cunning
+獰;1;獰猛;12;ネイモウ;ferocity
+玳;1;玳瑁;1;タイマイ;"hawksbill turtle"
+玻;1;玻璃;25;ハリ;quartz
+珀;1;琥珀;103;コハク;amber
+珈;1;珈琲;109;;coffee
+琥;1;琥珀;103;コハク;amber
+琲;1;珈琲;109;;coffee
+琺;1;琺瑯;1;;enamel
+瑁;1;玳瑁;1;タイマイ;"hawksbill turtle"
+瑕;1;瑕疵;464;カシ;flaw
+瑕;1;瑕瑾;4;カキン;scratch
+瑙;1;瑪瑙;8;メノウ;agate
+瑜;1;瑜伽;1;ユガ;yoga
+瑟;1;琴瑟;2;キンシツ;"qin and se"
+瑣;1;瑣末;14;サマツ;trivial
+瑣;1;瑣末;14;サマツ;trivial
+瑪;1;瑪瑙;8;メノウ;agate
+瑯;1;琺瑯;1;;enamel
+瑾;1;瑕瑾;4;カキン;scratch
+瓏;1;玲瓏;35;レイロウ;clear
+甕;1;水甕;17;;"water jug"
+甦;1;甦生;8;;rebirth
+畸;1;畸人;14;;"queer fellow"
+畸;1;畸型;2;;"birth defect"
+疆;1;辺疆;5;;"remote region"
+疇;1;範疇;61;ハンチュウ;category
+疝;1;疝気;7;センキ;colic
+疥;1;疥癬;9;カイセン;scabies
+疱;1;水疱;54;スイホウ;blister
+疱;1;疱瘡;29;ホウソウ;smallpox
+疵;1;瑕疵;464;カシ;flaw
+疸;1;黄疸;20;オウダン;jaundice
+疼;1;疼痛;40;トウツウ;pain
+疽;1;炭疽;1038;タンソ;anthrax
+疽;1;壊疽;37;エソ;gangrene
+痍;1;創痍;132;ソウイ;wound
+痍;1;傷痍;29;ショウイ;wound
+痒;1;痛痒;19;ツウヨウ;"pain and itching"
+痒;1;掻痒;3;ソウヨウ;itch
+痙;1;痙攣;15;ケイレン;convulsion
+痙;1;書痙;4;ショケイ;"writer's cramp"
+痰;1;血痰;3;ケッタン;"bloody phlegm"
+痰;1;喀痰;3;カクタン;expectoration
+痺;1;麻痺;101;マヒ;paralysis
+痾;1;宿痾;22;シュクア;"chronic disease"
+瘁;1;尽瘁;1;ジンスイ;"giving one's all to"
+瘋;1;瘋癲;8;;insanity
+瘡;1;痘瘡;54;トウソウ;smallpox
+瘡;1;瘡蓋;48;;crust
+瘢;1;瘢痕;25;ハンコン;scar
+瘤;1;力瘤;1;;"large biceps"
+瘴;1;瘴気;9;ショウキ;miasma
+瘻;1;痔瘻;3;;"anal fistula"
+癇;1;子癇;14;シカン;eclampsia
+癇;1;癇癪;4;;passion
+癪;1;癇癪;4;;passion
+癪;1;小癪;1;コシャク;impudent
+癬;1;白癬;41;ハクセン;"scalp ringworm"
+癬;1;乾癬;20;カンセン;psoriasis
+癲;1;瘋癲;8;;insanity
+皓;1;皓々;3;コウコウ;bright
+皓;1;皓皓;1;コウコウ;bright
+皙;1;白皙;4;ハクセキ;white
+皺;1;小皺;2;コジワ;"fine wrinkles"
+盂;1;腎盂;14;ジンウ;"renal pelvis"
+盒;1;飯盒;7;ハンゴウ;"cooking utensils"
+盒;1;香盒;2;;"incense container"
+盥;1;金盥;1;;"metal basin"
+盪;1;震盪;33;シントウ;shock
+眈;1;眈々;4;;"vigilant hostility"
+眈;1;眈眈;3;;"vigilant hostility"
+眩;1;眩暈;15;ゲンウン;dizziness
+眩;1;眩惑;5;ゲンワク;dazzling
+眷;1;眷属;3;ケンゾク;family
+眸;1;眸子;9;ボウシ;eye
+眸;1;明眸;5;メイボウ;"bright or beautiful eyes"
+睛;1;点睛;3;テンセイ;"adding eyes and other finishing touches to an animal painting"
+睥;1;睥睨;3;ヘイゲイ;"glaring at"
+睨;1;睥睨;3;ヘイゲイ;"glaring at"
+睫;1;睫毛;13;;eyelashes
+睾;1;睾丸;45;コウガン;testicles
+瞋;1;瞋恚;1;シンイ;dosa
+瞑;1;瞑想;174;メイソウ;meditation
+瞑;1;瞑目;14;メイモク;"closing one's eyes"
+瞞;1;欺瞞;122;ギマン;deception
+瞠;1;瞠目;23;ドウモク;"gazing at"
+瞰;1;俯瞰;191;フカン;overlooking
+瞰;1;鳥瞰;118;チョウカン;"bird's-eye view"
+瞼;1;眼瞼;42;ガンケン;eyelid
+瞽;1;瞽女;97;ゴゼ;"blind female beggar who sings or plays shamisen"
+矍;1;矍鑠;2;カクシャク;vigorous
+矜;1;矜持;168;キョウジ;pride
+矜;1;矜恃;2;;pride
+矮;1;矮小;103;ワイショウ;diminutive
+矮;1;矮性;13;ワイセイ;dwarfism
+砒;1;砒素;29;;arsenic
+硅;1;硅砂;1;;"silica sand"
+碌;1;耄碌;3;モウロク;senility
+碌;1;碌々;2;ロクロク;hardly
+碗;1;茶碗;128;チャワン;"rice bowl"
+磊;1;磊落;3;ライラク;open-hearted
+磊;1;磊落;1;ライラク;open-hearted
+磋;1;切磋;5;セッサ;polishing
+磔;1;磔刑;16;タッケイ;crucifixion
+礙;1;障礙;1;;obstacle
+礙;1;無礙;1;;"free from obstacles"
+礫;1;瓦礫;50;;rubble
+礫;1;砂礫;6;サレキ;pebbles
+祀;1;合祀;1321;ゴウシ;"enshrining together"
+祀;1;祭祀;313;サイシ;ritual
+祓;1;大祓;10;オオハライ;"great purification"
+祓;1;修祓;2;シュウバツ;"purification rite"
+祚;1;重祚;3;ジュウソ;"second accession to the throne"
+祚;1;践祚;2;センソ;accession
+祠;1;祠堂;6;シドウ;"lay ancestral hall"
+祠;1;神祠;1;;shrine
+秣;1;糧秣;5;リョウマツ;"military provisions and cavalry horse fodder"
+稟;1;稟議;152;リンギ;"reaching a decision by using a circular letter"
+稟;1;稟質;2;ヒンシツ;"inborn nature"
+稠;1;稠密;4;チュウミツ;dense
+稠;1;稠密;3;チュウミツ;dense
+稷;1;社稷;6;シャショク;state
+穢;1;穢土;6;エド;"this impure world"
+穢;1;汚穢;3;オワイ;"night soil"
+穹;1;蒼穹;62;ソウキュウ;"blue sky"
+穹;1;穹窿;2;キュウリュウ;vault
+穽;1;陥穽;21;カンセイ;trap
+窩;1;眼窩;29;ガンカ;"eye socket"
+窩;1;山窩;12;サンカ;"group of mountain nomads"
+窿;1;穹窿;2;キュウリュウ;vault
+竄;1;改竄;8;;alteration
+竄;1;流竄;1;リュウザン;banishment
+站;1;兵站;37;ヘイタン;"supply train"
+竟;1;究竟;1;クキョウ;"after all"
+竪;1;竪穴;115;タテアナ;pit
+竪;1;竪琴;84;タテゴト;harp
+笨;1;粗笨;2;ソホン;crude
+筅;1;茶筅;8;チャセン;"tea whisk"
+筍;1;石筍;11;セキジュン;stalagmite
+筐;1;花筐;15;ハナガタミ;"flower basket"
+筮;1;筮竹;2;ゼイチク;"bamboo divination stick"
+筵;1;荒筵;2;;"loosely woven mat"
+箏;1;箏曲;149;ソウキョク;"koto music"
+箒;1;箒星;7;ホウキボシ;comet
+箒;1;玉箒;1;タマハハキ;broom
+箜;1;箜篌;8;クゴ;konghou
+箝;1;箝口;1;カンコウ;"keeping silent"
+箴;1;箴言;49;シンゲン;proverb
+篆;1;篆刻;798;;"seal engraving"
+篆;1;篆書;101;;"characters used on seals"
+篌;1;箜篌;8;クゴ;konghou
+篝;1;篝火;71;カガリビ;"fire built in an iron basket"
+篥;1;篳篥;32;ヒチリキ;"small double-reed wind instrument used in gagaku"
+篭;1;駕篭;1;;palanquin
+篳;1;篳篥;32;ヒチリキ;"small double-reed wind instrument used in gagaku"
+簀;1;生簀;4;;"fish preserve"
+簀;1;葦簀;1;;"reed screen"
+簒;1;簒奪;7;サンダツ;usurpation
+簽;1;題簽;2;ダイセン;"slip of paper bearing a book's title"
+籃;1;揺籃;21;ヨウラン;cradle
+籟;1;松籟;28;ショウライ;"wind through pine trees"
+籟;1;天籟;6;テンライ;"sound of wind"
+籤;1;抽籤;1;;lottery
+粱;1;高粱;2;;"variety of sorghum, esp. used in making spirits "
+糜;1;糜爛;1;ビラン;inflammation
+紆;1;紆余;143;ウヨ;meandering
+紊;1;紊乱;7;ビンラン;disorder
+紮;1;結紮;4;ケッサツ;ligature
+絆;1;脚絆;4;キャハン;gaiters
+絣;1;紺絣;6;コンガスリ;"dark blue cloth with white splash patterns"
+絣;1;矢絣;4;ヤガスリ;"pattern resembling that of arrow feathers"
+絨;1;絨毯;58;;carpet
+絨;1;絨毛;15;ジュウモウ;villus
+綮;1;肯綮;1;コウケイ;"the essential point"
+綸;1;綸言;22;リンゲン;"imperial words"
+綸;1;経綸;19;ケイリン;governing
+綺;1;綺麗;68;;pretty
+綺;1;綺羅;14;キラ;"fine clothes"
+緘;1;封緘;10;フウカン;seal
+緘;1;緘黙;3;カンモク;"keeping silent"
+緞;1;緞帳;15;ドンチョウ;"thick curtain"
+緞;1;緞子;5;ドンス;"silk damask"
+縊;1;縊死;9;イシ;"suicide by hanging"
+縒;1;紙縒;4;;"string made from twisted paper"
+縷;1;一縷;32;イチル;"a thread"
+繃;1;繃帯;2;;bandage
+繚;1;繚乱;29;リョウラン;profusely
+繞;1;囲繞;2;イジョウ;surrounding
+繹;1;演繹;10;エンエキ;"deductive reasoning"
+繻;1;繻子;36;シュス;satin
+纈;1;纐纈;10;コウケチ;"style of tie-dying used during the Nara era"
+纐;1;纐纈;10;コウケチ;"style of tie-dying used during the Nara era"
+纜;1;解纜;1;カイラン;"weighing anchor"
+罹;1;罹患;210;リカン;"contracting a disease"
+罹;1;罹災;38;リサイ;suffering
+羈;1;不羈;5;フキ;freedom
+羚;1;羚羊;11;カモシカ;serow
+羯;1;羯鼓;3;カッコ;kakko
+羹;1;羊羹;61;;"sweet bean jelly"
+翅;1;後翅;1;コウシ;hindwing
+翅;1;前翅;1;ゼンシ;fore-wing
+翔;1;飛翔;336;ヒショウ;flight
+翔;1;翔破;5;ショウハ;"completing a flight"
+翡;1;翡翠;190;ヒスイ;kingfisher
+翩;1;翩翻;3;ヘンポン;fluttering
+翳;1;陰翳;61;;shadow
+翹;1;連翹;2;;"weeping forsythia"
+耄;1;耄碌;3;モウロク;senility
+聊;1;無聊;16;ブリョウ;boredom
+聘;1;招聘;51;ショウヘイ;invitation
+聚;1;類聚;8;ルイジュ;"collection of similar objects"
+肆;1;書肆;174;ショシ;bookstore
+肓;1;膏肓;5;コウモウ;"incurable disease"
+肛;1;肛門;245;コウモン;anus
+肛;1;脱肛;3;ダッコウ;"anal prolapse"
+胚;1;胚芽;61;ハイガ;germ
+胚;1;胚葉;13;ハイヨウ;"germ layer"
+胥;1;華胥;3;カショ;"ideal land"
+胱;1;膀胱;101;ボウコウ;"urinary bladder"
+脛;1;脛骨;7;ケイコツ;tibia
+脾;1;脾臓;41;ヒゾウ;spleen
+腋;1;葉腋;3;ヨウエキ;"leaf axil"
+腋;1;腋芽;1;エキガ;"axillary bud"
+腑;1;臓腑;9;ゾウフ;entrails
+腑;1;肺腑;5;ハイフ;lungs
+腓;1;腓骨;16;ヒコツ;fibula
+膀;1;膀胱;101;ボウコウ;"urinary bladder"
+膂;1;膂力;7;リョリョク;"physical strength"
+膠;1;膠着;110;コウチャク;agglutination
+膵;1;膵臓;514;スイゾウ;pancreas
+膺;1;服膺;1;フクヨウ;"bearing in mind"
+膺;1;膺懲;1;ヨウチョウ;punishment
+膾;1;膾炙;21;カイシャ;"household word"
+臀;1;臀部;48;デンブ;buttocks
+臈;1;上臈;8;;"court lady"
+臍;1;臍帯;325;セイタイ;"umbilical cord"
+臘;1;臘梅;8;;wintersweet
+臘;1;旧臘;2;;"last December"
+臙;1;臙脂;2;エンジ;"dark-red pigment"
+臾;1;須臾;2;シュユ;"little while"
+舫;1;画舫;1;ガボウ;"exquisitely decorated pleasure boat"
+舳;1;舳先;13;ヘサキ;bow
+艤;1;艤装;5;;"fitting-out of a ship"
+艱;1;艱難;31;カンナン;hardships
+艱;1;艱苦;2;カンク;"privation suffering"
+芍;1;芍薬;61;;"Chinese peony"
+芒;1;光芒;28;コウボウ;"beam of light"
+芬;1;芬芬;1;フンプン;strong
+芻;1;反芻;32;;rumination
+苞;1;藁苞;4;ワラヅト;"straw wrapper"
+苣;1;萵苣;2;チシャ;lettuce
+苹;1;苹果;8;;apple
+苺;1;木苺;1;;raspberry
+茗;1;茗荷;17;;"Japanese ginger"
+茘;1;茘枝;5;;litchi
+茣;1;茣蓙;2;;"rush mat"
+茫;1;茫然;49;ボウゼン;dumbfounded
+茫;1;茫々;31;ボウボウ;"wide expanse of flat surface"
+茱;1;茱萸;21;グミ;oleaster
+茴;1;茴香;3;;fennel
+荼;1;荼毘;35;;cremation
+莢;1;薬莢;1;ヤッキョウ;cartridge
+莽;1;草莽;8;ソウモウ;commoner
+菫;1;菫色;1;;violet
+菲;1;菲才;1;;"lack of ability"
+萵;1;萵苣;2;チシャ;lettuce
+萸;1;茱萸;21;グミ;oleaster
+葭;1;葭簀;1;;"reed screen"
+葷;1;葷酒;7;クンシュ;"garlic and wine"
+蒟;1;蒟蒻;35;;"solidified jelly made from the rhizome of devil's tongue"
+蒡;1;牛蒡;11;;"great burdock"
+蒻;1;蒟蒻;35;;"solidified jelly made from the rhizome of devil's tongue"
+蓙;1;茣蓙;2;;"rush mat"
+蓴;1;蓴菜;1;ジュンサイ;"water shield"
+蔗;1;甘蔗;1;カンシャ;"sugar cane"
+蔬;1;蔬菜;3;ソサイ;greens
+蕁;1;蕁麻;3;ジンマ;nettle
+蕭;1;蕭々;14;ショウショウ;drearily
+蕭;1;蕭蕭;2;ショウショウ;drearily
+蕷;1;薯蕷;1;;"grated yam"
+薇;1;薔薇;454;;rose
+薔;1;薔薇;454;;rose
+薨;1;薨去;1;コウキョ;death
+藉;1;狼藉;19;ロウゼキ;violence
+藉;1;慰藉;5;;consolation
+藝;1;文藝;81;;literature
+藺;1;藺草;8;;"soft rush"
+蘊;1;蘊蓄;15;;"great erudition"
+蘊;1;五蘊;1;;"the five skandhas"
+虔;1;敬虔;101;ケイケン;pious
+蚓;1;蚯蚓;5;;earthworm
+蚣;1;蜈蚣;1;;centipede
+蚯;1;蚯蚓;5;;earthworm
+蛆;1;蛆虫;1;;maggot
+蛉;1;蜻蛉;50;;dragonfly
+蛎;1;牡蛎;7;;oyster
+蛞;1;蛞蝓;3;;slug
+蛟;1;蛟竜;1;コウリョウ;"rain dragon"
+蜀;1;望蜀;3;ボウショク;insatiability
+蜈;1;蜈蚣;1;;centipede
+蜉;1;蜉蝣;10;フユウ;mayfly
+蜊;1;浅蜊;4;;"Manila clam"
+蜚;1;蜚語;2;;"baseless rumor"
+蜥;1;蜥蜴;27;;lizard
+蜴;1;蜥蜴;27;;lizard
+蜻;1;蜻蛉;50;;dragonfly
+蝎;1;蛇蝎;3;ダカツ;"and scorpion"
+蝓;1;蛞蝓;3;;slug
+蝗;1;飛蝗;2;;grasshopper
+蝙;1;蝙蝠;16;コウモリ;bat
+蝟;1;蝟集;3;イシュウ;swarm
+蝠;1;蝙蝠;16;コウモリ;bat
+蝣;1;蜉蝣;10;フユウ;mayfly
+蝴;1;蝴蝶;3;;butterfly
+蝸;1;蝸牛;86;デンデンムシ;snail
+蝿;1;蒼蝿;1;;"bluebottle fly"
+螂;1;蟷螂;25;;"praying mantis"
+螽;1;螽斯;1;;"Japanese katydid"
+蟀;1;蟋蟀;4;;cricket
+蟄;1;啓蟄;47;ケイチツ;"awakening of insects solar term"
+蟄;1;蟄居;25;チッキョ;"keeping house"
+蟇;1;蝦蟇;5;ガマ;toad
+蟋;1;蟋蟀;4;;cricket
+蟒;1;蟒蛇;1;;"large snake"
+蟠;1;蟠踞;4;;"settling in a coiled shape"
+蟷;1;蟷螂;25;;"praying mantis"
+蠕;1;蠕動;1;ゼンドウ;vermiculation
+蠢;1;蠢動;7;シュンドウ;wriggling
+蠱;1;蠱惑;7;コワク;fascination
+衍;1;敷衍;12;フエン;expatiation
+衍;1;布衍;1;;expatiation
+衒;1;女衒;4;ゼゲン;"someone who makes their living selling women into prostitution"
+衒;1;衒学;4;ゲンガク;pedantry
+衙;1;官衙;15;カンガ;"government office"
+衙;1;国衙;3;コクガ;"provincial governor's office"
+衢;1;街衢;1;;town
+衾;1;同衾;4;ドウキン;"sleeping together"
+袍;1;素袍;13;;suou
+袍;1;褞袍;1;;"padded kimono"
+袢;1;襦袢;20;ジュバン;undershirt
+袱;1;袱紗;12;フクサ;"small silk wrapper"
+袱;1;卓袱;8;シッポク;"Chinese-style low dining table"
+裔;1;末裔;92;マツエイ;descendants
+裔;1;後裔;6;コウエイ;descendant
+裨;1;裨益;3;ヒエキ;benefit
+褄;1;辻褄;14;ツジツマ;coherence
+褓;1;襁褓;5;ムツキ;diaper
+褞;1;褞袍;1;;"padded kimono"
+褥;1;産褥;6;サンジョク;confinement
+褪;1;褪色;3;;fading
+褶;1;褶曲;8;シュウキョク;bend
+褸;1;襤褸;12;;rag
+褻;1;猥褻;7;ワイセツ;obscenity
+褻;1;猥褻;7;ワイセツ;obscenity
+襁;1;襁褓;5;ムツキ;diaper
+襞;1;山襞;5;ヤマヒダ;"folds of a mountain"
+襤;1;襤褸;12;;rag
+襦;1;襦袢;20;ジュバン;undershirt
+襴;1;金襴;15;キンラン;"gold brocade"
+覯;1;稀覯;22;キコウ;rare
+覿;1;覿面;1;;immediacy
+觴;1;濫觴;2;ランショウ;source
+訌;1;内訌;1;ナイコウ;"internal discord"
+訛;1;転訛;4;テンカ;corruption
+訛;1;国訛;2;;dialect
+訝;1;怪訝;18;ケゲン;dubious
+訥;1;朴訥;26;;unsophisticated
+訥;1;朴訥;14;;unsophisticated
+詁;1;訓詁;1;クンコ;interpretation
+詈;1;罵詈;29;バリ;abuse
+詛;1;呪詛;22;ジュソ;curse
+詢;1;諮詢;7;シジュン;question
+詭;1;詭弁;125;キベン;sophistry
+誅;1;天誅;45;テンチュウ;"heaven's punishment"
+誅;1;誅伐;9;チュウバツ;"assailing criminals"
+誡;1;遺誡;3;;"one's last caution"
+誦;1;暗誦;15;;recitation
+誦;1;愛誦;7;アイショウ;"love of reading"
+誨;1;教誨;54;キョウカイ;counselling
+諛;1;阿諛;4;アユ;flattery
+諡;1;諡号;2;シゴウ;"posthumous name"
+諱;1;忌諱;1;キキ;displeasure
+諷;1;諷詠;56;フウエイ;"poetic composition"
+諷;1;諷刺;23;;satire
+謐;1;静謐;83;セイヒツ;peacefulness
+謐;1;静謐;24;セイヒツ;peacefulness
+謔;1;諧謔;80;カイギャク;joke
+謗;1;誹謗;209;ヒボウ;slander
+謗;1;讒謗;4;ザンボウ;libel
+謦;1;謦咳;4;ケイガイ;cough
+謨;1;護謨;3;;gum
+謫;1;流謫;9;ルタク;exile
+謳;1;謳歌;231;オウカ;rejoicing
+譴;1;譴責;6;ケンセキ;reprimand
+譴;1;天譴;3;テンケン;"divine punishment"
+讃;1;讃歌;160;;"song of praise"
+讃;1;和讃;11;ワサン;"hymns of praise in Japanese"
+讐;1;復讐;606;フクシュウ;revenge
+讐;1;恩讐;34;オンシュウ;"love and hate"
+讒;1;讒言;7;ザンゲン;"false charge"
+讒;1;讒謗;4;ザンボウ;libel
+谿;1;谿谷;1;;valley
+豁;1;開豁;1;カイカツ;open
+豁;1;豁然;1;カツゼン;"spread out"
+貂;1;黒貂;5;;sable
+貶;1;褒貶;45;ホウヘン;"praise and censure"
+貽;1;貽貝;1;;"Korean mussel"
+賎;1;貴賎;2;キセン;"high and low"
+賽;1;賽銭;56;サイセン;"monetary offering"
+贄;1;生贄;6;;sacrifice
+贅;1;贅沢;222;ゼイタク;luxury
+贅;1;贅肉;20;ゼイニク;"excess flesh"
+贔;1;贔屓;47;;favour
+贔;1;贔屓;9;;"liking something"
+贖;1;贖罪;117;ショクザイ;atonement
+趾;1;母趾;10;;"big toe"
+跋;1;跋扈;73;バッコ;rampancy
+跋;1;跋文;15;バツブン;afterword
+跌;1;蹉跌;18;サテツ;failure
+跛;1;跛行;16;ハコウ;limp
+跫;1;跫音;7;キョウオン;"sound of footsteps"
+踉;1;蹌踉;3;ソウロウ;tottering
+踞;1;蹲踞;5;ソンキョ;crouching
+踞;1;蟠踞;4;;"settling in a coiled shape"
+蹂;1;蹂躙;48;ジュウリン;"trampling down"
+蹈;1;蹈鞴;1;;"foot-operated bellows"
+蹉;1;蹉跌;18;サテツ;failure
+蹌;1;蹌踉;3;ソウロウ;tottering
+蹙;1;顰蹙;17;ヒンシュク;"frowning on"
+蹲;1;蹲踞;5;ソンキョ;crouching
+蹶;1;蹶起;2;;"jump to one's feet"
+躁;1;狂躁;11;;mania
+躁;1;躁鬱;9;;manic-depressive
+躅;1;躑躅;12;ツツジ;azalea
+躇;1;躊躇;220;チュウチョ;hesitation
+躊;1;躊躇;220;チュウチョ;hesitation
+躑;1;躑躅;12;ツツジ;azalea
+躙;1;蹂躙;48;ジュウリン;"trampling down"
+躾;1;不躾;3;ブシツケ;ill-breeding
+躾;1;不躾;1;ブシツケ;ill-breeding
+軋;1;軋轢;58;アツレキ;friction
+輌;1;車輌;8;;"rolling stock"
+輓;1;輓馬;10;バンバ;"draft horse"
+輛;1;車輛;63;;"rolling stock"
+輦;1;鳳輦;4;ホウレン;"imperial carriage"
+輳;1;輻輳;20;;congestion
+輻;1;輻輳;20;;congestion
+輻;1;輻射;9;フクシャ;radiation
+輾;1;輾転;2;;"rolling about"
+轆;1;轆轤;6;;lathe
+轢;1;軋轢;58;アツレキ;friction
+轢;1;轢死;2;レキシ;"death by being run over"
+轤;1;轆轤;6;;lathe
+辜;1;無辜;66;ムコ;innocent
+辟;1;辟易;73;ヘキエキ;"to wince"
+辟;1;復辟;1;フクヘキ;restoration
+辨;1;辨慶;1;ベンケイ;"strong person"
+逅;1;邂逅;65;カイコウ;"chance meeting"
+逍;1;逍遥;70;ショウヨウ;ramble
+逞;1;不逞;11;フテイ;insubordination
+逞;1;不逞;3;フテイ;insubordination
+逡;1;逡巡;106;;hesitation
+邀;1;邀撃;2;ヨウゲキ;ambush
+邁;1;邁進;67;マイシン;"pushing forward"
+邁;1;高邁;9;コウマイ;noble
+邂;1;邂逅;65;カイコウ;"chance meeting"
+邏;1;邏卒;5;ラソツ;"serviceman on patrol"
+邏;1;警邏;1;ケイラ;patrol
+邯;1;邯鄲;38;カンタン;"tree cricket"
+鄙;1;辺鄙;5;ヘンピ;"hard to reach place"
+鄙;1;辺鄙;1;ヘンピ;"hard to reach place"
+鄲;1;邯鄲;38;カンタン;"tree cricket"
+酊;1;酩酊;84;メイテイ;drunkenness
+酩;1;酩酊;84;メイテイ;drunkenness
+醂;1;味醂;2;;mirin
+鈞;1;千鈞;3;センキン;"1000 pounds"
+鈿;1;螺鈿;50;ラデン;mother-of-pearl
+鉈;1;大鉈;1;オオナタ;"big hatchet"
+鉞;1;斧鉞;3;フエツ;axe
+鍮;1;真鍮;12;シンチュウ;brass
+鍼;1;鍼灸;169;シンキュウ;"acupuncture and moxibustion"
+鏃;1;石鏃;5;セキゾク;"flint arrowhead"
+鏤;1;鏤骨;1;;"painstaking efforts"
+鑠;1;矍鑠;2;カクシャク;vigorous
+鑰;1;秘鑰;2;ヒヤク;"secret key"
+鑼;1;銅鑼;42;ドラ;gong
+鑽;1;研鑽;121;ケンサン;"diligent study"
+鑿;1;開鑿;1;;excavation
+閨;1;空閨;1;クウケイ;"a lonely, spouseless life"
+闊;1;闊達;120;カッタツ;openhearted
+闊;1;闊歩;104;カッポ;striding
+闖;1;闖入;7;チンニュウ;intrusion
+闡;1;闡明;4;センメイ;"make clear"
+闢;1;開闢;7;カイビャク;beginnings
+陋;1;固陋;9;コロウ;"stubbornly sticking to old ways"
+陋;1;固陋;2;コロウ;"stubbornly sticking to old ways"
+隕;1;隕石;152;;meteorite
+隘;1;隘路;30;アイロ;defile
+隘;1;狭隘;8;キョウアイ;narrow
+雉;1;雉鳩;5;;"Oriental turtle dove"
+雹;1;降雹;1;コウヒョウ;hailstorm
+霆;1;雷霆;3;ライテイ;thunder
+霹;1;霹靂;5;ヘキレキ;thunder
+靂;1;霹靂;5;ヘキレキ;thunder
+靄;1;朝靄;2;;"morning mist"
+靡;1;風靡;254;フウビ;overwhelming
+靡;1;淫靡;5;インビ;impurity
+靱;1;靱帯;485;ジンタイ;ligament
+靱;1;強靱;114;;tough
+鞋;1;草鞋;28;ワラジ;"straw sandals"
+鞏;1;鞏固;1;;firmness
+鞜;1;青鞜;42;セイトウ;bluestocking
+鞴;1;蹈鞴;1;;"foot-operated bellows"
+韜;1;韜晦;16;トウカイ;hidden
+頚;1;頚椎;1;ケイツイ;"cervical vertebrae"
+頽;1;頽廃;23;;degeneration
+頽;1;衰頽;1;;decline
+顆;1;顆粒;111;カリュウ;granule
+顰;1;顰蹙;17;ヒンシュク;"frowning on"
+颯;1;颯爽;57;サッソウ;gallant
+颯;1;颯々;6;サッサツ;rustling
+颱;1;颱風;32;;typhoon
+颶;1;颶風;8;グフウ;tornado
+飄;1;飄々;102;ヒョウヒョウ;whistling
+飄;1;飄逸;15;ヒョウイツ;easygoing
+飩;1;饂飩;5;;udon
+餃;1;餃子;437;;"pot sticker"
+餉;1;夕餉;22;;"evening meal"
+餉;1;朝餉;4;アサゲ;breakfast
+餞;1;餞別;59;;"farewell gift"
+饂;1;饂飩;5;;udon
+饅;1;饅頭;106;マンジュウ;manjuu
+饉;1;飢饉;172;キキン;famine
+饌;1;神饌;3;シンセン;"food and alcohol offering to the gods"
+饒;1;饒舌;70;ジョウゼツ;garrulity
+饒;1;豊饒;61;ホウジョウ;fertility
+馗;1;鍾馗;22;ショウキ;"Shoki the Plague-Queller"
+馘;1;馘首;1;カクシュ;beheading
+馥;1;馥郁;9;フクイク;fragrant
+駑;1;駑馬;2;ドバ;hack
+駘;1;駘蕩;17;タイトウ;"peaceful and calm"
+駝;1;駱駝;37;;camel
+駝;1;駝鳥;4;;ostrich
+駱;1;駱駝;37;;camel
+駸;1;駸々;2;シンシン;"proceeding quickly"
+駻;1;駻馬;10;;bronco
+騾;1;騾馬;1;;mule
+驀;1;驀進;36;バクシン;dash
+驕;1;驕慢;8;キョウマン;arrogance
+驕;1;驕奢;2;キョウシャ;luxury
+驟;1;驟雨;11;シュウウ;"sudden shower"
+驢;1;驢馬;11;;donkey
+驥;1;驥尾;1;キビ;leader
+骰;1;骰子;3;;dice
+髀;1;髀肉;1;ヒニク;"round meat"
+髏;1;髑髏;31;;skull
+髑;1;髑髏;31;;skull
+髣;1;髣髴;10;;"close resemblance"
+髴;1;髣髴;10;;"close resemblance"
+髷;1;丸髷;7;マルマゲ;"traditional married woman's hair style, with an oval chignon on top"
+髷;1;髷物;1;マゲモノ;"period play"
+鬘;1;華鬘;1;ケマン;"Buddhist decoration engraved with various motifs, often made from gilt copper "
+鬚;1;鯨鬚;1;クジラヒゲ;whalebone
+鬨;1;勝鬨;32;カチドキ;"shout of victory"
+魃;1;旱魃;9;;drought
+魄;1;気魄;11;;spirit
+魄;1;落魄;7;ラクハク;"being reduced to poverty"
+魍;1;魍魎;8;モウリョウ;"all kinds of spirits and goblins"
+魎;1;魍魎;8;モウリョウ;"all kinds of spirits and goblins"
+鮟;1;鮟鱇;8;;goosefish
+鮨;1;熟鮨;2;;narezushi
+鰌;1;泥鰌;3;;loach
+鱇;1;鮟鱇;8;;goosefish
+鴃;1;鴃舌;3;ゲキゼツ;"barbarian jabbering"
+鴟;1;鴟尾;23;シビ;"ornamental ridge-end tile"
+鵑;1;杜鵑;4;;"lesser cuckoo"
+鵞;1;鵞鳥;3;;goose
+鹵;1;鹵獲;1;ロカク;capture
+鹹;1;鹹水;3;カンスイ;"brackish water"
+麝;1;麝香;6;;musk
+麩;1;生麩;3;ナマフ;"wheat starch"
+麾;1;麾下;2;キカ;"under the command"
+黎;1;黎明;328;レイメイ;daybreak
+黴;1;黴雨;3;;"rainy season"
+黴;1;黴菌;2;カビキン;germ
+鼈;1;鼈甲;3;ベッコウ;tortoiseshell
+鼬;1;鎌鼬;11;;", thought to be a trio of weasels who appear in a whirlwind to cut their victim"
+鼾;1;高鼾;1;タカイビキ;"loud snoring"
+齟;1;齟齬;109;ソゴ;inconsistency
+齣;1;一齣;3;ヒトコマ;"one scene"
+齬;1;齟齬;109;ソゴ;inconsistency

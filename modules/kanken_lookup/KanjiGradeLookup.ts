@@ -20,9 +20,20 @@ export class KanjiGradeLookup {
 
   }
 
-  get(kanji: number): Grade | undefined {
+  get(kanji: number | string): Grade | undefined {
 
-    return this.map.get(kanji)
+    if (typeof kanji === 'string') {
+      return this.map.get(kanji.charCodeAt(0))
+    }
+    else if (typeof kanji === 'number') {
+      return this.map.get(kanji)
+    }
+    else {
+      return undefined
+    }
+
+
+
   }
 
 }

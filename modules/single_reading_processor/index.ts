@@ -1,16 +1,18 @@
 import fs from 'node:fs'
-// get all the kanji with a single reading
-
+// import { isKatakana } from './classifier'
 
 const joyo_enriched = fs.readFileSync('modules/kanji_database_processor/joyo_enriched.csv', 'utf-8')
 
-type joyo = {
-  grade: number,
-  kanji: string,
-  readings: number,
+
+type single_reading_kanji = {
+  grade: number
+  kanji: string
+  _on: number
+  kun: number
+  readings: string
 }
 
-const single_reading_kanji =
+const single_reading_kanji: Array<single_reading_kanji> =
   joyo_enriched
     .split("\n")
     .map(line => {
@@ -19,6 +21,7 @@ const single_reading_kanji =
 
       let grade: number | undefined
       const kanji = fields[1]
+      const readings = fields[2]
       const reading_on = Number(fields[3])
       const reading_kun = Number(fields[4])
 
@@ -28,109 +31,79 @@ const single_reading_kanji =
         grade = undefined
       }
 
-      return [grade, kanji, reading_on, reading_kun]
+      return [grade, kanji, reading_on, reading_kun, readings]
     })
     .filter(row => row[0] !== undefined)
-    // .filter(row => row[2] === 1 && row[3] === 0)
-    .map(row => { return { grade: row[0] as number, kanji: row[1] as string, readings: row[2] as number } })
-    .filter(row => row.grade >= 9)
-    .sort((a, b) => b.grade - a.grade)
-// .forEach(row => console.log(row))
-
-const tskuba_corpus = fs.readFileSync('data/csv_raw/corpus.csv', 'utf-8')
-
-type tskuba_row = {
-  word: string,
-  reading: string,
-  type: string,
-}
-
-const tskuba_words =
-  tskuba_corpus
-    .split("\n")
-    .map(line => line.split(","))
-    .map(array => {
-
-      // const rank = array[3] === undefined ? 0 : Number(array[3].trim().replaceAll(",", ""))
-
-      // if (Number.isNaN(rank)) {
-      //   console.log(array)
-      // }
-
+    .map<single_reading_kanji>(row => {
       return {
-        word: array[0],
-        reading: array[2],
-        type: array[1]
+        grade: row[0] as number,
+        kanji: row[1] as string,
+        _on: row[2] as number,
+        kun: row[3] as number,
+        readings: row[4] as string
       }
     })
-    .filter(word => word.type)
-
-// for (const single in single_reading_kanji) {
+    .sort((a, b) => b.grade - a.grade)
 
 
-
-type card_details = {
-  kanji: string,
-  word: string,
-  reading: string,
-  grade: number,
+type normal_form = {
+  grade: number;
+  kanji: string;
+  word: string;
+  reading: string;
 }
 
-const cards = new Array<card_details>()
+let forms: Array<normal_form> = []
 
-single_reading_kanji.forEach((single_reading) => {
-  const slice =
-    tskuba_words
-      .filter(tskuba_word => tskuba_word.word.includes(single_reading.kanji) && tskuba_word.word.length > 1)
-      .map(tskuba_word => {
-        return {
-          kanji: single_reading.kanji, word: tskuba_word.word, reading: tskuba_word.reading, grade: single_reading.grade
-        }
-      })
-      .slice(0, 5)
-  // console.log(slice)
-  slice
-    .forEach(word => cards.push(word))
-})
+const pulse = (single: single_reading_kanji): void => {
 
-const m: { [key: string]: boolean } = {}
+  single.readings.split('、').forEach(reading => {
 
-cards.forEach(card => {
-  if (m[card.word]) {
-    console.log(card)
-  } else {
-    m[card.word] = true
-  }
-})
+    if (reading.includes('-')) {
+      reading.indexOf('-')
 
-console.log(cards.length)
-console.log(Object.keys(m).length)
+      const word = single.kanji + reading.substring(reading.indexOf('-') + 1)
 
-const makeCardTemplate = (input: card_details) => {
+      const normal_form: normal_form = {
+        grade: single.grade,
+        kanji: single.kanji,
+        word,
+        reading
+      }
+
+      forms.push(normal_form)
+    }
+
+  })
+
+}
+
+single_reading_kanji
+  .filter(card => card.grade === 7)
+  .forEach(pulse)
+
+const makeCardTemplate = (input: normal_form) => {
 
   const _word = `<a href="https://jisho.org/search/${input.word}">言葉</a>`
 
-  const kanji = `<a href="https://jisho.org/search/${input.word}%23kanji">漢字</a>`
+  const kanji = `<a href="https://jisho.org/search/${input.kanji}%23kanji">漢字</a>`
 
   const picture = `<a href="https://www.google.com/search?tbm=isch&q=${input.word}">写真</a>`
 
-  const sentance = `<a href="https://ac27182.github.io/sentances/compiled/sentances?query=${input.word}">文</a>`
-
   const grade = `<a>${input.grade}級</a>`
 
-  const highlight = `<span style="color:coral;"">${input.kanji}</span>`
+  const highlight = `<span style="color:coral;">${input.kanji}</span>`
 
   const front_template = input.word.replace(input.kanji, highlight)
 
-  const template = `<span>${input.reading}</span><br>${kanji}・${_word}・${picture}・${sentance}<br>${grade}`
+  const template = `<span>${input.reading}</span><br>${kanji}・${_word}・${picture}<br>${grade}`
 
-  return [front_template, template]
+  return [front_template, template].join(',')
 }
 
 fs.writeFileSync(
-  `data/csv_anki/one_reading.csv`,
-  cards
+  'data/csv_anki_new/grade_7_okurigana.csv',
+  forms
     .map(makeCardTemplate)
-    .map(row => row.join(","))
-    .join("\n")
+    .join('\n')
 )
