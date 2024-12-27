@@ -18,7 +18,8 @@
     "execute:tskuba_lookup_processor": "ts-node --esm modules/tskuba_lookup_processor/index.ts",
     "execute:core": "ts-node --esm modules/core/index.ts",
     "execute:compound_processor": "ts-node --esm modules/compound_processor",
-    "execute:srs_processor": "ts-node --esm modules/srs_processor/index.ts"
+    "execute:srs_processor": "ts-node --esm modules/srs_processor/index.ts",
+    "execute:jmdict_processor": "ts-node modules/jmdict_processor/index.ts"
   },
   "repository": {
     "type": "git",
