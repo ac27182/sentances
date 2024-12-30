@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+
+
+  text-decoration: none;
+  color: black;
+}
+
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 100px;
+
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+@keyframes scrollAnimation {}
+
+.scroll-content {
+  display: flex;
+  flex-direction: column;
+  border: black solid 1px;
+  gap: 70px;
+  font-size: 70px;
+  /* overflow: hidden; */
+}
+
+.vertical-writing {
+  position: relative;
+  writing-mode: vertical-rl;
+}
+
+
+ul {
+  list-style-type: disc;
+  font-size: 50px;
+}
