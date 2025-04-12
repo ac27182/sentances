@@ -5,6 +5,8 @@
 
   text-decoration: none;
   color: black;
+  font-size: 70px;
+
 }
 
 
@@ -17,6 +19,18 @@
   position: relative;
 }
 
+.list-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.list-container>:hover {
+  background-color: #FEC8D8;
+}
+
 @keyframes scrollAnimation {}
 
 .scroll-content {
@@ -24,8 +38,6 @@
   flex-direction: column;
   border: black solid 1px;
   gap: 70px;
-  font-size: 70px;
-  /* overflow: hidden; */
 }
 
 .vertical-writing {

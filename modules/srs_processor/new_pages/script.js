@@ -73,6 +73,7 @@ const alignSlider = () => {
   const reviews = JSON.parse(localStorage.getItem(REVIEW))
 
   reviews
+    .map(word => word.substring(2))
     .map(word => `<div class="vertical-writing">${word}</div>`)
     .forEach(template => scroller.insertAdjacentHTML('afterbegin',template))
 
@@ -85,9 +86,6 @@ const alignSlider = () => {
   items.forEach(item => {
     totalHeight = totalHeight + item.offsetHeight + 70
   })
-
-  console.log(totalHeight)
-
 
   const rule = `
     @keyframes scrollAnimation {
@@ -110,8 +108,6 @@ const alignSlider = () => {
   style.sheet.insertRule(rule)
   style.sheet.insertRule(writingRule)
 
-
-
 }
 
 const originalUrlSearchParams = new URLSearchParams(window.location.search);
@@ -125,13 +121,14 @@ let offset = 0
 document.addEventListener('DOMContentLoaded',() => load())
 document.addEventListener('DOMContentLoaded',() => alignSlider())
 
-const pushReview = (word) => {
+const pushReview = (kanji,word) => {
   /**
    * @type {string[]}
    */
   const reviews = JSON.parse(localStorage.getItem(REVIEW))
-  if (!reviews.includes(word)) {
-    reviews.unshift(word)
+  console.log(reviews)
+  if (!reviews.includes(`${kanji}:${word}`)) {
+    reviews.unshift(`${kanji}:${word}`)
     localStorage.setItem(REVIEW,JSON.stringify(reviews))
   }
 }
@@ -159,7 +156,7 @@ const load = () => {
       /**
        * @type {string[]}
        */
-      const words = JSON.parse(localStorage.getItem(`review`))
+      const words = JSON.parse(localStorage.getItem(REVIEW))
 
       return words
     }
@@ -189,11 +186,13 @@ const load = () => {
     // console.log(words)
     // console.log(filtered)
 
+    console.log(words)
+
 
     filtered
       .reverse()
       .map(({ word,reading,translation,kanji }) => `
-          <div onclick="pushReview('${word}')" class="cell">
+          <div onclick="pushReview('${kanji}','${word}')" class="cell">
           <a href="https://jisho.org/search/${word}" target="_blank" rel="noopener noreferrer">
             <div class="word">
               ${word.replace(kanji,`<span class="kanji">${kanji}</span>`)}

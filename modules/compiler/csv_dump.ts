@@ -21,3 +21,4 @@ export const csv_dump = ({ name, sheet_id }: { name: string, sheet_id: string })
     .then(rows => rows.map(row => row.join(",")).join("\n"))
     .then(csv => writeFileSync(`data/csv_raw/${name}.csv`, csv))
 }
+

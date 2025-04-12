@@ -19,7 +19,11 @@
     "execute:core": "ts-node --esm modules/core/index.ts",
     "execute:compound_processor": "ts-node --esm modules/compound_processor",
     "execute:srs_processor": "ts-node --esm modules/srs_processor/index.ts",
-    "execute:jmdict_processor": "ts-node modules/jmdict_processor/index.ts"
+    "execute:jmdict_processor": "ts-node modules/jmdict_processor/index.ts",
+    "execute:vocab_processor": "ts-node modules/vocab_processor/index.ts",
+    "execute:vocab_card_processor": "ts-node modules/vocab_card_processor/index.ts",
+    "execute:unique_processor": "ts-node modules/unique_processor/index.ts",
+    "execute:iknow_processor": "ts-node modules/iknow_processor/index.ts"
   },
   "repository": {
     "type": "git",
