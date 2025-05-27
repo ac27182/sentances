@@ -5,25 +5,6 @@
   "type": "commonjs",
   "main": "generator.js",
   "scripts": {
-    "test": "vitest -- modules/index.spec.ts",
-    "execute:index": "ts-node --esm modules/index.ts",
-    "execute:processor:aozora": "ts-node --esm modules/aozora_processor/processor.ts",
-    "execute:csv_dump": "ts-node --esm modules/compiler/execute_csv_dump.ts",
-    "execute:anki_compile": "ts-node --esm modules/compiler/execute_anki_compile.ts",
-    "execute:html_compile": "ts-node --esm modules/compiler/execute_html_compile.ts",
-    "execute:joyo_reading_enricher": "ts-node --esm modules/kanji_database_processor/enricher.ts",
-    "execute:corpus_handler": "ts-node --esm modules/corpus_processor/index.ts",
-    "execute:tanaka": "ts-node --esm modules/tanaka_corpus_processor/index.ts",
-    "execute:single_reading_processor": "ts-node --esm modules/single_reading_processor/index.ts",
-    "execute:tskuba_lookup_processor": "ts-node --esm modules/tskuba_lookup_processor/index.ts",
-    "execute:core": "ts-node --esm modules/core/index.ts",
-    "execute:compound_processor": "ts-node --esm modules/compound_processor",
-    "execute:srs_processor": "ts-node --esm modules/srs_processor/index.ts",
-    "execute:jmdict_processor": "ts-node modules/jmdict_processor/index.ts",
-    "execute:vocab_processor": "ts-node modules/vocab_processor/index.ts",
-    "execute:vocab_card_processor": "ts-node modules/vocab_card_processor/index.ts",
-    "execute:unique_processor": "ts-node modules/unique_processor/index.ts",
-    "execute:iknow_processor": "ts-node modules/iknow_processor/index.ts",
     "execute:kanshudo_data_processor": "ts-node modules/kanshudo_data_processor/index.ts"
   },
   "repository": {
@@ -37,11 +18,6 @@
   },
   "homepage": "https://github.com/ac27182/sentances#readme",
   "dependencies": {
-    "@supercharge/promise-pool": "^3.1.1",
-    "axios": "^1.6.7",
-    "googleapis": "^132.0.0",
-    "libxmljs": "^1.0.11",
-    "ts-node": "^10.9.2",
-    "vitest": "^1.3.1"
+    "ts-node": "^10.9.2"
   }
 }
