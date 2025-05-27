@@ -23,7 +23,8 @@
     "execute:vocab_processor": "ts-node modules/vocab_processor/index.ts",
     "execute:vocab_card_processor": "ts-node modules/vocab_card_processor/index.ts",
     "execute:unique_processor": "ts-node modules/unique_processor/index.ts",
-    "execute:iknow_processor": "ts-node modules/iknow_processor/index.ts"
+    "execute:iknow_processor": "ts-node modules/iknow_processor/index.ts",
+    "execute:kanshudo_data_processor": "ts-node modules/kanshudo_data_processor/index.ts"
   },
   "repository": {
     "type": "git",
