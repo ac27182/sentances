@@ -57,4 +57,12 @@ order by
   `Kanji`
 ```
 
+# Querying Anki
+
+```
+(deck:master\_deck) AND (tag:KUNCORE) AND (is:new OR is:learn OR is:due)
+
+(deck:upload\_deck) (tag:N3) (tag:N3_1001_1100)
+```
+
 - https://www.edrdg.org/wiki/index.php/Tanaka_Corpus#Downloads

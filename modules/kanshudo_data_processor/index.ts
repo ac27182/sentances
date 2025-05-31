@@ -10,6 +10,10 @@ const fileMappings: Map<string, string> = new Map()
 
 fileMappings.set("japanese_prefectures", "PREFECTURES")
 
+fileMappings.set("tokyo_wards", "TOKYO_WARDS")
+
+fileMappings.set("koto_districts", "KOTO_DISTRICTS")
+
 fileMappings.set("N3", "N3")
 
 fileMappings.set("kuncore", "KUNCORE")
@@ -83,10 +87,20 @@ pairs
 
 const cards: Array<string> = new Array()
 
+const makeBackCard = (word: string, type: "jisho_search" | "jisho_word") => {
+  switch (type) {
+    case "jisho_search":
+      return `<iframe src="https://jisho.org/search/${word}#page_container" sandbox="allow-forms">`
+
+    case "jisho_word":
+      return `<iframe src="https://jisho.org/word/${word}" sandbox="allow-forms">`
+  }
+}
+
 cardMap
   .forEach((tags, word) => {
 
-    const backcard = `<iframe src="https://jisho.org/word/${word}" sandbox="allow-forms">`
+    const backcard = makeBackCard(word, "jisho_search")
 
     const tagsArray = [...tags]
 
