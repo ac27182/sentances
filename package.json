@@ -6,6 +6,7 @@
   "main": "generator.js",
   "scripts": {
     "execute:kanshudo_data_processor": "ts-node modules/kanshudo_data_processor/index.ts",
+    "execute:anki_processor": "ts-node modules/kanshudo_data_processor/index.v2.ts",
     "execute:scrape": "ts-node modules/kanshudo_data_processor/scrape.ts"
   },
   "repository": {
