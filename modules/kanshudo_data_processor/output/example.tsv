@@ -1,8 +1,0 @@
-#html:true
-#separator:Comma
-#columns:Notetype,Deck,Tags,Front,Back
-#notetype column:1
-#deck column:2
-#tags column:3
-phonetic,test::alpha,tag_alpha,example_1_front,example_1_back
-phonetic,test::beta,tag_beta,example_2_front,example_2_back
