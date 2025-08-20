@@ -12,6 +12,8 @@ const charFilter = (hex: number, lowerBound: number, upperBound: number): boolea
   }
 }
 
+const uniqueCounter = new Set<string>()
+
 const isKanji = (char: number): boolean =>
   charFilter(char, KANJI_LOWER_BOUND, KANJI_UPPER_BOUND)
 // COPIED FROM KANKEN LOOKUP
@@ -32,6 +34,11 @@ const headers = [
 
 type card_type = "phonetic" | "basic"
 
+const lookup =
+  new Map(readFileSync('modules/kanshudo_data_processor/datasets/lookup.txt', 'utf8')
+    .split('\n')
+    .map(row => row.split('\t') as [string, string]))
+
 // filename scheme
 // <deck>.<batch>.tsv
 //  JLPT_BASIC
@@ -51,7 +58,19 @@ const makeBackCard = (word: string, reading: string, card_type: card_type): stri
         `<div>`,
         `<div style="font-size:90px">${word}</div>`,
         `<div style="font-size:180px">${reading}</div>`,
-        `<div style="font-size:90px"><a href="https://www.kanshudo.com/search?q=${word}">${word}</a></div>`,
+        `<div style="font-size:90px">${word
+          .split('')
+          .map(char => {
+            const code = lookup.get(char)
+
+            if (code === undefined) {
+              return char
+            } else {
+              return `<a href="https://www.kanjipedia.jp/kanji/${code}#contentsWrapper">${char}</a>`
+            }
+          })
+          .join('')
+        }</div>`,
         `</div>`
       ].join("")
   }
@@ -102,6 +121,10 @@ const data =
         // build companion phonetics deck
         if (deck === "N3" && isContainsKanji) {
 
+          word
+            .split('')
+            .forEach(char => isKanji(char.charCodeAt(0)) && uniqueCounter.add(char))
+
           const phoneticdeck: string = ["JLPT_PHONETIC", deck, batch].join("::")
 
           const phonetic = ["phonetic", phoneticdeck, "", word, makeBackCard(word, reading.split(" ")[1], "phonetic")].join(SEPARATOR)
@@ -120,7 +143,12 @@ const data =
           rows.push(phonetic)
         }
 
-        const places = ["japanese_prefectures", "koto_districts", "tokyo_wards"]
+        const places = [
+          "japanese_prefectures",
+          "koto_districts",
+          "tokyo_wards",
+          "yurakucho_line_stations",
+        ]
 
         if (places.includes(deck)) {
           const phoneticdeck: string = ["places", deck].join("::")
@@ -135,18 +163,20 @@ const data =
         return rows
       })
 
-      // console.log(`PROCESSING:COMPLETE:${filename}`)
-
       return result
     })
 
 const output = [...headers, ...data].join("\n")
+
+console.log(uniqueCounter.size)
+
 
 writeFileSync(
   `modules/kanshudo_data_processor/output/master_deck.txt`,
   output,
   'utf-8'
 )
+
 
 
 
