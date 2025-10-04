@@ -1,0 +1,30 @@
+# dataset
+- https://github.com/jamsinclair/open-anki-jlpt-decks/blob/main/src/n3.csv
+
+# Essential Hypernyms
+
+## Places And Objects
+- BUILDINGS AND STRUCTURES
+- PLACES AND LOCATIONS
+- ROOMS
+- TOOLS AND UTENSILS
+- VEHICLES
+- COLOURS
+
+## LIVING THINGS
+- ANIMALS
+- PLANTS
+- PEOPLE AND PERSONS
+
+## CONCEPTS AND TIME
+- TIME
+- FEELINGS AND EMOTIONS
+- ACTIONS AND DEEDS
+
+## FOOD AND DAILY LIFE
+- FOOD
+- DRINKS
+- ILLNESS AND SICKNESS
+- WEATHER
+
+# Semantic Maps
