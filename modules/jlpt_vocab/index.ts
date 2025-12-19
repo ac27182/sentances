@@ -40,7 +40,7 @@ vocab
     .map(row => {
         const [kanji, hiragana, english, tag, guid] = row
 
-        const front = `<div class="kanji">${kanji}</div><div class="hiragana">${hiragana}</div>`
+        const front = `<div class="hiragana">${hiragana}</div><div class="kanji">${kanji}</div>`
 
         const back = `<div class="english">${english}</div>`
 
