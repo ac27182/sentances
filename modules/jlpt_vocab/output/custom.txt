@@ -1,0 +1,67 @@
+#html:true
+#separator:Pipe
+#columns:Notetype|Deck|Front|Back
+#notetype column:1
+#deck column:2
+Basic (and reversed card)|custom|<div class="hiragana">かまぼこ</div><a href="https://jisho.org/search/かまぼこ"><div class="kanji">かまぼこ</div></a>|<div class="english">kamaboko</div>
+Basic (and reversed card)|custom|<div class="hiragana">でんき</div><a href="https://jisho.org/search/伝記"><div class="kanji">伝記</div></a>|<div class="english">autobiography</div>
+Basic (and reversed card)|custom|<div class="hiragana">でんきさっか</div><a href="https://jisho.org/search/伝記作者"><div class="kanji">伝記作者</div></a>|<div class="english">autobiographer</div>
+Basic (and reversed card)|custom|<div class="hiragana">がくしゅうまんが</div><a href="https://jisho.org/search/学習漫画"><div class="kanji">学習漫画</div></a>|<div class="english">educational manga</div>
+Basic (and reversed card)|custom|<div class="hiragana">しゅうえい</div><a href="https://jisho.org/search/集英"><div class="kanji">集英</div></a>|<div class="english">gathering of talented people</div>
+Basic (and reversed card)|custom|<div class="hiragana">きょうゆう</div><a href="https://jisho.org/search/共有"><div class="kanji">共有</div></a>|<div class="english">share</div>
+Basic (and reversed card)|custom|<div class="hiragana">じょりゅうさっか</div><a href="https://jisho.org/search/女流作家"><div class="kanji">女流作家</div></a>|<div class="english">female writer</div>
+Basic (and reversed card)|custom|<div class="hiragana">しょうひんしょうさい</div><a href="https://jisho.org/search/商品詳細"><div class="kanji">商品詳細</div></a>|<div class="english">Product details</div>
+Basic (and reversed card)|custom|<div class="hiragana">ぜんかんりすと</div><a href="https://jisho.org/search/全巻リスト"><div class="kanji">全巻リスト</div></a>|<div class="english">complete set of (volumes)</div>
+Basic (and reversed card)|custom|<div class="hiragana">かんまつ</div><a href="https://jisho.org/search/巻末"><div class="kanji">巻末</div></a>|<div class="english">End of book</div>
+Basic (and reversed card)|custom|<div class="hiragana">かんとう</div><a href="https://jisho.org/search/巻頭"><div class="kanji">巻頭</div></a>|<div class="english">Front page</div>
+Basic (and reversed card)|custom|<div class="hiragana">かんび</div><a href="https://jisho.org/search/巻尾"><div class="kanji">巻尾</div></a>|<div class="english">end of a book</div>
+Basic (and reversed card)|custom|<div class="hiragana">じかん</div><a href="https://jisho.org/search/次巻"><div class="kanji">次巻</div></a>|<div class="english">Next volume</div>
+Basic (and reversed card)|custom|<div class="hiragana">かみばん</div><a href="https://jisho.org/search/紙版"><div class="kanji">紙版</div></a>|<div class="english">paper version</div>
+Basic (and reversed card)|custom|<div class="hiragana">はつばい</div><a href="https://jisho.org/search/発売"><div class="kanji">発売</div></a>|<div class="english">release</div>
+Basic (and reversed card)|custom|<div class="hiragana">きくばん</div><a href="https://jisho.org/search/菊判"><div class="kanji">菊判</div></a>|<div class="english">kikuban (book size)</div>
+Basic (and reversed card)|custom|<div class="hiragana">しんじゅくぎょえんまえ</div><a href="https://jisho.org/search/新宿御苑前"><div class="kanji">新宿御苑前</div></a>|<div class="english">Shinjuku Gyoen</div>
+Basic (and reversed card)|custom|<div class="hiragana">かんしゅう</div><a href="https://jisho.org/search/監修"><div class="kanji">監修</div></a>|<div class="english">editorial supervision</div>
+Basic (and reversed card)|custom|<div class="hiragana">りつあん</div><a href="https://jisho.org/search/立案"><div class="kanji">立案</div></a>|<div class="english">planning</div>
+Basic (and reversed card)|custom|<div class="hiragana">こうせい</div><a href="https://jisho.org/search/構成"><div class="kanji">構成</div></a>|<div class="english">composition</div>
+Basic (and reversed card)|custom|<div class="hiragana">じゅうりょうへんせい</div><a href="https://jisho.org/search/十両編成"><div class="kanji">十両編成</div></a>|<div class="english">10 car formation</div>
+Basic (and reversed card)|custom|<div class="hiragana">きゅうてい</div><a href="https://jisho.org/search/宮廷"><div class="kanji">宮廷</div></a>|<div class="english">imperial court</div>
+Basic (and reversed card)|custom|<div class="hiragana">ぶたい</div><a href="https://jisho.org/search/舞台"><div class="kanji">舞台</div></a>|<div class="english">stage; setting of a story</div>
+Basic (and reversed card)|custom|<div class="hiragana">ぶんがくしゃ</div><a href="https://jisho.org/search/文学者"><div class="kanji">文学者</div></a>|<div class="english">literary person</div>
+Basic (and reversed card)|custom|<div class="hiragana">いっしょう</div><a href="https://jisho.org/search/一生"><div class="kanji">一生</div></a>|<div class="english">lifetime; the greatest of ones life</div>
+Basic (and reversed card)|custom|<div class="hiragana">きぞく</div><a href="https://jisho.org/search/貴族"><div class="kanji">貴族</div></a>|<div class="english">The nobility</div>
+Basic (and reversed card)|custom|<div class="hiragana">そうりょうむりょう</div><a href="https://jisho.org/search/送料無料"><div class="kanji">送料無料</div></a>|<div class="english">free shipping</div>
+Basic (and reversed card)|custom|<div class="hiragana">かぜとゆき</div><a href="https://jisho.org/search/風と雪"><div class="kanji">風と雪</div></a>|<div class="english">wind and rain</div>
+Basic (and reversed card)|custom|<div class="hiragana">おおばんやき</div><a href="https://jisho.org/search/大判焼き"><div class="kanji">大判焼き</div></a>|<div class="english">ooban yaki</div>
+Basic (and reversed card)|custom|<div class="hiragana">きどく</div><a href="https://jisho.org/search/既読"><div class="kanji">既読</div></a>|<div class="english">already read; previously read</div>
+Basic (and reversed card)|custom|<div class="hiragana">みどく</div><a href="https://jisho.org/search/未読"><div class="kanji">未読</div></a>|<div class="english">unread</div>
+Basic (and reversed card)|custom|<div class="hiragana">むし</div><a href="https://jisho.org/search/無視"><div class="kanji">無視</div></a>|<div class="english">disregarding; ignoring</div>
+Basic (and reversed card)|custom|<div class="hiragana">とうじじょせい</div><a href="https://jisho.org/search/当時女性"><div class="kanji">当時女性</div></a>|<div class="english">women in those times</div>
+Basic (and reversed card)|custom|<div class="hiragana">しんしゅつ</div><a href="https://jisho.org/search/進出"><div class="kanji">進出</div></a>|<div class="english">advance; expand</div>
+Basic (and reversed card)|custom|<div class="hiragana">みぶん</div><a href="https://jisho.org/search/身分"><div class="kanji">身分</div></a>|<div class="english">ones social standing; identity</div>
+Basic (and reversed card)|custom|<div class="hiragana">みぶんしょうめいしょう</div><a href="https://jisho.org/search/身分証明書"><div class="kanji">身分証明書</div></a>|<div class="english">identification</div>
+Basic (and reversed card)|custom|<div class="hiragana">ふじみしか</div><a href="https://jisho.org/search/藤見歯科"><div class="kanji">藤見歯科</div></a>|<div class="english">fujimi dentist</div>
+Basic (and reversed card)|custom|<div class="hiragana">てんかいちゅう</div><a href="https://jisho.org/search/展開中"><div class="kanji">展開中</div></a>|<div class="english">development in progress</div>
+Basic (and reversed card)|custom|<div class="hiragana">げつまつ</div><a href="https://jisho.org/search/月末"><div class="kanji">月末</div></a>|<div class="english">end of the month</div>
+Basic (and reversed card)|custom|<div class="hiragana">かいあげ</div><a href="https://jisho.org/search/買い上げ"><div class="kanji">買い上げ</div></a>|<div class="english">buying; purchasing</div>
+Basic (and reversed card)|custom|<div class="hiragana">ふくげん</div><a href="https://jisho.org/search/復元"><div class="kanji">復元</div></a>|<div class="english">restoration</div>
+Basic (and reversed card)|custom|<div class="hiragana">ポイントりれき</div><a href="https://jisho.org/search/ポイント履歴"><div class="kanji">ポイント履歴</div></a>|<div class="english">point history</div>
+Basic (and reversed card)|custom|<div class="hiragana">えつらんりれき</div><a href="https://jisho.org/search/閲覧履歴"><div class="kanji">閲覧履歴</div></a>|<div class="english">search history</div>
+Basic (and reversed card)|custom|<div class="hiragana">えつらんしつ</div><a href="https://jisho.org/search/閲覧室"><div class="kanji">閲覧室</div></a>|<div class="english">reading room</div>
+Basic (and reversed card)|custom|<div class="hiragana">さくじょする</div><a href="https://jisho.org/search/削除する"><div class="kanji">削除する</div></a>|<div class="english">to delete; to erase</div>
+Basic (and reversed card)|custom|<div class="hiragana">こうしんする</div><a href="https://jisho.org/search/更新する"><div class="kanji">更新する</div></a>|<div class="english">to renew; to update</div>
+Basic (and reversed card)|custom|<div class="hiragana">よみあげ</div><a href="https://jisho.org/search/読み上げ"><div class="kanji">読み上げ</div></a>|<div class="english">reading aloud; recitation</div>
+Basic (and reversed card)|custom|<div class="hiragana">ついかする</div><a href="https://jisho.org/search/追加する"><div class="kanji">追加する</div></a>|<div class="english">to add; to append</div>
+Basic (and reversed card)|custom|<div class="hiragana">いどうする</div><a href="https://jisho.org/search/移動する"><div class="kanji">移動する</div></a>|<div class="english">to move; to transfer</div>
+Basic (and reversed card)|custom|<div class="hiragana">ほごする</div><a href="https://jisho.org/search/保護する"><div class="kanji">保護する</div></a>|<div class="english">to protect; to safeguard</div>
+Basic (and reversed card)|custom|<div class="hiragana">けんげん</div><a href="https://jisho.org/search/権限"><div class="kanji">権限</div></a>|<div class="english">power; authority</div>
+Basic (and reversed card)|custom|<div class="hiragana">すみだや</div><a href="https://jisho.org/search/隅田屋"><div class="kanji">隅田屋</div></a>|<div class="english">sumida-ya</div>
+Basic (and reversed card)|custom|<div class="hiragana">そうしんする</div><a href="https://jisho.org/search/送信する"><div class="kanji">送信する</div></a>|<div class="english">to send; to transmit</div>
+Basic (and reversed card)|custom|<div class="hiragana">げんじゅうちゅうい</div><a href="https://jisho.org/search/厳重注意"><div class="kanji">厳重注意</div></a>|<div class="english">stern warning; reprimanding</div>
+Basic (and reversed card)|custom|<div class="hiragana">へんきゃくかんりょう</div><a href="https://jisho.org/search/返却完了"><div class="kanji">返却完了</div></a>|<div class="english">return complete</div>
+Basic (and reversed card)|custom|<div class="hiragana">かしだしじこく</div><a href="https://jisho.org/search/貸出時刻"><div class="kanji">貸出時刻</div></a>|<div class="english">lending time</div>
+Basic (and reversed card)|custom|<div class="hiragana">はいしんせんよう</div><a href="https://jisho.org/search/配信専用"><div class="kanji">配信専用</div></a>|<div class="english">send-only; no reply</div>
+Basic (and reversed card)|custom|<div class="hiragana">しさんうんよう</div><a href="https://jisho.org/search/資産運用"><div class="kanji">資産運用</div></a>|<div class="english">asset management</div>
+Basic (and reversed card)|custom|<div class="hiragana">つうちょうきにゅう</div><a href="https://jisho.org/search/通帳記入"><div class="kanji">通帳記入</div></a>|<div class="english">passbook entry</div>
+Basic (and reversed card)|custom|<div class="hiragana">いちごんいっく</div><a href="https://jisho.org/search/一言一句"><div class="kanji">一言一句</div></a>|<div class="english">every single word and phrase</div>
+Basic (and reversed card)|custom|<div class="hiragana">れんたるだい</div><a href="https://jisho.org/search/レンタル代"><div class="kanji">レンタル代</div></a>|<div class="english">rental fee</div>
+Basic (and reversed card)|custom|<div class="hiragana">しょうとつちゅうい</div><a href="https://jisho.org/search/衝突注意"><div class="kanji">衝突注意</div></a>|<div class="english">be careful of collisions</div>
