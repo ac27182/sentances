@@ -8,7 +8,8 @@
     "execute:kanshudo_data_processor": "ts-node modules/kanshudo_data_processor/index.ts",
     "execute:anki_processor": "ts-node modules/kanshudo_data_processor/index.v2.ts",
     "execute:scrape": "ts-node modules/kanshudo_data_processor/scrape.ts",
-    "execute:scrape_kanjipedia": "ts-node modules/kanjipedia_scraper/reverse.ts"
+    "execute:scrape_kanjipedia": "ts-node modules/kanjipedia_scraper/reverse.ts",
+    "execute:vocab": "ts-node modules/jlpt_vocab/index.ts"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "dependencies": {
     "axios": "^1.9.0",
     "request": "^2.88.2",
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "uuid": "^13.0.0"
   }
 }
